@@ -9,8 +9,16 @@ class FeaturesData(object):
   
   """Constructor"""
   def __init__(self, featuresFn='./resources/features/feature.csv', dataFn='./resources/features/data.csv', weightsFn='./resources/features/weight.csv'):
-    
-    """Read feature names"""
+    self.readFeatures(featuresFn)
+    self.readRawData(dataFn)
+    self.loadFeaturePlugins()
+    self.performFeatureExtraction()
+    self.loadFeatureWeights(weightsFn)
+    self.prepareSimilaritiesMatrix()
+  
+  
+  """Read feature names"""
+  def readFeatures(self, featuresFn):
     self.featureIdsByName = {}
     for l in filter(None, map(lambda l: l.strip(), open(featuresFn, 'rt').readlines())):
       w = l.split(';')
@@ -23,8 +31,10 @@ class FeaturesData(object):
     self.featureNamesById = [None for _ in range(self.featuresCount)]
     for featureName, featureId in self.featureIdsByName.items():
       self.featureNamesById[featureId] = featureName
+  
     
-    """Read raw samples"""
+  """Read raw samples"""
+  def readRawData(self, dataFn):
     self.data = []
     for l in filter(None, map(lambda l: l.strip(), open(dataFn, 'rt').readlines())):
       w = l.split(';')
@@ -36,8 +46,10 @@ class FeaturesData(object):
     assert sum(row.count(None) for row in self.data) == 0
     
     self.samplesCount = len(self.data)
-    
-    """Load plugins"""
+  
+  
+  """Load plugins"""
+  def loadFeaturePlugins(self):
     self.featureSupportByName = {}
     for pluginFileBasename in os.listdir('plugins'):
       if not pluginFileBasename.endswith('.py'): continue
@@ -56,15 +68,19 @@ class FeaturesData(object):
     for featureName, featureSupport in self.featureSupportByName.items():
       featureId = self.featureIdsByName[featureName]
       self.featureSupportById[featureId] = featureSupport
-    
-    """Extract features from raw data"""
+  
+  
+  """Extract features from raw data"""
+  def performFeatureExtraction(self):
     self.extractedData = []
     for i, row in enumerate(self.data):
       self.extractedData.append([None for _ in range(self.featuresCount)])
       for j in range(self.featuresCount):
         self.extractedData[i][j] = self.featureSupportById[j].extract(i)
-    
-    """Load weights"""
+  
+  
+  """Load weights"""
+  def loadFeatureWeights(self, weightsFn):
     self.weights = np.empty(self.featuresCount, dtype=np.float64)
     self.weights.fill(-1.0)
     for l in filter(None, map(lambda l: l.strip(), open(weightsFn, 'rt').readlines())):
@@ -75,14 +91,7 @@ class FeaturesData(object):
       self.weights[featureId] = weight
     assert np.min(self.weights) >= 0.0
     assert abs(np.sum(self.weights) - 1.0) < 1e-10
-    
-    """Precalculate similarities matrix"""
-    self.similaritiesMatrix = np.empty([self.samplesCount, self.samplesCount], dtype=np.float64)
-    for k in range(self.samplesCount):
-      for l in range(k+1):
-        self.similaritiesMatrix[k, l] = self.calculateSimilarity(k, l)
-        self.similaritiesMatrix[l, k] = self.similaritiesMatrix[k, l]
-      assert abs(self.similaritiesMatrix[k, k] - 1.0) < 1e-10
+  
   
   """Calculate unknown similarity"""
   def calculateSimilarity(self, k, l):
@@ -91,6 +100,17 @@ class FeaturesData(object):
           for j in range(self.featuresCount)
       ], dtype=np.float64)
     return np.dot(self.weights, subsimilarities)
+  
+  
+  """Precalculate similarities matrix"""
+  def prepareSimilaritiesMatrix(self):
+    self.similaritiesMatrix = np.empty([self.samplesCount, self.samplesCount], dtype=np.float64)
+    for k in range(self.samplesCount):
+      for l in range(k+1):
+        self.similaritiesMatrix[k, l] = self.calculateSimilarity(k, l)
+        self.similaritiesMatrix[l, k] = self.similaritiesMatrix[k, l]
+      assert abs(self.similaritiesMatrix[k, k] - 1.0) < 1e-10
+  
   
   """Get precalculated similarity"""
   def similarity(self, k, l):
