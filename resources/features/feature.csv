@@ -1,0 +1,41 @@
+1;Basic: Budget
+2;Basic: Production date: season
+3;Basic: Production date: year
+4;Basic: Title
+5;Cast: average age
+6;Cast: three most important actors
+7;Crew: the first movie director
+8;Crew: the first movie producer
+9;Crew: the first screenplay writer
+10;Genre: is it action movie?
+11;Genre: is it adventure movie?
+12;Genre: is it animation?
+13;Genre: is it comedy?
+14;Genre: is it crime movie?
+15;Genre: is it drama?
+16;Genre: is it family movie?
+17;Genre: is it fantasy?
+18;Genre: is it film noir?
+19;Genre: is it history movie?
+20;Genre: is it horror?
+21;Genre: is it mystery movie?
+22;Genre: is it romance?
+23;Genre: is it science fiction?
+24;Genre: is it suspense movie?
+25;Genre: is it thriller?
+26;Genre: is it war movie?
+27;Genre: is it western?
+28;Regional: Production country: is it France?
+29;Regional: Production country: is it Germany?
+30;Regional: Production country: is it UK?
+31;Regional: Production country: is it USA?
+32;Regional: Spoken languages: is there English?
+33;Regional: Spoken languages: is there French?
+34;Regional: Spoken languages: is there German?
+35;Regional: Spoken languages: is there Italian?
+36;Regional: Spoken languages: is there Japanese?
+37;Regional: Spoken languages: is there Latin?
+38;Regional: Spoken languages: is there Russian?
+39;Regional: Spoken languages: is there Spanish?
+40;TMDB votes: average
+41;TMDB votes: count
