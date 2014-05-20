@@ -13,10 +13,10 @@ class FeatureSupport(object):
   
   """i -- number of row in raw self.featuresData.data"""
   def extract(self, i):
-    raise 'Implementation not provided, template called.'
+    raise Exception('Implementation not provided, template called.')
     return self[i]
   
   """a,b -- referenes to the results of extraction"""
   def similarity(self, a, b):
-    raise 'Implementation not provided, template called.'
+    raise Exception('Implementation not provided, template called.')
     return 1.0
