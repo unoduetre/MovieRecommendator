@@ -5,6 +5,7 @@
   overview - tekst, jaccard na tekście
   popularity - liczba
   production_companies - tekst, jaccard na tekście
+  production_countries - tekst, jaccard na napisach, mamy
   release_date - data
   revenue - liczba, aktualne dolary
   runtime - liczba, minuty
