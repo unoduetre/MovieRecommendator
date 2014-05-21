@@ -18,7 +18,8 @@ class NumericFeatureSupport(FeatureSupport):
     return (float(self[i]) - self.lo) * self.a
   
   def similarity(self, a, b):
-    return 1.0 - abs(a - b)
+    if a == b: return 1.0
+    return 1.0 - abs(a - b) / max(a, b)
 
 
 featureSupportLoadersByName = {}

@@ -89,17 +89,24 @@ class FeaturesData(object):
       featureId = self.featureIdsByName[featureName]
       weight = float(w[1])
       self.weights[featureId] = weight
+    
+    self.weights /= sum(self.weights)
+    
     assert np.min(self.weights) >= 0.0
     assert abs(np.sum(self.weights) - 1.0) < 1e-10
   
   
-  """Calculate unknown similarity"""
-  def calculateSimilarity(self, k, l):
-    subsimilarities = np.array([ \
+  """Calculate subsimilarities"""
+  def calculateSubsimilarities(self, k, l):
+    return np.array([ \
         self.featureSupportById[j].similarity(self.extractedData[k][j], self.extractedData[l][j]) \
           for j in range(self.featuresCount)
       ], dtype=np.float64)
-    return np.dot(self.weights, subsimilarities)
+  
+  
+  """Calculate unknown similarity"""
+  def calculateSimilarity(self, k, l):
+    return np.dot(self.weights, self.calculateSubsimilarities(k, l))
   
   
   """Precalculate similarities matrix"""

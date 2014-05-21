@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+import sys, os
 from ArrayBasedBoundedPriorityQueue import ArrayBasedBoundedPriorityQueue
 
 
@@ -47,7 +48,7 @@ class VoteGuesser(object):
     outputFh.close()
   
   """Print some self-validation statistics"""
-  def printReport(self):
+  def printReguessReport(self):
     errHistogram = [0 for _ in range(6)]
     for userId in self.userData:
       for movieId in self.userData[userId]:
@@ -61,3 +62,20 @@ class VoteGuesser(object):
     # difference between guessedVote and realVote: how often did it occur
     for i in range(6):
       print('%d:' % i, '%.2f%%' % (100.0 * errHistogram[i] / totalCount))
+    print(sum(errHistogram[i] * i for i in range(6)) / sum(errHistogram))
+  
+  """Print some self-validation statistics"""
+  def printSimilarityReport(self):
+    similaritiesByVoteDiff = [[] for _ in range(6)]
+    for userId in self.userData:
+      for movieIdA in self.userData[userId]:
+        for movieIdB in self.userData[userId]:
+          if movieIdA == movieIdB: continue
+          diff = abs(self.userData[userId][movieIdA] - self.userData[userId][movieIdB])
+          similaritiesByVoteDiff[diff].append(self.featuresData.similarity(movieIdA, movieIdB))
+    # difference between votes for a pair of movies: average similarity between them
+    for i in range(6):
+      print('%d:' % i, '%f' % (sum(similaritiesByVoteDiff[i]) / len(similaritiesByVoteDiff[i])))
+
+
+

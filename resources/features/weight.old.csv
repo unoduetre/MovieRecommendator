@@ -1,0 +1,41 @@
+Basic: Budget;0.0740740742
+Basic: Production date: season;0.0111111112
+Basic: Production date: year;0.0740740742
+Basic: Title;0.0111111112
+Cast: average age;0.0148148148
+Cast: three most important actors;0.0222222222
+Crew: the first movie director;0.0222222222
+Crew: the first movie producer;0.0185185185
+Crew: the first screenplay writer;0.0185185185
+Genre: is it action movie?;0.0259259259
+Genre: is it adventure movie?;0.0259259259
+Genre: is it animation?;0.0259259259
+Genre: is it comedy?;0.0259259259
+Genre: is it crime movie?;0.0259259259
+Genre: is it drama?;0.0259259259
+Genre: is it family movie?;0.0259259259
+Genre: is it fantasy?;0.0259259259
+Genre: is it film noir?;0.0259259259
+Genre: is it history movie?;0.0259259259
+Genre: is it horror?;0.0259259259
+Genre: is it mystery movie?;0.0259259259
+Genre: is it romance?;0.0259259259
+Genre: is it science fiction?;0.0259259259
+Genre: is it suspense movie?;0.0259259259
+Genre: is it thriller?;0.0259259259
+Genre: is it war movie?;0.0259259259
+Genre: is it western?;0.0259259259
+Regional: Production country: is it France?;0.0148148148
+Regional: Production country: is it Germany?;0.0148148148
+Regional: Production country: is it UK?;0.0148148148
+Regional: Production country: is it USA?;0.0148148148
+Regional: Spoken languages: is there English?;0.0074074074
+Regional: Spoken languages: is there French?;0.0074074074
+Regional: Spoken languages: is there German?;0.0074074074
+Regional: Spoken languages: is there Italian?;0.0074074074
+Regional: Spoken languages: is there Japanese?;0.0074074074
+Regional: Spoken languages: is there Latin?;0.0074074074
+Regional: Spoken languages: is there Russian?;0.0074074074
+Regional: Spoken languages: is there Spanish?;0.0074074074
+TMDB votes: average;0.0740740742
+TMDB votes: count;0.0740740742
