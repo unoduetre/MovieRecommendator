@@ -1,0 +1,32 @@
+/3/movie/{id}
+  adult
+  budget
+  genres
+  overview
+  popularity
+  production_companies
+  release_date
+  revenue
+  runtime
+  spoken_languages
+  tagline
+  title
+  vote_average
+  vote_count
+
+/3/movie/{id}/credits
+  cast
+  crew
+
+/3/movie/{id}/keywords
+  keywords
+
+/3/movie/{id}/similar
+  results
+
+/3/movie/{id}/reviews
+  results
+
+
+
+
