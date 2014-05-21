@@ -1,31 +1,31 @@
 /3/movie/{id}
-  adult
-  budget
-  genres
-  overview
-  popularity
-  production_companies
-  release_date
-  revenue
-  runtime
-  spoken_languages
-  tagline
-  title
-  vote_average
-  vote_count
+  adult - logiczne
+  budget - liczba, przeliczone dolary, mamy
+  genres - tekst, porównywanie i jaccard na napisach, wszystkie gatunki, mamy część
+  overview - tekst, jaccard na tekście
+  popularity - liczba
+  production_companies - tekst, jaccard na tekście
+  release_date - data
+  revenue - liczba, aktualne dolary
+  runtime - liczba, minuty
+  spoken_languages - tekst, jaccard na napisach, częściowo mamy
+  tagline - tekst, jaccard na tekście
+  title - tekst, jaccard na tekście, mamy
+  vote_average - liczba, mamy
+  vote_count - liczba, mamy
 
 /3/movie/{id}/credits
-  cast
-  crew
+  cast - ważna kolejność i imię+nazwisko
+  crew - indeksujemy po department i osobna cecha indeksujemy po job, a potem imię+nazwisko
 
 /3/movie/{id}/keywords
-  keywords
+  keywords - tekst, jaccard na napisach
 
 /3/movie/{id}/similar
-  results
+  results - jeśli film znajduje się w podobnych to 1, w innym wypadku 0
 
 /3/movie/{id}/reviews
-  results
+  results - tekst, multisetowy jaccard na złączonym tekście
 
 
 
