@@ -1,0 +1,8200 @@
+1;1;1;340000
+2;1;2;spring
+3;1;3;1957
+4;1;4;12 Angry Men
+5;1;5;44.833333333333336
+6;1;6;Henry Fonda,Lee J. Cobb,Ed Begley
+7;1;7;Sidney Lumet
+8;1;8;Henry Fonda
+9;1;9;Reginald Rose
+10;1;10;false
+11;1;11;false
+12;1;12;false
+13;1;13;false
+14;1;14;false
+15;1;15;true
+16;1;16;false
+17;1;17;false
+18;1;18;false
+19;1;19;false
+20;1;20;false
+21;1;21;false
+22;1;22;false
+23;1;23;false
+24;1;24;false
+25;1;25;false
+26;1;26;false
+27;1;27;false
+28;1;28;false
+29;1;29;false
+30;1;30;false
+31;1;31;true
+32;1;32;true
+33;1;33;false
+34;1;34;false
+35;1;35;false
+36;1;36;false
+37;1;37;false
+38;1;38;false
+39;1;39;false
+40;1;40;7.9
+41;1;41;488
+42;2;1;10500000
+43;2;2;spring
+44;2;3;1968
+45;2;4;2001: A Space Odyssey
+46;2;5;42.27272727272727
+47;2;6;Keir Dullea,Douglas Rain,Gary Lockwood
+48;2;7;Stanley Kubrick
+49;2;8;Stanley Kubrick
+50;2;9;Stanley Kubrick
+51;2;10;false
+52;2;11;true
+53;2;12;false
+54;2;13;false
+55;2;14;false
+56;2;15;false
+57;2;16;false
+58;2;17;false
+59;2;18;false
+60;2;19;false
+61;2;20;false
+62;2;21;true
+63;2;22;false
+64;2;23;true
+65;2;24;false
+66;2;25;false
+67;2;26;false
+68;2;27;false
+69;2;28;false
+70;2;29;false
+71;2;30;true
+72;2;31;true
+73;2;32;true
+74;2;33;false
+75;2;34;false
+76;2;35;false
+77;2;36;false
+78;2;37;false
+79;2;38;true
+80;2;39;false
+81;2;40;7.1
+82;2;41;590
+83;3;1;9000000
+84;3;2;winter
+85;3;3;2009
+86;3;4;3 Idiots
+87;3;5;38.4
+88;3;6;Aamir Khan,Kareena Kapoor,Madhavan
+89;3;7;Rajkumar Hirani
+90;3;8;Vidhu Vinod Chopra
+91;3;9;Rajkumar Hirani
+92;3;10;false
+93;3;11;false
+94;3;12;false
+95;3;13;true
+96;3;14;false
+97;3;15;true
+98;3;16;false
+99;3;17;false
+100;3;18;false
+101;3;19;false
+102;3;20;false
+103;3;21;false
+104;3;22;true
+105;3;23;false
+106;3;24;false
+107;3;25;false
+108;3;26;false
+109;3;27;false
+110;3;28;false
+111;3;29;false
+112;3;30;false
+113;3;31;false
+114;3;32;false
+115;3;33;false
+116;3;34;false
+117;3;35;false
+118;3;36;false
+119;3;37;false
+120;3;38;false
+121;3;39;false
+122;3;40;7.7
+123;3;41;460
+124;4;1;60000000
+125;4;2;autumn
+126;4;3;2001
+127;4;4;A Beautiful Mind
+128;4;5;40.9375
+129;4;6;Russell Crowe,Ed Harris,Jennifer Connelly
+130;4;7;Ron Howard
+131;4;8;Brian Grazer
+132;4;9;Akiva Goldsman
+133;4;10;false
+134;4;11;false
+135;4;12;false
+136;4;13;false
+137;4;14;false
+138;4;15;true
+139;4;16;false
+140;4;17;false
+141;4;18;false
+142;4;19;false
+143;4;20;false
+144;4;21;false
+145;4;22;true
+146;4;23;false
+147;4;24;false
+148;4;25;false
+149;4;26;false
+150;4;27;false
+151;4;28;false
+152;4;29;false
+153;4;30;false
+154;4;31;true
+155;4;32;true
+156;4;33;false
+157;4;34;false
+158;4;35;false
+159;4;36;false
+160;4;37;false
+161;4;38;false
+162;4;39;false
+163;4;40;6.8
+164;4;41;567
+165;5;1;2200000
+166;5;2;autumn
+167;5;3;1971
+168;5;4;A Clockwork Orange
+169;5;5;40.285714285714285
+170;5;6;Malcolm McDowell,Patrick Magee,Adrienne Corri
+171;5;7;Stanley Kubrick
+172;5;8;Stanley Kubrick
+173;5;9;Stanley Kubrick
+174;5;10;false
+175;5;11;false
+176;5;12;false
+177;5;13;false
+178;5;14;false
+179;5;15;true
+180;5;16;false
+181;5;17;false
+182;5;18;false
+183;5;19;false
+184;5;20;false
+185;5;21;false
+186;5;22;false
+187;5;23;false
+188;5;24;false
+189;5;25;false
+190;5;26;false
+191;5;27;false
+192;5;28;false
+193;5;29;false
+194;5;30;true
+195;5;31;true
+196;5;32;true
+197;5;33;false
+198;5;34;false
+199;5;35;false
+200;5;36;false
+201;5;37;false
+202;5;38;false
+203;5;39;false
+204;5;40;7.0
+205;5;41;612
+206;6;1;1800000
+207;6;2;winter
+208;6;3;1951
+209;6;4;A Streetcar Named Desire
+210;6;5;37.6
+211;6;6;Vivien Leigh,Marlon Brando,Kim Hunter
+212;6;7;Elia Kazan
+213;6;8;Charles K. Feldman
+214;6;9;Tennessee Williams
+215;6;10;false
+216;6;11;false
+217;6;12;false
+218;6;13;false
+219;6;14;false
+220;6;15;true
+221;6;16;false
+222;6;17;false
+223;6;18;false
+224;6;19;false
+225;6;20;false
+226;6;21;false
+227;6;22;false
+228;6;23;false
+229;6;24;false
+230;6;25;false
+231;6;26;false
+232;6;27;false
+233;6;28;false
+234;6;29;false
+235;6;30;false
+236;6;31;true
+237;6;32;true
+238;6;33;false
+239;6;34;false
+240;6;35;false
+241;6;36;false
+242;6;37;false
+243;6;38;false
+244;6;39;false
+245;6;40;6.4
+246;6;41;9
+247;7;1;11000000
+248;7;2;spring
+249;7;3;1979
+250;7;4;Alien
+251;7;5;42.5
+252;7;6;Sigourney Weaver,Tom Skerritt,Veronica Cartwright
+253;7;7;Ridley Scott
+254;7;8;Gordon Carroll
+255;7;9;Dan O'Bannon
+256;7;10;true
+257;7;11;false
+258;7;12;false
+259;7;13;false
+260;7;14;false
+261;7;15;false
+262;7;16;false
+263;7;17;false
+264;7;18;false
+265;7;19;false
+266;7;20;true
+267;7;21;false
+268;7;22;false
+269;7;23;true
+270;7;24;false
+271;7;25;true
+272;7;26;false
+273;7;27;false
+274;7;28;false
+275;7;29;false
+276;7;30;true
+277;7;31;true
+278;7;32;true
+279;7;33;false
+280;7;34;false
+281;7;35;false
+282;7;36;false
+283;7;37;false
+284;7;38;false
+285;7;39;true
+286;7;40;7.1
+287;7;41;1327
+288;8;1;1400000
+289;8;2;autumn
+290;8;3;1950
+291;8;4;All About Eve
+292;8;5;36.333333333333336
+293;8;6;Bette Davis,Anne Baxter,George Sanders
+294;8;7;Joseph L. Mankiewicz
+295;8;8;Darryl F. Zanuck
+296;8;9;Joseph L. Mankiewicz
+297;8;10;false
+298;8;11;false
+299;8;12;false
+300;8;13;false
+301;8;14;false
+302;8;15;true
+303;8;16;false
+304;8;17;false
+305;8;18;false
+306;8;19;false
+307;8;20;false
+308;8;21;false
+309;8;22;false
+310;8;23;false
+311;8;24;false
+312;8;25;false
+313;8;26;false
+314;8;27;false
+315;8;28;false
+316;8;29;false
+317;8;30;false
+318;8;31;true
+319;8;32;true
+320;8;33;true
+321;8;34;false
+322;8;35;false
+323;8;36;false
+324;8;37;false
+325;8;38;false
+326;8;39;false
+327;8;40;7.4
+328;8;41;14
+329;9;1;1250000
+330;9;2;spring
+331;9;3;1930
+332;9;4;All Quiet on the Western Front
+333;9;5;34.5
+334;9;6;Lew Ayres,Arnold Lucy,John Wray
+335;9;7;Lewis Milestone
+336;9;8;Carl Laemmle Jr.
+337;9;9;George Abbott
+338;9;10;true
+339;9;11;false
+340;9;12;false
+341;9;13;false
+342;9;14;false
+343;9;15;true
+344;9;16;false
+345;9;17;false
+346;9;18;false
+347;9;19;true
+348;9;20;false
+349;9;21;false
+350;9;22;false
+351;9;23;false
+352;9;24;false
+353;9;25;false
+354;9;26;true
+355;9;27;false
+356;9;28;false
+357;9;29;false
+358;9;30;false
+359;9;31;true
+360;9;32;true
+361;9;33;true
+362;9;34;true
+363;9;35;false
+364;9;36;false
+365;9;37;true
+366;9;38;false
+367;9;39;false
+368;9;40;7.9
+369;9;41;14
+370;10;1;18000000
+371;10;2;autumn
+372;10;3;1984
+373;10;4;Amadeus
+374;10;5;42.333333333333336
+375;10;6;F. Murray Abraham,Tom Hulce,Elizabeth Berridge
+376;10;7;Miloš Forman
+377;10;8;Saul Zaentz
+378;10;9;Peter Shaffer
+379;10;10;false
+380;10;11;false
+381;10;12;false
+382;10;13;false
+383;10;14;false
+384;10;15;true
+385;10;16;false
+386;10;17;false
+387;10;18;false
+388;10;19;true
+389;10;20;false
+390;10;21;false
+391;10;22;false
+392;10;23;false
+393;10;24;false
+394;10;25;false
+395;10;26;false
+396;10;27;false
+397;10;28;false
+398;10;29;false
+399;10;30;false
+400;10;31;true
+401;10;32;true
+402;10;33;false
+403;10;34;true
+404;10;35;true
+405;10;36;false
+406;10;37;true
+407;10;38;false
+408;10;39;false
+409;10;40;6.9
+410;10;41;200
+411;11;1;15000000
+412;11;2;summer
+413;11;3;1999
+414;11;4;American Beauty
+415;11;5;35.54545454545455
+416;11;6;Kevin Spacey,Annette Bening,Thora Birch
+417;11;7;Sam Mendes
+418;11;8;Bruce Cohen
+419;11;9;Alan Ball
+420;11;10;false
+421;11;11;false
+422;11;12;false
+423;11;13;false
+424;11;14;false
+425;11;15;true
+426;11;16;false
+427;11;17;false
+428;11;18;false
+429;11;19;false
+430;11;20;false
+431;11;21;false
+432;11;22;false
+433;11;23;false
+434;11;24;false
+435;11;25;false
+436;11;26;false
+437;11;27;false
+438;11;28;false
+439;11;29;false
+440;11;30;false
+441;11;31;true
+442;11;32;true
+443;11;33;false
+444;11;34;false
+445;11;35;false
+446;11;36;false
+447;11;37;false
+448;11;38;false
+449;11;39;false
+450;11;40;6.9
+451;11;41;515
+452;12;1;10000000
+453;12;2;autumn
+454;12;3;1998
+455;12;4;American History X
+456;12;5;36.0
+457;12;6;Edward Norton,Edward Furlong,Beverly D'Angelo
+458;12;7;Tony Kaye
+459;12;8;John Morrissey
+460;12;9;David McKenna
+461;12;10;false
+462;12;11;false
+463;12;12;false
+464;12;13;false
+465;12;14;false
+466;12;15;true
+467;12;16;false
+468;12;17;false
+469;12;18;false
+470;12;19;false
+471;12;20;false
+472;12;21;false
+473;12;22;false
+474;12;23;false
+475;12;24;false
+476;12;25;false
+477;12;26;false
+478;12;27;false
+479;12;28;false
+480;12;29;false
+481;12;30;false
+482;12;31;true
+483;12;32;true
+484;12;33;false
+485;12;34;false
+486;12;35;false
+487;12;36;false
+488;12;37;false
+489;12;38;false
+490;12;39;false
+491;12;40;7.3
+492;12;41;472
+493;13;1;2000000
+494;13;2;winter
+495;13;3;2000
+496;13;4;Amores Perros
+497;13;5;30.2
+498;13;6;Gael García Bernal,Vanessa Bauche,Goya Toledo
+499;13;7;Alejandro González Iñárritu
+500;13;8;Alejandro González Iñárritu
+501;13;9;NULL
+502;13;10;false
+503;13;11;false
+504;13;12;false
+505;13;13;false
+506;13;14;false
+507;13;15;true
+508;13;16;false
+509;13;17;false
+510;13;18;false
+511;13;19;false
+512;13;20;false
+513;13;21;false
+514;13;22;false
+515;13;23;false
+516;13;24;false
+517;13;25;true
+518;13;26;false
+519;13;27;false
+520;13;28;false
+521;13;29;false
+522;13;30;false
+523;13;31;false
+524;13;32;false
+525;13;33;false
+526;13;34;false
+527;13;35;false
+528;13;36;false
+529;13;37;false
+530;13;38;false
+531;13;39;true
+532;13;40;7.4
+533;13;41;75
+534;14;1;0
+535;14;2;summer
+536;14;3;1959
+537;14;4;Anatomy of a Murder
+538;14;5;42.2
+539;14;6;James Stewart,Lee Remick,Ben Gazzara
+540;14;7;Otto Preminger
+541;14;8;Otto Preminger
+542;14;9;Wendell Mayes
+543;14;10;false
+544;14;11;false
+545;14;12;false
+546;14;13;false
+547;14;14;true
+548;14;15;true
+549;14;16;false
+550;14;17;false
+551;14;18;false
+552;14;19;false
+553;14;20;false
+554;14;21;true
+555;14;22;false
+556;14;23;false
+557;14;24;false
+558;14;25;true
+559;14;26;false
+560;14;27;false
+561;14;28;false
+562;14;29;false
+563;14;30;false
+564;14;31;true
+565;14;32;true
+566;14;33;false
+567;14;34;false
+568;14;35;false
+569;14;36;false
+570;14;37;false
+571;14;38;false
+572;14;39;false
+573;14;40;7.0
+574;14;41;14
+575;15;1;4000000
+576;15;2;spring
+577;15;3;1977
+578;15;4;Annie Hall
+579;15;5;35.64705882352941
+580;15;6;Woody Allen,Diane Keaton,Tony Roberts
+581;15;7;Woody Allen
+582;15;8;Charles H. Joffe
+583;15;9;Woody Allen
+584;15;10;false
+585;15;11;false
+586;15;12;false
+587;15;13;true
+588;15;14;false
+589;15;15;true
+590;15;16;false
+591;15;17;false
+592;15;18;false
+593;15;19;false
+594;15;20;false
+595;15;21;false
+596;15;22;true
+597;15;23;false
+598;15;24;false
+599;15;25;false
+600;15;26;false
+601;15;27;false
+602;15;28;false
+603;15;29;false
+604;15;30;false
+605;15;31;true
+606;15;32;true
+607;15;33;false
+608;15;34;true
+609;15;35;false
+610;15;36;false
+611;15;37;false
+612;15;38;false
+613;15;39;false
+614;15;40;7.5
+615;15;41;70
+616;16;1;31500000
+617;16;2;summer
+618;16;3;1979
+619;16;4;Apocalypse Now
+620;16;5;39.38461538461539
+621;16;6;Martin Sheen,Marlon Brando,Robert Duvall
+622;16;7;Francis Ford Coppola
+623;16;8;Francis Ford Coppola
+624;16;9;John Milius
+625;16;10;true
+626;16;11;false
+627;16;12;false
+628;16;13;false
+629;16;14;false
+630;16;15;true
+631;16;16;false
+632;16;17;false
+633;16;18;false
+634;16;19;false
+635;16;20;false
+636;16;21;false
+637;16;22;false
+638;16;23;false
+639;16;24;false
+640;16;25;false
+641;16;26;true
+642;16;27;false
+643;16;28;false
+644;16;29;false
+645;16;30;false
+646;16;31;true
+647;16;32;true
+648;16;33;false
+649;16;34;false
+650;16;35;false
+651;16;36;false
+652;16;37;false
+653;16;38;false
+654;16;39;false
+655;16;40;7.1
+656;16;41;301
+657;17;1;1120175
+658;17;2;autumn
+659;17;3;1944
+660;17;4;Arsenic and Old Lace
+661;17;5;51.333333333333336
+662;17;6;Cary Grant,Priscilla Lane,Raymond Massey
+663;17;7;Frank Capra
+664;17;8;Frank Capra
+665;17;9;Julius J. Epstein
+666;17;10;false
+667;17;11;false
+668;17;12;false
+669;17;13;true
+670;17;14;true
+671;17;15;false
+672;17;16;false
+673;17;17;false
+674;17;18;false
+675;17;19;false
+676;17;20;false
+677;17;21;false
+678;17;22;false
+679;17;23;false
+680;17;24;false
+681;17;25;false
+682;17;26;false
+683;17;27;false
+684;17;28;false
+685;17;29;false
+686;17;30;false
+687;17;31;true
+688;17;32;true
+689;17;33;false
+690;17;34;true
+691;17;35;false
+692;17;36;false
+693;17;37;false
+694;17;38;false
+695;17;39;false
+696;17;40;7.3
+697;17;41;62
+698;18;1;19000000
+699;18;2;summer
+700;18;3;1985
+701;18;4;Back to the Future
+702;18;5;33.23076923076923
+703;18;6;Michael J. Fox,Christopher Lloyd,Lea Thompson
+704;18;7;Robert Zemeckis
+705;18;8;Bob Gale
+706;18;9;NULL
+707;18;10;false
+708;18;11;true
+709;18;12;false
+710;18;13;true
+711;18;14;false
+712;18;15;false
+713;18;16;true
+714;18;17;false
+715;18;18;false
+716;18;19;false
+717;18;20;false
+718;18;21;false
+719;18;22;false
+720;18;23;true
+721;18;24;false
+722;18;25;false
+723;18;26;false
+724;18;27;false
+725;18;28;false
+726;18;29;false
+727;18;30;false
+728;18;31;true
+729;18;32;true
+730;18;33;false
+731;18;34;false
+732;18;35;false
+733;18;36;false
+734;18;37;false
+735;18;38;false
+736;18;39;false
+737;18;40;7.3
+738;18;41;1822
+739;19;1;11000000
+740;19;2;autumn
+741;19;3;1975
+742;19;4;Barry Lyndon
+743;19;5;45.25
+744;19;6;Ryan O'Neal,Marisa Berenson,Hardy Krüger
+745;19;7;Stanley Kubrick
+746;19;8;Stanley Kubrick
+747;19;9;Stanley Kubrick
+748;19;10;false
+749;19;11;false
+750;19;12;false
+751;19;13;false
+752;19;14;false
+753;19;15;true
+754;19;16;false
+755;19;17;false
+756;19;18;false
+757;19;19;false
+758;19;20;false
+759;19;21;false
+760;19;22;true
+761;19;23;false
+762;19;24;false
+763;19;25;false
+764;19;26;true
+765;19;27;false
+766;19;28;false
+767;19;29;false
+768;19;30;true
+769;19;31;true
+770;19;32;true
+771;19;33;true
+772;19;34;true
+773;19;35;false
+774;19;36;false
+775;19;37;false
+776;19;38;false
+777;19;39;false
+778;19;40;7.1
+779;19;41;65
+780;20;1;150000000
+781;20;2;spring
+782;20;3;2005
+783;20;4;Batman Begins
+784;20;5;44.5625
+785;20;6;Christian Bale,Michael Caine,Liam Neeson
+786;20;7;Christopher Nolan
+787;20;8;Emma Thomas
+788;20;9;NULL
+789;20;10;true
+790;20;11;false
+791;20;12;false
+792;20;13;false
+793;20;14;true
+794;20;15;true
+795;20;16;false
+796;20;17;false
+797;20;18;false
+798;20;19;false
+799;20;20;false
+800;20;21;false
+801;20;22;false
+802;20;23;false
+803;20;24;false
+804;20;25;false
+805;20;26;false
+806;20;27;false
+807;20;28;false
+808;20;29;false
+809;20;30;true
+810;20;31;true
+811;20;32;true
+812;20;33;false
+813;20;34;false
+814;20;35;false
+815;20;36;false
+816;20;37;false
+817;20;38;false
+818;20;39;false
+819;20;40;7.0
+820;20;41;2505
+821;21;1;25000000
+822;21;2;autumn
+823;21;3;1991
+824;21;4;Beauty and the Beast
+825;21;5;48.92857142857143
+826;21;6;Paige O'Hara,Robby Benson,Richard White
+827;21;7;Gary Trousdale
+828;21;8;Don Hahn
+829;21;9;Linda Woolverton
+830;21;10;false
+831;21;11;false
+832;21;12;true
+833;21;13;false
+834;21;14;false
+835;21;15;false
+836;21;16;true
+837;21;17;false
+838;21;18;false
+839;21;19;false
+840;21;20;false
+841;21;21;false
+842;21;22;false
+843;21;23;false
+844;21;24;false
+845;21;25;false
+846;21;26;false
+847;21;27;false
+848;21;28;false
+849;21;29;false
+850;21;30;false
+851;21;31;true
+852;21;32;true
+853;21;33;true
+854;21;34;true
+855;21;35;false
+856;21;36;false
+857;21;37;false
+858;21;38;false
+859;21;39;false
+860;21;40;6.7
+861;21;41;782
+862;22;1;2500000
+863;22;2;winter
+864;22;3;1995
+865;22;4;Before Sunrise
+866;22;5;40.4
+867;22;6;Ethan Hawke,Julie Delpy,Andrea Eckert
+868;22;7;Richard Linklater
+869;22;8;Anne Walker-McBay
+870;22;9;Richard Linklater
+871;22;10;false
+872;22;11;false
+873;22;12;false
+874;22;13;false
+875;22;14;false
+876;22;15;true
+877;22;16;false
+878;22;17;false
+879;22;18;false
+880;22;19;false
+881;22;20;false
+882;22;21;false
+883;22;22;true
+884;22;23;false
+885;22;24;false
+886;22;25;false
+887;22;26;false
+888;22;27;false
+889;22;28;false
+890;22;29;false
+891;22;30;false
+892;22;31;true
+893;22;32;true
+894;22;33;true
+895;22;34;true
+896;22;35;false
+897;22;36;false
+898;22;37;false
+899;22;38;false
+900;22;39;false
+901;22;40;7.3
+902;22;41;209
+903;23;1;15000000
+904;23;2;autumn
+905;23;3;1959
+906;23;4;Ben-Hur
+907;23;5;45.72727272727273
+908;23;6;Charlton Heston,Jack Hawkins,Haya Harareet
+909;23;7;William Wyler
+910;23;8;Sam Zimbalist
+911;23;9;Karl Tunberg
+912;23;10;true
+913;23;11;true
+914;23;12;false
+915;23;13;false
+916;23;14;false
+917;23;15;true
+918;23;16;false
+919;23;17;false
+920;23;18;false
+921;23;19;true
+922;23;20;false
+923;23;21;false
+924;23;22;false
+925;23;23;false
+926;23;24;false
+927;23;25;false
+928;23;26;false
+929;23;27;false
+930;23;28;false
+931;23;29;false
+932;23;30;false
+933;23;31;true
+934;23;32;true
+935;23;33;false
+936;23;34;false
+937;23;35;false
+938;23;36;false
+939;23;37;false
+940;23;38;false
+941;23;39;false
+942;23;40;6.7
+943;23;41;121
+944;24;1;13000000
+945;24;2;autumn
+946;24;3;2010
+947;24;4;Black Swan
+948;24;5;40.5625
+949;24;6;Natalie Portman,Christopher Gartin,Mila Kunis
+950;24;7;Darren Aronofsky
+951;24;8;Scott Franklin
+952;24;9;Mark Heyman
+953;24;10;false
+954;24;11;false
+955;24;12;false
+956;24;13;false
+957;24;14;false
+958;24;15;true
+959;24;16;false
+960;24;17;false
+961;24;18;false
+962;24;19;false
+963;24;20;false
+964;24;21;true
+965;24;22;false
+966;24;23;false
+967;24;24;true
+968;24;25;true
+969;24;26;false
+970;24;27;false
+971;24;28;false
+972;24;29;false
+973;24;30;false
+974;24;31;true
+975;24;32;true
+976;24;33;true
+977;24;34;false
+978;24;35;true
+979;24;36;false
+980;24;37;false
+981;24;38;false
+982;24;39;false
+983;24;40;6.4
+984;24;41;923
+985;25;1;28000000
+986;25;2;summer
+987;25;3;1982
+988;25;4;Blade Runner
+989;25;5;41.0
+990;25;6;Harrison Ford,Rutger Hauer,Sean Young
+991;25;7;Ridley Scott
+992;25;8;Michael Deeley
+993;25;9;Hampton Fancher
+994;25;10;false
+995;25;11;false
+996;25;12;false
+997;25;13;false
+998;25;14;false
+999;25;15;true
+1000;25;16;false
+1001;25;17;false
+1002;25;18;false
+1003;25;19;false
+1004;25;20;false
+1005;25;21;false
+1006;25;22;false
+1007;25;23;true
+1008;25;24;false
+1009;25;25;true
+1010;25;26;false
+1011;25;27;false
+1012;25;28;false
+1013;25;29;false
+1014;25;30;true
+1015;25;31;true
+1016;25;32;true
+1017;25;33;false
+1018;25;34;true
+1019;25;35;false
+1020;25;36;true
+1021;25;37;false
+1022;25;38;false
+1023;25;39;false
+1024;25;40;7.5
+1025;25;41;949
+1026;26;1;72000000
+1027;26;2;spring
+1028;26;3;1995
+1029;26;4;Braveheart
+1030;26;5;36.40909090909091
+1031;26;6;Mel Gibson,Catherine McCormack,Sophie Marceau
+1032;26;7;Mel Gibson
+1033;26;8;Mel Gibson
+1034;26;9;Randall Wallace
+1035;26;10;true
+1036;26;11;false
+1037;26;12;false
+1038;26;13;false
+1039;26;14;false
+1040;26;15;true
+1041;26;16;false
+1042;26;17;false
+1043;26;18;false
+1044;26;19;true
+1045;26;20;false
+1046;26;21;false
+1047;26;22;false
+1048;26;23;false
+1049;26;24;false
+1050;26;25;false
+1051;26;26;true
+1052;26;27;false
+1053;26;28;false
+1054;26;29;false
+1055;26;30;false
+1056;26;31;true
+1057;26;32;true
+1058;26;33;true
+1059;26;34;false
+1060;26;35;false
+1061;26;36;false
+1062;26;37;true
+1063;26;38;false
+1064;26;39;false
+1065;26;40;7.2
+1066;26;41;1209
+1067;27;1;6000000
+1068;27;2;autumn
+1069;27;3;1969
+1070;27;4;Butch Cassidy and the Sundance Kid
+1071;27;5;41.470588235294116
+1072;27;6;Paul Newman,Robert Redford,Katharine Ross
+1073;27;7;George Roy Hill
+1074;27;8;John Foreman
+1075;27;9;William Goldman
+1076;27;10;false
+1077;27;11;false
+1078;27;12;false
+1079;27;13;false
+1080;27;14;false
+1081;27;15;false
+1082;27;16;false
+1083;27;17;false
+1084;27;18;false
+1085;27;19;false
+1086;27;20;false
+1087;27;21;false
+1088;27;22;false
+1089;27;23;false
+1090;27;24;false
+1091;27;25;false
+1092;27;26;false
+1093;27;27;true
+1094;27;28;false
+1095;27;29;false
+1096;27;30;false
+1097;27;31;true
+1098;27;32;true
+1099;27;33;false
+1100;27;34;false
+1101;27;35;false
+1102;27;36;false
+1103;27;37;false
+1104;27;38;false
+1105;27;39;true
+1106;27;40;6.3
+1107;27;41;172
+1108;28;1;950000
+1109;28;2;autumn
+1110;28;3;1942
+1111;28;4;Casablanca
+1112;28;5;41.5
+1113;28;6;Humphrey Bogart,Ingrid Bergman,Paul Henreid
+1114;28;7;Michael Curtiz
+1115;28;8;Hal B. Wallis
+1116;28;9;Julius J. Epstein
+1117;28;10;false
+1118;28;11;false
+1119;28;12;false
+1120;28;13;false
+1121;28;14;false
+1122;28;15;true
+1123;28;16;false
+1124;28;17;false
+1125;28;18;false
+1126;28;19;false
+1127;28;20;false
+1128;28;21;false
+1129;28;22;true
+1130;28;23;false
+1131;28;24;false
+1132;28;25;false
+1133;28;26;true
+1134;28;27;false
+1135;28;28;false
+1136;28;29;false
+1137;28;30;false
+1138;28;31;true
+1139;28;32;true
+1140;28;33;true
+1141;28;34;true
+1142;28;35;true
+1143;28;36;false
+1144;28;37;false
+1145;28;38;false
+1146;28;39;false
+1147;28;40;7.2
+1148;28;41;332
+1149;29;1;52000000
+1150;29;2;autumn
+1151;29;3;1995
+1152;29;4;Casino
+1153;29;5;51.77777777777778
+1154;29;6;Robert De Niro,Sharon Stone,Joe Pesci
+1155;29;7;Martin Scorsese
+1156;29;8;Barbara De Fina
+1157;29;9;Martin Scorsese
+1158;29;10;true
+1159;29;11;false
+1160;29;12;false
+1161;29;13;false
+1162;29;14;true
+1163;29;15;true
+1164;29;16;false
+1165;29;17;false
+1166;29;18;false
+1167;29;19;false
+1168;29;20;false
+1169;29;21;false
+1170;29;22;false
+1171;29;23;false
+1172;29;24;false
+1173;29;25;false
+1174;29;26;false
+1175;29;27;false
+1176;29;28;true
+1177;29;29;false
+1178;29;30;false
+1179;29;31;true
+1180;29;32;true
+1181;29;33;true
+1182;29;34;false
+1183;29;35;false
+1184;29;36;false
+1185;29;37;false
+1186;29;38;false
+1187;29;39;false
+1188;29;40;7.2
+1189;29;41;223
+1190;30;1;3200000
+1191;30;2;spring
+1192;30;3;1974
+1193;30;4;Chinatown
+1194;30;5;48.1578947368421
+1195;30;6;Jack Nicholson,Faye Dunaway,John Huston
+1196;30;7;Roman Polanski
+1197;30;8;Robert Evans
+1198;30;9;Robert Towne
+1199;30;10;false
+1200;30;11;false
+1201;30;12;false
+1202;30;13;false
+1203;30;14;true
+1204;30;15;true
+1205;30;16;false
+1206;30;17;false
+1207;30;18;false
+1208;30;19;false
+1209;30;20;false
+1210;30;21;true
+1211;30;22;false
+1212;30;23;false
+1213;30;24;false
+1214;30;25;true
+1215;30;26;false
+1216;30;27;false
+1217;30;28;false
+1218;30;29;false
+1219;30;30;false
+1220;30;31;true
+1221;30;32;true
+1222;30;33;false
+1223;30;34;false
+1224;30;35;false
+1225;30;36;false
+1226;30;37;false
+1227;30;38;false
+1228;30;39;true
+1229;30;40;7.2
+1230;30;41;109
+1231;31;1;3300000
+1232;31;2;summer
+1233;31;3;2002
+1234;31;4;City of God
+1235;31;5;28.0
+1236;31;6;Alexandre Rodrigues,Leandro Firmino,Phellipe Haagensen
+1237;31;7;Fernando Meirelles
+1238;31;8;Andrea Barata Ribeiro
+1239;31;9;Bráulio Mantovani
+1240;31;10;false
+1241;31;11;false
+1242;31;12;false
+1243;31;13;false
+1244;31;14;true
+1245;31;15;true
+1246;31;16;false
+1247;31;17;false
+1248;31;18;false
+1249;31;19;false
+1250;31;20;false
+1251;31;21;false
+1252;31;22;false
+1253;31;23;false
+1254;31;24;false
+1255;31;25;false
+1256;31;26;false
+1257;31;27;false
+1258;31;28;true
+1259;31;29;false
+1260;31;30;false
+1261;31;31;false
+1262;31;32;false
+1263;31;33;false
+1264;31;34;false
+1265;31;35;false
+1266;31;36;false
+1267;31;37;false
+1268;31;38;false
+1269;31;39;false
+1270;31;40;7.6
+1271;31;41;388
+1272;32;1;839727
+1273;32;2;spring
+1274;32;3;1941
+1275;32;4;Citizen Kane
+1276;32;5;37.5625
+1277;32;6;Joseph Cotten,Orson Welles,Agnes Moorehead
+1278;32;7;Orson Welles
+1279;32;8;Orson Welles
+1280;32;9;Orson Welles
+1281;32;10;false
+1282;32;11;false
+1283;32;12;false
+1284;32;13;false
+1285;32;14;false
+1286;32;15;true
+1287;32;16;false
+1288;32;17;false
+1289;32;18;false
+1290;32;19;false
+1291;32;20;false
+1292;32;21;false
+1293;32;22;false
+1294;32;23;false
+1295;32;24;false
+1296;32;25;false
+1297;32;26;false
+1298;32;27;false
+1299;32;28;false
+1300;32;29;false
+1301;32;30;false
+1302;32;31;true
+1303;32;32;true
+1304;32;33;false
+1305;32;34;false
+1306;32;35;false
+1307;32;36;false
+1308;32;37;false
+1309;32;38;false
+1310;32;39;false
+1311;32;40;7.4
+1312;32;41;173
+1313;33;1;1500000
+1314;33;2;winter
+1315;33;3;1931
+1316;33;4;City Lights
+1317;33;5;40.833333333333336
+1318;33;6;Charles Chaplin,Virginia Cherrill,Florence Lee
+1319;33;7;Charles Chaplin
+1320;33;8;Charles Chaplin
+1321;33;9;Charles Chaplin
+1322;33;10;false
+1323;33;11;false
+1324;33;12;false
+1325;33;13;true
+1326;33;14;false
+1327;33;15;true
+1328;33;16;false
+1329;33;17;false
+1330;33;18;false
+1331;33;19;false
+1332;33;20;false
+1333;33;21;false
+1334;33;22;true
+1335;33;23;false
+1336;33;24;false
+1337;33;25;false
+1338;33;26;false
+1339;33;27;false
+1340;33;28;false
+1341;33;29;false
+1342;33;30;false
+1343;33;31;true
+1344;33;32;true
+1345;33;33;false
+1346;33;34;false
+1347;33;35;false
+1348;33;36;false
+1349;33;37;false
+1350;33;38;false
+1351;33;39;false
+1352;33;40;7.9
+1353;33;41;33
+1354;34;1;0
+1355;34;2;autumn
+1356;34;3;1967
+1357;34;4;Cool Hand Luke
+1358;34;5;39.05882352941177
+1359;34;6;Paul Newman,George Kennedy,Luke Askew
+1360;34;7;Stuart Rosenberg
+1361;34;8;Gordon Carroll
+1362;34;9;Frank Pierson
+1363;34;10;false
+1364;34;11;false
+1365;34;12;false
+1366;34;13;false
+1367;34;14;true
+1368;34;15;true
+1369;34;16;false
+1370;34;17;false
+1371;34;18;false
+1372;34;19;false
+1373;34;20;false
+1374;34;21;false
+1375;34;22;false
+1376;34;23;false
+1377;34;24;false
+1378;34;25;false
+1379;34;26;false
+1380;34;27;false
+1381;34;28;false
+1382;34;29;false
+1383;34;30;false
+1384;34;31;true
+1385;34;32;true
+1386;34;33;false
+1387;34;34;false
+1388;34;35;false
+1389;34;36;false
+1390;34;37;false
+1391;34;38;false
+1392;34;39;false
+1393;34;40;6.9
+1394;34;41;49
+1395;35;1;28000000
+1396;35;2;summer
+1397;35;3;1988
+1398;35;4;Die Hard
+1399;35;5;38.733333333333334
+1400;35;6;Bruce Willis,Alan Rickman,Reginald VelJohnson
+1401;35;7;John McTiernan
+1402;35;8;Lawrence Gordon
+1403;35;9;Jeb Stuart
+1404;35;10;true
+1405;35;11;false
+1406;35;12;false
+1407;35;13;false
+1408;35;14;false
+1409;35;15;false
+1410;35;16;false
+1411;35;17;false
+1412;35;18;false
+1413;35;19;false
+1414;35;20;false
+1415;35;21;false
+1416;35;22;false
+1417;35;23;false
+1418;35;24;false
+1419;35;25;true
+1420;35;26;false
+1421;35;27;false
+1422;35;28;false
+1423;35;29;false
+1424;35;30;false
+1425;35;31;true
+1426;35;32;true
+1427;35;33;false
+1428;35;34;true
+1429;35;35;true
+1430;35;36;false
+1431;35;37;false
+1432;35;38;false
+1433;35;39;false
+1434;35;40;6.8
+1435;35;41;1663
+1436;36;1;30000000
+1437;36;2;summer
+1438;36;3;2009
+1439;36;4;District 9
+1440;36;5;46.25
+1441;36;6;Sharlto Copley,Jason Cope,Nathalie Boltt
+1442;36;7;Neill Blomkamp
+1443;36;8;Peter Jackson
+1444;36;9;Terri Tatchell
+1445;36;10;true
+1446;36;11;false
+1447;36;12;false
+1448;36;13;false
+1449;36;14;false
+1450;36;15;false
+1451;36;16;false
+1452;36;17;false
+1453;36;18;false
+1454;36;19;false
+1455;36;20;false
+1456;36;21;false
+1457;36;22;false
+1458;36;23;true
+1459;36;24;false
+1460;36;25;true
+1461;36;26;false
+1462;36;27;false
+1463;36;28;false
+1464;36;29;false
+1465;36;30;false
+1466;36;31;true
+1467;36;32;true
+1468;36;33;false
+1469;36;34;false
+1470;36;35;false
+1471;36;36;false
+1472;36;37;false
+1473;36;38;true
+1474;36;39;false
+1475;36;40;6.7
+1476;36;41;763
+1477;37;1;100000000
+1478;37;2;winter
+1479;37;3;2012
+1480;37;4;Django Unchained
+1481;37;5;53.69565217391305
+1482;37;6;Jamie Foxx,Christoph Waltz,Leonardo DiCaprio
+1483;37;7;Quentin Tarantino
+1484;37;8;Reginald Hudlin
+1485;37;9;NULL
+1486;37;10;false
+1487;37;11;false
+1488;37;12;false
+1489;37;13;false
+1490;37;14;false
+1491;37;15;true
+1492;37;16;false
+1493;37;17;false
+1494;37;18;false
+1495;37;19;false
+1496;37;20;false
+1497;37;21;false
+1498;37;22;false
+1499;37;23;false
+1500;37;24;false
+1501;37;25;false
+1502;37;26;false
+1503;37;27;true
+1504;37;28;false
+1505;37;29;false
+1506;37;30;false
+1507;37;31;true
+1508;37;32;true
+1509;37;33;true
+1510;37;34;true
+1511;37;35;false
+1512;37;36;false
+1513;37;37;false
+1514;37;38;false
+1515;37;39;false
+1516;37;40;7.2
+1517;37;41;4199
+1518;38;1;0
+1519;38;2;summer
+1520;38;3;1975
+1521;38;4;Dog Day Afternoon
+1522;38;5;38.18181818181818
+1523;38;6;Al Pacino,John Cazale,Charles Durning
+1524;38;7;Sidney Lumet
+1525;38;8;Martin Bregman
+1526;38;9;Frank Pierson
+1527;38;10;false
+1528;38;11;false
+1529;38;12;false
+1530;38;13;false
+1531;38;14;true
+1532;38;15;true
+1533;38;16;false
+1534;38;17;false
+1535;38;18;false
+1536;38;19;false
+1537;38;20;false
+1538;38;21;false
+1539;38;22;false
+1540;38;23;false
+1541;38;24;false
+1542;38;25;true
+1543;38;26;false
+1544;38;27;false
+1545;38;28;false
+1546;38;29;false
+1547;38;30;false
+1548;38;31;true
+1549;38;32;true
+1550;38;33;false
+1551;38;34;false
+1552;38;35;false
+1553;38;36;false
+1554;38;37;false
+1555;38;38;false
+1556;38;39;false
+1557;38;40;7.1
+1558;38;41;97
+1559;39;1;4500000
+1560;39;2;autumn
+1561;39;3;2001
+1562;39;4;Donnie Darko
+1563;39;5;34.666666666666664
+1564;39;6;Jake Gyllenhaal,Patrick Swayze,Drew Barrymore
+1565;39;7;Richard Kelly
+1566;39;8;Adam Fields
+1567;39;9;Richard Kelly
+1568;39;10;false
+1569;39;11;false
+1570;39;12;false
+1571;39;13;false
+1572;39;14;false
+1573;39;15;true
+1574;39;16;false
+1575;39;17;false
+1576;39;18;false
+1577;39;19;false
+1578;39;20;false
+1579;39;21;true
+1580;39;22;false
+1581;39;23;true
+1582;39;24;false
+1583;39;25;true
+1584;39;26;false
+1585;39;27;false
+1586;39;28;false
+1587;39;29;false
+1588;39;30;false
+1589;39;31;true
+1590;39;32;true
+1591;39;33;false
+1592;39;34;false
+1593;39;35;false
+1594;39;36;false
+1595;39;37;false
+1596;39;38;false
+1597;39;39;false
+1598;39;40;7.2
+1599;39;41;501
+1600;40;1;927262
+1601;40;2;summer
+1602;40;3;1944
+1603;40;4;Double Indemnity
+1604;40;5;43.25
+1605;40;6;Fred MacMurray,Barbara Stanwyck,Edward G. Robinson
+1606;40;7;Billy Wilder
+1607;40;8;Joseph Sistrom
+1608;40;9;Billy Wilder
+1609;40;10;false
+1610;40;11;false
+1611;40;12;false
+1612;40;13;false
+1613;40;14;false
+1614;40;15;true
+1615;40;16;false
+1616;40;17;false
+1617;40;18;true
+1618;40;19;false
+1619;40;20;false
+1620;40;21;true
+1621;40;22;false
+1622;40;23;false
+1623;40;24;false
+1624;40;25;true
+1625;40;26;false
+1626;40;27;false
+1627;40;28;false
+1628;40;29;false
+1629;40;30;false
+1630;40;31;true
+1631;40;32;true
+1632;40;33;false
+1633;40;34;false
+1634;40;35;false
+1635;40;36;false
+1636;40;37;false
+1637;40;38;false
+1638;40;39;false
+1639;40;40;7.1
+1640;40;41;40
+1641;41;1;1800000
+1642;41;2;winter
+1643;41;3;1964
+1644;41;4;Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+1645;41;5;39.44444444444444
+1646;41;6;Peter Sellers,George C. Scott,Sterling Hayden
+1647;41;7;Stanley Kubrick
+1648;41;8;Stanley Kubrick
+1649;41;9;Stanley Kubrick
+1650;41;10;false
+1651;41;11;false
+1652;41;12;false
+1653;41;13;true
+1654;41;14;false
+1655;41;15;true
+1656;41;16;false
+1657;41;17;false
+1658;41;18;false
+1659;41;19;false
+1660;41;20;false
+1661;41;21;false
+1662;41;22;false
+1663;41;23;false
+1664;41;24;false
+1665;41;25;false
+1666;41;26;true
+1667;41;27;false
+1668;41;28;false
+1669;41;29;false
+1670;41;30;true
+1671;41;31;false
+1672;41;32;true
+1673;41;33;false
+1674;41;34;false
+1675;41;35;false
+1676;41;36;false
+1677;41;37;false
+1678;41;38;false
+1679;41;39;false
+1680;41;40;7.5
+1681;41;41;261
+1682;42;1;19000000
+1683;42;2;autumn
+1684;42;3;2006
+1685;42;4;Pan's Labyrinth
+1686;42;5;39.375
+1687;42;6;Ivana Baquero,Maribel Verdú,Sergi López
+1688;42;7;Guillermo del Toro
+1689;42;8;Guillermo del Toro
+1690;42;9;Guillermo del Toro
+1691;42;10;false
+1692;42;11;false
+1693;42;12;false
+1694;42;13;false
+1695;42;14;false
+1696;42;15;true
+1697;42;16;false
+1698;42;17;true
+1699;42;18;false
+1700;42;19;false
+1701;42;20;false
+1702;42;21;false
+1703;42;22;false
+1704;42;23;false
+1705;42;24;false
+1706;42;25;false
+1707;42;26;true
+1708;42;27;false
+1709;42;28;false
+1710;42;29;false
+1711;42;30;false
+1712;42;31;false
+1713;42;32;false
+1714;42;33;false
+1715;42;34;false
+1716;42;35;false
+1717;42;36;false
+1718;42;37;false
+1719;42;38;false
+1720;42;39;true
+1721;42;40;7.3
+1722;42;41;556
+1723;43;1;20000000
+1724;43;2;winter
+1725;43;3;2004
+1726;43;4;Eternal Sunshine of the Spotless Mind
+1727;43;5;30.7
+1728;43;6;Jim Carrey,Kate Winslet,Elijah Wood
+1729;43;7;Michel Gondry
+1730;43;8;Anthony Bregman
+1731;43;9;Charlie Kaufman
+1732;43;10;false
+1733;43;11;false
+1734;43;12;false
+1735;43;13;false
+1736;43;14;false
+1737;43;15;false
+1738;43;16;false
+1739;43;17;true
+1740;43;18;false
+1741;43;19;false
+1742;43;20;false
+1743;43;21;false
+1744;43;22;false
+1745;43;23;false
+1746;43;24;false
+1747;43;25;false
+1748;43;26;false
+1749;43;27;false
+1750;43;28;false
+1751;43;29;false
+1752;43;30;false
+1753;43;31;true
+1754;43;32;true
+1755;43;33;false
+1756;43;34;false
+1757;43;35;false
+1758;43;36;false
+1759;43;37;false
+1760;43;38;false
+1761;43;39;false
+1762;43;40;7.4
+1763;43;41;612
+1764;44;1;0
+1765;44;2;autumn
+1766;44;3;1982
+1767;44;4;Fanny and Alexander
+1768;44;5;43.666666666666664
+1769;44;6;Allan Edwall,Ewa Fröling,Erland Josephson
+1770;44;7;Ingmar Bergman
+1771;44;8;Jörn Donner
+1772;44;9;Ingmar Bergman
+1773;44;10;false
+1774;44;11;false
+1775;44;12;false
+1776;44;13;false
+1777;44;14;false
+1778;44;15;true
+1779;44;16;false
+1780;44;17;true
+1781;44;18;false
+1782;44;19;false
+1783;44;20;false
+1784;44;21;true
+1785;44;22;false
+1786;44;23;false
+1787;44;24;false
+1788;44;25;false
+1789;44;26;false
+1790;44;27;false
+1791;44;28;true
+1792;44;29;true
+1793;44;30;false
+1794;44;31;false
+1795;44;32;true
+1796;44;33;false
+1797;44;34;true
+1798;44;35;false
+1799;44;36;false
+1800;44;37;false
+1801;44;38;false
+1802;44;39;false
+1803;44;40;6.5
+1804;44;41;17
+1805;45;1;7000000
+1806;45;2;spring
+1807;45;3;1996
+1808;45;4;Fargo
+1809;45;5;39.44444444444444
+1810;45;6;William H. Macy,Frances McDormand,Steve Buscemi
+1811;45;7;Joel Coen
+1812;45;8;Ethan Coen
+1813;45;9;Joel Coen
+1814;45;10;false
+1815;45;11;false
+1816;45;12;false
+1817;45;13;false
+1818;45;14;true
+1819;45;15;true
+1820;45;16;false
+1821;45;17;false
+1822;45;18;false
+1823;45;19;false
+1824;45;20;false
+1825;45;21;false
+1826;45;22;false
+1827;45;23;false
+1828;45;24;false
+1829;45;25;true
+1830;45;26;false
+1831;45;27;false
+1832;45;28;false
+1833;45;29;false
+1834;45;30;false
+1835;45;31;true
+1836;45;32;true
+1837;45;33;false
+1838;45;34;false
+1839;45;35;false
+1840;45;36;false
+1841;45;37;false
+1842;45;38;false
+1843;45;39;false
+1844;45;40;7.1
+1845;45;41;280
+1846;46;1;1300000
+1847;46;2;spring
+1848;46;3;1998
+1849;46;4;The Celebration
+1850;46;5;34.142857142857146
+1851;46;6;Ulrich Thomsen,Henning Moritzen,Thomas Bo Larsen
+1852;46;7;Thomas Vinterberg
+1853;46;8;Birgitte Hald
+1854;46;9;Thomas Vinterberg
+1855;46;10;false
+1856;46;11;false
+1857;46;12;false
+1858;46;13;false
+1859;46;14;false
+1860;46;15;true
+1861;46;16;false
+1862;46;17;false
+1863;46;18;false
+1864;46;19;false
+1865;46;20;false
+1866;46;21;false
+1867;46;22;false
+1868;46;23;false
+1869;46;24;false
+1870;46;25;false
+1871;46;26;false
+1872;46;27;false
+1873;46;28;false
+1874;46;29;false
+1875;46;30;false
+1876;46;31;false
+1877;46;32;true
+1878;46;33;false
+1879;46;34;true
+1880;46;35;false
+1881;46;36;false
+1882;46;37;false
+1883;46;38;false
+1884;46;39;false
+1885;46;40;9.0
+1886;46;41;15
+1887;47;1;63000000
+1888;47;2;autumn
+1889;47;3;1999
+1890;47;4;Fight Club
+1891;47;5;36.0
+1892;47;6;Edward Norton,Brad Pitt,Helena Bonham Carter
+1893;47;7;David Fincher
+1894;47;8;Ross Grayson Bell
+1895;47;9;NULL
+1896;47;10;true
+1897;47;11;false
+1898;47;12;false
+1899;47;13;false
+1900;47;14;false
+1901;47;15;true
+1902;47;16;false
+1903;47;17;false
+1904;47;18;false
+1905;47;19;false
+1906;47;20;false
+1907;47;21;false
+1908;47;22;false
+1909;47;23;false
+1910;47;24;false
+1911;47;25;true
+1912;47;26;false
+1913;47;27;false
+1914;47;28;false
+1915;47;29;true
+1916;47;30;false
+1917;47;31;true
+1918;47;32;true
+1919;47;33;false
+1920;47;34;false
+1921;47;35;false
+1922;47;36;false
+1923;47;37;false
+1924;47;38;false
+1925;47;39;false
+1926;47;40;7.6
+1927;47;41;2851
+1928;48;1;94000000
+1929;48;2;spring
+1930;48;3;2003
+1931;48;4;Finding Nemo
+1932;48;5;45.666666666666664
+1933;48;6;Albert Brooks,Ellen DeGeneres,Alexander Gould
+1934;48;7;Andrew Stanton
+1935;48;8;Graham Walters
+1936;48;9;Andrew Stanton
+1937;48;10;false
+1938;48;11;false
+1939;48;12;true
+1940;48;13;true
+1941;48;14;false
+1942;48;15;false
+1943;48;16;true
+1944;48;17;false
+1945;48;18;false
+1946;48;19;false
+1947;48;20;false
+1948;48;21;false
+1949;48;22;false
+1950;48;23;false
+1951;48;24;false
+1952;48;25;false
+1953;48;26;false
+1954;48;27;false
+1955;48;28;false
+1956;48;29;false
+1957;48;30;false
+1958;48;31;true
+1959;48;32;true
+1960;48;33;false
+1961;48;34;false
+1962;48;35;false
+1963;48;36;false
+1964;48;37;false
+1965;48;38;false
+1966;48;39;false
+1967;48;40;7.0
+1968;48;41;1842
+1969;49;1;55000000
+1970;49;2;summer
+1971;49;3;1994
+1972;49;4;Forrest Gump
+1973;49;5;31.11111111111111
+1974;49;6;Tom Hanks,Sally Field,Robin Wright
+1975;49;7;Robert Zemeckis
+1976;49;8;Wendy Finerman
+1977;49;9;Winston Groom
+1978;49;10;false
+1979;49;11;false
+1980;49;12;false
+1981;49;13;true
+1982;49;14;false
+1983;49;15;true
+1984;49;16;false
+1985;49;17;false
+1986;49;18;false
+1987;49;19;false
+1988;49;20;false
+1989;49;21;false
+1990;49;22;true
+1991;49;23;false
+1992;49;24;false
+1993;49;25;false
+1994;49;26;false
+1995;49;27;false
+1996;49;28;false
+1997;49;29;false
+1998;49;30;false
+1999;49;31;true
+2000;49;32;true
+2001;49;33;false
+2002;49;34;false
+2003;49;35;false
+2004;49;36;false
+2005;49;37;false
+2006;49;38;false
+2007;49;39;false
+2008;49;40;7.5
+2009;49;41;2048
+2010;50;1;17000000
+2011;50;2;spring
+2012;50;3;1987
+2013;50;4;Full Metal Jacket
+2014;50;5;36.18181818181818
+2015;50;6;Matthew Modine,Adam Baldwin,Vincent D'Onofrio
+2016;50;7;Stanley Kubrick
+2017;50;8;Stanley Kubrick
+2018;50;9;Michael Herr
+2019;50;10;false
+2020;50;11;false
+2021;50;12;false
+2022;50;13;false
+2023;50;14;false
+2024;50;15;true
+2025;50;16;false
+2026;50;17;false
+2027;50;18;false
+2028;50;19;false
+2029;50;20;false
+2030;50;21;false
+2031;50;22;false
+2032;50;23;false
+2033;50;24;false
+2034;50;25;false
+2035;50;26;true
+2036;50;27;false
+2037;50;28;false
+2038;50;29;false
+2039;50;30;true
+2040;50;31;false
+2041;50;32;true
+2042;50;33;false
+2043;50;34;false
+2044;50;35;false
+2045;50;36;false
+2046;50;37;false
+2047;50;38;false
+2048;50;39;false
+2049;50;40;7.2
+2050;50;41;432
+2051;51;1;22000000
+2052;51;2;autumn
+2053;51;3;1982
+2054;51;4;Gandhi
+2055;51;5;44.111111111111114
+2056;51;6;Ben Kingsley,Rohini Hattangadi,Candice Bergen
+2057;51;7;Richard Attenborough
+2058;51;8;Richard Attenborough
+2059;51;9;John Briley
+2060;51;10;false
+2061;51;11;false
+2062;51;12;false
+2063;51;13;false
+2064;51;14;false
+2065;51;15;true
+2066;51;16;false
+2067;51;17;false
+2068;51;18;false
+2069;51;19;true
+2070;51;20;false
+2071;51;21;false
+2072;51;22;false
+2073;51;23;false
+2074;51;24;false
+2075;51;25;false
+2076;51;26;false
+2077;51;27;false
+2078;51;28;false
+2079;51;29;false
+2080;51;30;true
+2081;51;31;false
+2082;51;32;true
+2083;51;33;false
+2084;51;34;false
+2085;51;35;false
+2086;51;36;false
+2087;51;37;false
+2088;51;38;false
+2089;51;39;false
+2090;51;40;6.9
+2091;51;41;132
+2092;52;1;103000000
+2093;52;2;spring
+2094;52;3;2000
+2095;52;4;Gladiator
+2096;52;5;45.333333333333336
+2097;52;6;Russell Crowe,Joaquin Phoenix,Connie Nielsen
+2098;52;7;Ridley Scott
+2099;52;8;David Franzoni
+2100;52;9;David Franzoni
+2101;52;10;true
+2102;52;11;true
+2103;52;12;false
+2104;52;13;false
+2105;52;14;false
+2106;52;15;true
+2107;52;16;false
+2108;52;17;false
+2109;52;18;false
+2110;52;19;false
+2111;52;20;false
+2112;52;21;false
+2113;52;22;false
+2114;52;23;false
+2115;52;24;false
+2116;52;25;false
+2117;52;26;false
+2118;52;27;false
+2119;52;28;false
+2120;52;29;false
+2121;52;30;true
+2122;52;31;true
+2123;52;32;true
+2124;52;33;false
+2125;52;34;false
+2126;52;35;false
+2127;52;36;false
+2128;52;37;false
+2129;52;38;false
+2130;52;39;false
+2131;52;40;7.2
+2132;52;41;1908
+2133;53;1;4000000
+2134;53;2;autumn
+2135;53;3;1939
+2136;53;4;Gone with the Wind
+2137;53;5;37.911764705882355
+2138;53;6;Vivien Leigh,Clark Gable,Olivia de Havilland
+2139;53;7;Victor Fleming
+2140;53;8;David O. Selznick
+2141;53;9;Sidney Howard
+2142;53;10;false
+2143;53;11;false
+2144;53;12;false
+2145;53;13;false
+2146;53;14;false
+2147;53;15;true
+2148;53;16;false
+2149;53;17;false
+2150;53;18;false
+2151;53;19;false
+2152;53;20;false
+2153;53;21;false
+2154;53;22;true
+2155;53;23;false
+2156;53;24;false
+2157;53;25;false
+2158;53;26;true
+2159;53;27;false
+2160;53;28;false
+2161;53;29;false
+2162;53;30;false
+2163;53;31;true
+2164;53;32;true
+2165;53;33;false
+2166;53;34;false
+2167;53;35;false
+2168;53;36;false
+2169;53;37;false
+2170;53;38;false
+2171;53;39;false
+2172;53;40;6.7
+2173;53;41;209
+2174;54;1;10000000
+2175;54;2;autumn
+2176;54;3;1997
+2177;54;4;Good Will Hunting
+2178;54;5;32.18181818181818
+2179;54;6;Matt Damon,Robin Williams,Ben Affleck
+2180;54;7;Gus Van Sant
+2181;54;8;Lawrence Bender
+2182;54;9;Matt Damon
+2183;54;10;false
+2184;54;11;false
+2185;54;12;false
+2186;54;13;false
+2187;54;14;false
+2188;54;15;true
+2189;54;16;false
+2190;54;17;false
+2191;54;18;false
+2192;54;19;false
+2193;54;20;false
+2194;54;21;false
+2195;54;22;false
+2196;54;23;false
+2197;54;24;false
+2198;54;25;false
+2199;54;26;false
+2200;54;27;false
+2201;54;28;false
+2202;54;29;false
+2203;54;30;false
+2204;54;31;true
+2205;54;32;true
+2206;54;33;false
+2207;54;34;false
+2208;54;35;false
+2209;54;36;false
+2210;54;37;false
+2211;54;38;false
+2212;54;39;false
+2213;54;40;7.0
+2214;54;41;445
+2215;55;1;25000000
+2216;55;2;summer
+2217;55;3;1990
+2218;55;4;Goodfellas
+2219;55;5;40.833333333333336
+2220;55;6;Robert De Niro,Ray Liotta,Joe Pesci
+2221;55;7;Martin Scorsese
+2222;55;8;Irwin Winkler
+2223;55;9;Nicholas Pileggi
+2224;55;10;false
+2225;55;11;false
+2226;55;12;false
+2227;55;13;false
+2228;55;14;true
+2229;55;15;true
+2230;55;16;false
+2231;55;17;false
+2232;55;18;false
+2233;55;19;false
+2234;55;20;false
+2235;55;21;false
+2236;55;22;false
+2237;55;23;false
+2238;55;24;false
+2239;55;25;false
+2240;55;26;false
+2241;55;27;false
+2242;55;28;false
+2243;55;29;false
+2244;55;30;false
+2245;55;31;true
+2246;55;32;true
+2247;55;33;false
+2248;55;34;false
+2249;55;35;false
+2250;55;36;false
+2251;55;37;false
+2252;55;38;false
+2253;55;39;false
+2254;55;40;7.5
+2255;55;41;544
+2256;56;1;33000000
+2257;56;2;autumn
+2258;56;3;2008
+2259;56;4;Gran Torino
+2260;56;5;38.0
+2261;56;6;Clint Eastwood,Cory Hardrict,John Carroll Lynch
+2262;56;7;Clint Eastwood
+2263;56;8;Clint Eastwood
+2264;56;9;Nick Schenk
+2265;56;10;false
+2266;56;11;false
+2267;56;12;false
+2268;56;13;false
+2269;56;14;false
+2270;56;15;true
+2271;56;16;false
+2272;56;17;false
+2273;56;18;false
+2274;56;19;false
+2275;56;20;false
+2276;56;21;false
+2277;56;22;false
+2278;56;23;false
+2279;56;24;false
+2280;56;25;false
+2281;56;26;false
+2282;56;27;false
+2283;56;28;false
+2284;56;29;true
+2285;56;30;false
+2286;56;31;true
+2287;56;32;true
+2288;56;33;false
+2289;56;34;false
+2290;56;35;false
+2291;56;36;false
+2292;56;37;false
+2293;56;38;false
+2294;56;39;false
+2295;56;40;7.1
+2296;56;41;617
+2297;57;1;14600000
+2298;57;2;winter
+2299;57;3;1993
+2300;57;4;Groundhog Day
+2301;57;5;39.0
+2302;57;6;Bill Murray,Andie MacDowell,Chris Elliott
+2303;57;7;Harold Ramis
+2304;57;8;Trevor Albert
+2305;57;9;Danny Rubin
+2306;57;10;false
+2307;57;11;false
+2308;57;12;false
+2309;57;13;true
+2310;57;14;false
+2311;57;15;true
+2312;57;16;false
+2313;57;17;true
+2314;57;18;false
+2315;57;19;false
+2316;57;20;false
+2317;57;21;false
+2318;57;22;false
+2319;57;23;false
+2320;57;24;false
+2321;57;25;false
+2322;57;26;false
+2323;57;27;false
+2324;57;28;false
+2325;57;29;false
+2326;57;30;false
+2327;57;31;true
+2328;57;32;true
+2329;57;33;true
+2330;57;34;false
+2331;57;35;true
+2332;57;36;false
+2333;57;37;false
+2334;57;38;false
+2335;57;39;false
+2336;57;40;6.7
+2337;57;41;368
+2338;58;1;125000000
+2339;58;2;summer
+2340;58;3;2011
+2341;58;4;Harry Potter and the Deathly Hallows: Part 2
+2342;58;5;44.61224489795919
+2343;58;6;Daniel Radcliffe,Rupert Grint,Emma Watson
+2344;58;7;David Yates
+2345;58;8;David Barron
+2346;58;9;Steve Kloves
+2347;58;10;false
+2348;58;11;true
+2349;58;12;false
+2350;58;13;false
+2351;58;14;false
+2352;58;15;false
+2353;58;16;true
+2354;58;17;true
+2355;58;18;false
+2356;58;19;false
+2357;58;20;false
+2358;58;21;false
+2359;58;22;false
+2360;58;23;false
+2361;58;24;false
+2362;58;25;false
+2363;58;26;false
+2364;58;27;false
+2365;58;28;false
+2366;58;29;false
+2367;58;30;false
+2368;58;31;true
+2369;58;32;true
+2370;58;33;false
+2371;58;34;false
+2372;58;35;false
+2373;58;36;false
+2374;58;37;false
+2375;58;38;false
+2376;58;39;false
+2377;58;40;7.2
+2378;58;41;1777
+2379;59;1;0
+2380;59;2;autumn
+2381;59;3;1950
+2382;59;4;Harvey
+2383;59;5;47.5
+2384;59;6;James Stewart,Josephine Hull,Peggy Dow
+2385;59;7;Henry Koster
+2386;59;8;John Beck
+2387;59;9;Mary Chase
+2388;59;10;false
+2389;59;11;false
+2390;59;12;false
+2391;59;13;true
+2392;59;14;false
+2393;59;15;true
+2394;59;16;false
+2395;59;17;false
+2396;59;18;false
+2397;59;19;false
+2398;59;20;false
+2399;59;21;false
+2400;59;22;false
+2401;59;23;false
+2402;59;24;false
+2403;59;25;false
+2404;59;26;false
+2405;59;27;false
+2406;59;28;false
+2407;59;29;false
+2408;59;30;false
+2409;59;31;true
+2410;59;32;true
+2411;59;33;false
+2412;59;34;false
+2413;59;35;false
+2414;59;36;false
+2415;59;37;false
+2416;59;38;false
+2417;59;39;false
+2418;59;40;8.3
+2419;59;41;10
+2420;60;1;60000000
+2421;60;2;autumn
+2422;60;3;1995
+2423;60;4;Heat
+2424;60;5;39.03846153846154
+2425;60;6;Al Pacino,Robert De Niro,Val Kilmer
+2426;60;7;Michael Mann
+2427;60;8;Art Linson
+2428;60;9;Michael Mann
+2429;60;10;true
+2430;60;11;false
+2431;60;12;false
+2432;60;13;false
+2433;60;14;true
+2434;60;15;true
+2435;60;16;false
+2436;60;17;false
+2437;60;18;false
+2438;60;19;false
+2439;60;20;false
+2440;60;21;false
+2441;60;22;false
+2442;60;23;false
+2443;60;24;false
+2444;60;25;true
+2445;60;26;false
+2446;60;27;false
+2447;60;28;false
+2448;60;29;false
+2449;60;30;false
+2450;60;31;true
+2451;60;32;true
+2452;60;33;false
+2453;60;34;false
+2454;60;35;false
+2455;60;36;false
+2456;60;37;false
+2457;60;38;false
+2458;60;39;true
+2459;60;40;6.9
+2460;60;41;375
+2461;61;1;750000
+2462;61;2;summer
+2463;61;3;1952
+2464;61;4;High Noon
+2465;61;5;41.5
+2466;61;6;Gary Cooper,Grace Kelly,Thomas Mitchell
+2467;61;7;Fred Zinnemann
+2468;61;8;Stanley Kramer
+2469;61;9;Carl Foreman
+2470;61;10;false
+2471;61;11;false
+2472;61;12;false
+2473;61;13;false
+2474;61;14;false
+2475;61;15;false
+2476;61;16;false
+2477;61;17;false
+2478;61;18;false
+2479;61;19;false
+2480;61;20;false
+2481;61;21;false
+2482;61;22;false
+2483;61;23;false
+2484;61;24;false
+2485;61;25;false
+2486;61;26;false
+2487;61;27;true
+2488;61;28;false
+2489;61;29;false
+2490;61;30;false
+2491;61;31;true
+2492;61;32;true
+2493;61;33;false
+2494;61;34;false
+2495;61;35;false
+2496;61;36;false
+2497;61;37;false
+2498;61;38;false
+2499;61;39;false
+2500;61;40;6.8
+2501;61;41;29
+2502;62;1;17500000
+2503;62;2;winter
+2504;62;3;2004
+2505;62;4;Hotel Rwanda
+2506;62;5;45.111111111111114
+2507;62;6;Don Cheadle,Nick Nolte,Sophie Okonedo
+2508;62;7;Terry George
+2509;62;8;Nicholas Meyer
+2510;62;9;Keir Pearson
+2511;62;10;false
+2512;62;11;false
+2513;62;12;false
+2514;62;13;false
+2515;62;14;false
+2516;62;15;true
+2517;62;16;false
+2518;62;17;false
+2519;62;18;false
+2520;62;19;true
+2521;62;20;false
+2522;62;21;false
+2523;62;22;false
+2524;62;23;false
+2525;62;24;false
+2526;62;25;false
+2527;62;26;true
+2528;62;27;false
+2529;62;28;false
+2530;62;29;false
+2531;62;30;true
+2532;62;31;true
+2533;62;32;true
+2534;62;33;true
+2535;62;34;false
+2536;62;35;false
+2537;62;36;false
+2538;62;37;false
+2539;62;38;false
+2540;62;39;false
+2541;62;40;6.5
+2542;62;41;118
+2543;63;1;165000000
+2544;63;2;spring
+2545;63;3;2010
+2546;63;4;How to Train Your Dragon
+2547;63;5;33.7
+2548;63;6;Jay Baruchel,Gerard Butler,Craig Ferguson
+2549;63;7;Dean DeBlois
+2550;63;8;Bonnie Arnold
+2551;63;9;Will Davies
+2552;63;10;false
+2553;63;11;false
+2554;63;12;true
+2555;63;13;false
+2556;63;14;false
+2557;63;15;false
+2558;63;16;false
+2559;63;17;false
+2560;63;18;false
+2561;63;19;false
+2562;63;20;false
+2563;63;21;false
+2564;63;22;false
+2565;63;23;false
+2566;63;24;false
+2567;63;25;false
+2568;63;26;false
+2569;63;27;false
+2570;63;28;false
+2571;63;29;false
+2572;63;30;false
+2573;63;31;true
+2574;63;32;true
+2575;63;33;false
+2576;63;34;false
+2577;63;35;false
+2578;63;36;false
+2579;63;37;false
+2580;63;38;false
+2581;63;39;false
+2582;63;40;7.0
+2583;63;41;1537
+2584;64;1;1200000
+2585;64;2;winter
+2586;64;3;1966
+2587;64;4;The Good, the Bad and the Ugly
+2588;64;5;42.333333333333336
+2589;64;6;Eli Wallach,Clint Eastwood,Lee Van Cleef
+2590;64;7;Sergio Leone
+2591;64;8;Alberto Grimaldi
+2592;64;9;Luciano Vincenzoni
+2593;64;10;false
+2594;64;11;false
+2595;64;12;false
+2596;64;13;false
+2597;64;14;false
+2598;64;15;false
+2599;64;16;false
+2600;64;17;false
+2601;64;18;false
+2602;64;19;false
+2603;64;20;false
+2604;64;21;false
+2605;64;22;false
+2606;64;23;false
+2607;64;24;false
+2608;64;25;false
+2609;64;26;false
+2610;64;27;true
+2611;64;28;false
+2612;64;29;true
+2613;64;30;false
+2614;64;31;false
+2615;64;32;true
+2616;64;33;false
+2617;64;34;false
+2618;64;35;true
+2619;64;36;false
+2620;64;37;false
+2621;64;38;false
+2622;64;39;false
+2623;64;40;7.5
+2624;64;41;738
+2625;65;1;0
+2626;65;2;autumn
+2627;65;3;1993
+2628;65;4;In the Name of the Father
+2629;65;5;35.0
+2630;65;6;Daniel Day-Lewis,Emma Thompson,Pete Postlethwaite
+2631;65;7;Jim Sheridan
+2632;65;8;Jim Sheridan
+2633;65;9;Jim Sheridan
+2634;65;10;false
+2635;65;11;false
+2636;65;12;false
+2637;65;13;false
+2638;65;14;false
+2639;65;15;true
+2640;65;16;false
+2641;65;17;false
+2642;65;18;false
+2643;65;19;false
+2644;65;20;false
+2645;65;21;false
+2646;65;22;false
+2647;65;23;false
+2648;65;24;false
+2649;65;25;false
+2650;65;26;false
+2651;65;27;false
+2652;65;28;false
+2653;65;29;false
+2654;65;30;true
+2655;65;31;false
+2656;65;32;true
+2657;65;33;false
+2658;65;34;false
+2659;65;35;false
+2660;65;36;false
+2661;65;37;false
+2662;65;38;false
+2663;65;39;true
+2664;65;40;7.3
+2665;65;41;16
+2666;66;1;6800000
+2667;66;2;summer
+2668;66;3;2010
+2669;66;4;Incendies
+2670;66;5;48.0
+2671;66;6;Lubna Azabal,Mélissa Désormeaux-Poulin,Maxim Gaudette
+2672;66;7;Denis Villeneuve
+2673;66;8;NULL
+2674;66;9;NULL
+2675;66;10;false
+2676;66;11;false
+2677;66;12;false
+2678;66;13;false
+2679;66;14;false
+2680;66;15;true
+2681;66;16;false
+2682;66;17;false
+2683;66;18;false
+2684;66;19;false
+2685;66;20;false
+2686;66;21;true
+2687;66;22;false
+2688;66;23;false
+2689;66;24;false
+2690;66;25;false
+2691;66;26;true
+2692;66;27;false
+2693;66;28;true
+2694;66;29;false
+2695;66;30;false
+2696;66;31;false
+2697;66;32;true
+2698;66;33;true
+2699;66;34;false
+2700;66;35;false
+2701;66;36;false
+2702;66;37;false
+2703;66;38;false
+2704;66;39;false
+2705;66;40;7.7
+2706;66;41;29
+2707;67;1;160000000
+2708;67;2;summer
+2709;67;3;2010
+2710;67;4;Inception
+2711;67;5;41.53846153846154
+2712;67;6;Leonardo DiCaprio,Joseph Gordon-Levitt,Ellen Page
+2713;67;7;Christopher Nolan
+2714;67;8;Christopher Nolan
+2715;67;9;Christopher Nolan
+2716;67;10;true
+2717;67;11;true
+2718;67;12;false
+2719;67;13;false
+2720;67;14;false
+2721;67;15;false
+2722;67;16;false
+2723;67;17;false
+2724;67;18;false
+2725;67;19;false
+2726;67;20;false
+2727;67;21;true
+2728;67;22;false
+2729;67;23;true
+2730;67;24;false
+2731;67;25;true
+2732;67;26;false
+2733;67;27;false
+2734;67;28;false
+2735;67;29;false
+2736;67;30;false
+2737;67;31;true
+2738;67;32;true
+2739;67;33;true
+2740;67;34;false
+2741;67;35;false
+2742;67;36;true
+2743;67;37;false
+2744;67;38;false
+2745;67;39;false
+2746;67;40;7.5
+2747;67;41;5568
+2748;68;1;48000000
+2749;68;2;spring
+2750;68;3;1989
+2751;68;4;Indiana Jones and the Last Crusade
+2752;68;5;49.69230769230769
+2753;68;6;Harrison Ford,Sean Connery,Denholm Elliott
+2754;68;7;Steven Spielberg
+2755;68;8;Robert Watts
+2756;68;9;Jeffrey Boam
+2757;68;10;true
+2758;68;11;true
+2759;68;12;false
+2760;68;13;false
+2761;68;14;false
+2762;68;15;false
+2763;68;16;false
+2764;68;17;false
+2765;68;18;false
+2766;68;19;false
+2767;68;20;false
+2768;68;21;false
+2769;68;22;false
+2770;68;23;false
+2771;68;24;false
+2772;68;25;false
+2773;68;26;false
+2774;68;27;false
+2775;68;28;false
+2776;68;29;false
+2777;68;30;false
+2778;68;31;true
+2779;68;32;true
+2780;68;33;false
+2781;68;34;true
+2782;68;35;false
+2783;68;36;false
+2784;68;37;false
+2785;68;38;false
+2786;68;39;false
+2787;68;40;7.1
+2788;68;41;1099
+2789;69;1;0
+2790;69;2;autumn
+2791;69;3;2002
+2792;69;4;Infernal Affairs
+2793;69;5;34.22222222222222
+2794;69;6;Andy Lau,Tony Leung Chiu-Wai,Anthony Wong
+2795;69;7;Alan Mak
+2796;69;8;Andrew Lau Wai-Keung
+2797;69;9;Felix Chong
+2798;69;10;true
+2799;69;11;false
+2800;69;12;false
+2801;69;13;false
+2802;69;14;true
+2803;69;15;true
+2804;69;16;false
+2805;69;17;false
+2806;69;18;false
+2807;69;19;false
+2808;69;20;false
+2809;69;21;true
+2810;69;22;false
+2811;69;23;false
+2812;69;24;false
+2813;69;25;true
+2814;69;26;false
+2815;69;27;false
+2816;69;28;false
+2817;69;29;false
+2818;69;30;false
+2819;69;31;false
+2820;69;32;false
+2821;69;33;false
+2822;69;34;false
+2823;69;35;false
+2824;69;36;false
+2825;69;37;false
+2826;69;38;false
+2827;69;39;false
+2828;69;40;7.5
+2829;69;41;178
+2830;70;1;70000000
+2831;70;2;summer
+2832;70;3;2009
+2833;70;4;Inglourious Basterds
+2834;70;5;39.714285714285715
+2835;70;6;Brad Pitt,Christoph Waltz,Mélanie Laurent
+2836;70;7;Quentin Tarantino
+2837;70;8;Lawrence Bender
+2838;70;9;NULL
+2839;70;10;true
+2840;70;11;false
+2841;70;12;false
+2842;70;13;false
+2843;70;14;false
+2844;70;15;true
+2845;70;16;false
+2846;70;17;false
+2847;70;18;false
+2848;70;19;false
+2849;70;20;false
+2850;70;21;false
+2851;70;22;false
+2852;70;23;false
+2853;70;24;false
+2854;70;25;true
+2855;70;26;true
+2856;70;27;false
+2857;70;28;false
+2858;70;29;true
+2859;70;30;false
+2860;70;31;true
+2861;70;32;true
+2862;70;33;true
+2863;70;34;true
+2864;70;35;true
+2865;70;36;false
+2866;70;37;false
+2867;70;38;false
+2868;70;39;false
+2869;70;40;7.2
+2870;70;41;1373
+2871;71;1;15000000
+2872;71;2;summer
+2873;71;3;2007
+2874;71;4;Into the Wild
+2875;71;5;39.4
+2876;71;6;Emile Hirsch,Marcia Gay Harden,William Hurt
+2877;71;7;Sean Penn
+2878;71;8;NULL
+2879;71;9;Sean Penn
+2880;71;10;false
+2881;71;11;true
+2882;71;12;false
+2883;71;13;false
+2884;71;14;false
+2885;71;15;true
+2886;71;16;false
+2887;71;17;false
+2888;71;18;false
+2889;71;19;false
+2890;71;20;false
+2891;71;21;false
+2892;71;22;false
+2893;71;23;false
+2894;71;24;false
+2895;71;25;false
+2896;71;26;false
+2897;71;27;false
+2898;71;28;false
+2899;71;29;false
+2900;71;30;false
+2901;71;31;true
+2902;71;32;true
+2903;71;33;false
+2904;71;34;false
+2905;71;35;false
+2906;71;36;false
+2907;71;37;false
+2908;71;38;false
+2909;71;39;false
+2910;71;40;7.3
+2911;71;41;384
+2912;72;1;13000000
+2913;72;2;autumn
+2914;72;3;2011
+2915;72;4;Intouchables
+2916;72;5;41.0
+2917;72;6;François Cluzet,Omar Sy,Anne Le Ny
+2918;72;7;Eric Toledano
+2919;72;8;Nicolas Duval-Adassovsky
+2920;72;9;Eric Toledano
+2921;72;10;false
+2922;72;11;false
+2923;72;12;false
+2924;72;13;true
+2925;72;14;false
+2926;72;15;true
+2927;72;16;false
+2928;72;17;false
+2929;72;18;false
+2930;72;19;false
+2931;72;20;false
+2932;72;21;false
+2933;72;22;false
+2934;72;23;false
+2935;72;24;false
+2936;72;25;false
+2937;72;26;false
+2938;72;27;false
+2939;72;28;true
+2940;72;29;false
+2941;72;30;false
+2942;72;31;false
+2943;72;32;false
+2944;72;33;true
+2945;72;34;false
+2946;72;35;false
+2947;72;36;false
+2948;72;37;false
+2949;72;38;false
+2950;72;39;false
+2951;72;40;7.8
+2952;72;41;944
+2953;73;1;325000
+2954;73;2;winter
+2955;73;3;1934
+2956;73;4;It Happened One Night
+2957;73;5;41.5
+2958;73;6;Clark Gable,Claudette Colbert,Walter Connolly
+2959;73;7;Frank Capra
+2960;73;8;Frank Capra
+2961;73;9;Robert Riskin
+2962;73;10;false
+2963;73;11;false
+2964;73;12;false
+2965;73;13;true
+2966;73;14;false
+2967;73;15;false
+2968;73;16;false
+2969;73;17;false
+2970;73;18;false
+2971;73;19;false
+2972;73;20;false
+2973;73;21;false
+2974;73;22;true
+2975;73;23;false
+2976;73;24;false
+2977;73;25;false
+2978;73;26;false
+2979;73;27;false
+2980;73;28;false
+2981;73;29;false
+2982;73;30;false
+2983;73;31;true
+2984;73;32;true
+2985;73;33;false
+2986;73;34;false
+2987;73;35;false
+2988;73;36;false
+2989;73;37;false
+2990;73;38;false
+2991;73;39;false
+2992;73;40;7.6
+2993;73;41;25
+2994;74;1;3180000
+2995;74;2;winter
+2996;74;3;1946
+2997;74;4;It's a Wonderful Life
+2998;74;5;41.22222222222222
+2999;74;6;James Stewart,Donna Reed,Lionel Barrymore
+3000;74;7;Frank Capra
+3001;74;8;Frank Capra
+3002;74;9;Frances Goodrich
+3003;74;10;false
+3004;74;11;false
+3005;74;12;false
+3006;74;13;false
+3007;74;14;false
+3008;74;15;true
+3009;74;16;true
+3010;74;17;true
+3011;74;18;false
+3012;74;19;false
+3013;74;20;false
+3014;74;21;false
+3015;74;22;false
+3016;74;23;false
+3017;74;24;false
+3018;74;25;false
+3019;74;26;false
+3020;74;27;false
+3021;74;28;false
+3022;74;29;false
+3023;74;30;false
+3024;74;31;true
+3025;74;32;true
+3026;74;33;false
+3027;74;34;false
+3028;74;35;false
+3029;74;36;false
+3030;74;37;false
+3031;74;38;false
+3032;74;39;false
+3033;74;40;7.1
+3034;74;41;213
+3035;75;1;3800000
+3036;75;2;winter
+3037;75;3;2013
+3038;75;4;The Hunt
+3039;75;5;45.0
+3040;75;6;Mads Mikkelsen,Alexandra Rapaport,Thomas Bo Larsen
+3041;75;7;Thomas Vinterberg
+3042;75;8;Sisse Graum Jørgensen
+3043;75;9;Thomas Vinterberg
+3044;75;10;false
+3045;75;11;false
+3046;75;12;false
+3047;75;13;false
+3048;75;14;false
+3049;75;15;true
+3050;75;16;false
+3051;75;17;false
+3052;75;18;false
+3053;75;19;false
+3054;75;20;false
+3055;75;21;false
+3056;75;22;false
+3057;75;23;false
+3058;75;24;false
+3059;75;25;false
+3060;75;26;false
+3061;75;27;false
+3062;75;28;false
+3063;75;29;false
+3064;75;30;false
+3065;75;31;false
+3066;75;32;true
+3067;75;33;false
+3068;75;34;false
+3069;75;35;false
+3070;75;36;false
+3071;75;37;false
+3072;75;38;false
+3073;75;39;false
+3074;75;40;7.9
+3075;75;41;101
+3076;76;1;7000000
+3077;76;2;spring
+3078;76;3;1975
+3079;76;4;Jaws
+3080;76;5;38.125
+3081;76;6;Roy Scheider,Robert Shaw,Richard Dreyfuss
+3082;76;7;Steven Spielberg
+3083;76;8;David Brown
+3084;76;9;Carl Gottlieb
+3085;76;10;false
+3086;76;11;true
+3087;76;12;false
+3088;76;13;false
+3089;76;14;false
+3090;76;15;false
+3091;76;16;false
+3092;76;17;false
+3093;76;18;false
+3094;76;19;false
+3095;76;20;true
+3096;76;21;false
+3097;76;22;false
+3098;76;23;false
+3099;76;24;false
+3100;76;25;true
+3101;76;26;false
+3102;76;27;false
+3103;76;28;false
+3104;76;29;false
+3105;76;30;false
+3106;76;31;true
+3107;76;32;true
+3108;76;33;false
+3109;76;34;false
+3110;76;35;false
+3111;76;36;false
+3112;76;37;false
+3113;76;38;false
+3114;76;39;false
+3115;76;40;6.8
+3116;76;41;399
+3117;77;1;63000000
+3118;77;2;spring
+3119;77;3;1993
+3120;77;4;Jurassic Park
+3121;77;5;39.1578947368421
+3122;77;6;Sam Neill,Laura Dern,Jeff Goldblum
+3123;77;7;Steven Spielberg
+3124;77;8;Kathleen Kennedy
+3125;77;9;Michael Crichton
+3126;77;10;false
+3127;77;11;true
+3128;77;12;false
+3129;77;13;false
+3130;77;14;false
+3131;77;15;false
+3132;77;16;false
+3133;77;17;false
+3134;77;18;false
+3135;77;19;false
+3136;77;20;false
+3137;77;21;false
+3138;77;22;false
+3139;77;23;true
+3140;77;24;false
+3141;77;25;false
+3142;77;26;false
+3143;77;27;false
+3144;77;28;false
+3145;77;29;false
+3146;77;30;false
+3147;77;31;true
+3148;77;32;true
+3149;77;33;false
+3150;77;34;false
+3151;77;35;false
+3152;77;36;false
+3153;77;37;false
+3154;77;38;false
+3155;77;39;true
+3156;77;40;6.8
+3157;77;41;1445
+3158;78;1;1000000
+3159;78;2;winter
+3160;78;3;1984
+3161;78;4;Nausicaä of the Valley of the Wind
+3162;78;5;32.75
+3163;78;6;Sumi Shimamoto,Mahito Tsujimura,Hisako Kyōda
+3164;78;7;Hayao Miyazaki
+3165;78;8;Rick Dempsey
+3166;78;9;Hayao Miyazaki
+3167;78;10;true
+3168;78;11;true
+3169;78;12;true
+3170;78;13;false
+3171;78;14;false
+3172;78;15;false
+3173;78;16;false
+3174;78;17;true
+3175;78;18;false
+3176;78;19;false
+3177;78;20;false
+3178;78;21;false
+3179;78;22;false
+3180;78;23;true
+3181;78;24;false
+3182;78;25;false
+3183;78;26;false
+3184;78;27;false
+3185;78;28;false
+3186;78;29;false
+3187;78;30;false
+3188;78;31;false
+3189;78;32;false
+3190;78;33;false
+3191;78;34;false
+3192;78;35;false
+3193;78;36;true
+3194;78;37;false
+3195;78;38;false
+3196;78;39;false
+3197;78;40;7.8
+3198;78;41;230
+3199;79;1;55000000
+3200;79;2;autumn
+3201;79;3;2003
+3202;79;4;Kill Bill: Vol. 1
+3203;79;5;45.166666666666664
+3204;79;6;Uma Thurman,Lucy Liu,Vivica A. Fox
+3205;79;7;Quentin Tarantino
+3206;79;8;Lawrence Bender
+3207;79;9;NULL
+3208;79;10;true
+3209;79;11;false
+3210;79;12;false
+3211;79;13;false
+3212;79;14;true
+3213;79;15;false
+3214;79;16;false
+3215;79;17;false
+3216;79;18;false
+3217;79;19;false
+3218;79;20;false
+3219;79;21;false
+3220;79;22;false
+3221;79;23;false
+3222;79;24;false
+3223;79;25;false
+3224;79;26;false
+3225;79;27;false
+3226;79;28;false
+3227;79;29;false
+3228;79;30;false
+3229;79;31;true
+3230;79;32;true
+3231;79;33;true
+3232;79;34;false
+3233;79;35;false
+3234;79;36;true
+3235;79;37;false
+3236;79;38;false
+3237;79;39;false
+3238;79;40;6.8
+3239;79;41;961
+3240;80;1;35000000
+3241;80;2;summer
+3242;80;3;1997
+3243;80;4;L.A. Confidential
+3244;80;5;41.92857142857143
+3245;80;6;Kevin Spacey,Guy Pearce,Danny DeVito
+3246;80;7;Curtis Hanson
+3247;80;8;Curtis Hanson
+3248;80;9;Brian Helgeland
+3249;80;10;false
+3250;80;11;false
+3251;80;12;false
+3252;80;13;false
+3253;80;14;true
+3254;80;15;true
+3255;80;16;false
+3256;80;17;false
+3257;80;18;false
+3258;80;19;false
+3259;80;20;false
+3260;80;21;true
+3261;80;22;false
+3262;80;23;false
+3263;80;24;false
+3264;80;25;true
+3265;80;26;false
+3266;80;27;false
+3267;80;28;false
+3268;80;29;false
+3269;80;30;false
+3270;80;31;true
+3271;80;32;true
+3272;80;33;false
+3273;80;34;false
+3274;80;35;false
+3275;80;36;false
+3276;80;37;false
+3277;80;38;false
+3278;80;39;false
+3279;80;40;7.0
+3280;80;41;271
+3281;81;1;15000000
+3282;81;2;autumn
+3283;81;3;1962
+3284;81;4;Lawrence of Arabia
+3285;81;5;44.30769230769231
+3286;81;6;Peter O'Toole,Alec Guinness,Anthony Quinn
+3287;81;7;David Lean
+3288;81;8;Sam Spiegel
+3289;81;9;Robert Bolt
+3290;81;10;false
+3291;81;11;true
+3292;81;12;false
+3293;81;13;false
+3294;81;14;false
+3295;81;15;true
+3296;81;16;false
+3297;81;17;false
+3298;81;18;false
+3299;81;19;true
+3300;81;20;false
+3301;81;21;false
+3302;81;22;false
+3303;81;23;false
+3304;81;24;false
+3305;81;25;false
+3306;81;26;true
+3307;81;27;false
+3308;81;28;false
+3309;81;29;false
+3310;81;30;true
+3311;81;31;true
+3312;81;32;true
+3313;81;33;false
+3314;81;34;false
+3315;81;35;false
+3316;81;36;false
+3317;81;37;false
+3318;81;38;false
+3319;81;39;false
+3320;81;40;7.1
+3321;81;41;207
+3322;82;1;120000000
+3323;82;2;autumn
+3324;82;3;2012
+3325;82;4;Life of Pi
+3326;82;5;40.5
+3327;82;6;Suraj Sharma,Irrfan Khan,Ayush Tandon
+3328;82;7;Ang Lee
+3329;82;8;Gil Netter
+3330;82;9;David Magee
+3331;82;10;true
+3332;82;11;true
+3333;82;12;false
+3334;82;13;false
+3335;82;14;false
+3336;82;15;true
+3337;82;16;false
+3338;82;17;false
+3339;82;18;false
+3340;82;19;false
+3341;82;20;false
+3342;82;21;false
+3343;82;22;false
+3344;82;23;false
+3345;82;24;false
+3346;82;25;false
+3347;82;26;false
+3348;82;27;false
+3349;82;28;false
+3350;82;29;false
+3351;82;30;true
+3352;82;31;true
+3353;82;32;true
+3354;82;33;true
+3355;82;34;false
+3356;82;35;false
+3357;82;36;true
+3358;82;37;false
+3359;82;38;false
+3360;82;39;false
+3361;82;40;6.8
+3362;82;41;2507
+3363;83;1;1350000
+3364;83;2;winter
+3365;83;3;1998
+3366;83;4;Lock, Stock and Two Smoking Barrels
+3367;83;5;37.07692307692308
+3368;83;6;Jason Flemyng,Dexter Fletcher,Nick Moran
+3369;83;7;Guy Ritchie
+3370;83;8;Matthew Vaughn
+3371;83;9;Guy Ritchie
+3372;83;10;false
+3373;83;11;false
+3374;83;12;false
+3375;83;13;true
+3376;83;14;true
+3377;83;15;false
+3378;83;16;false
+3379;83;17;false
+3380;83;18;false
+3381;83;19;false
+3382;83;20;false
+3383;83;21;false
+3384;83;22;false
+3385;83;23;false
+3386;83;24;false
+3387;83;25;false
+3388;83;26;false
+3389;83;27;false
+3390;83;28;false
+3391;83;29;false
+3392;83;30;true
+3393;83;31;false
+3394;83;32;true
+3395;83;33;false
+3396;83;34;false
+3397;83;35;false
+3398;83;36;false
+3399;83;37;false
+3400;83;38;false
+3401;83;39;false
+3402;83;40;7.1
+3403;83;41;694
+3404;84;1;0
+3405;84;2;spring
+3406;84;3;1931
+3407;84;4;M
+3408;84;5;32.77777777777778
+3409;84;6;Peter Lorre,Ellen Widmann,Inge Landgut
+3410;84;7;Fritz Lang
+3411;84;8;Seymour Nebenzal
+3412;84;9;Fritz Lang
+3413;84;10;true
+3414;84;11;false
+3415;84;12;false
+3416;84;13;false
+3417;84;14;true
+3418;84;15;true
+3419;84;16;false
+3420;84;17;false
+3421;84;18;false
+3422;84;19;false
+3423;84;20;false
+3424;84;21;false
+3425;84;22;false
+3426;84;23;false
+3427;84;24;false
+3428;84;25;true
+3429;84;26;false
+3430;84;27;false
+3431;84;28;false
+3432;84;29;true
+3433;84;30;false
+3434;84;31;false
+3435;84;32;false
+3436;84;33;false
+3437;84;34;true
+3438;84;35;false
+3439;84;36;false
+3440;84;37;false
+3441;84;38;false
+3442;84;39;false
+3443;84;40;8.1
+3444;84;41;56
+3445;85;1;8000000
+3446;85;2;spring
+3447;85;3;2009
+3448;85;4;Mary and Max
+3449;85;5;41.0
+3450;85;6;Toni Collette,Philip Seymour Hoffman,Eric Bana
+3451;85;7;Adam Elliot
+3452;85;8;Melanie Coombs
+3453;85;9;NULL
+3454;85;10;false
+3455;85;11;false
+3456;85;12;true
+3457;85;13;true
+3458;85;14;false
+3459;85;15;true
+3460;85;16;false
+3461;85;17;false
+3462;85;18;false
+3463;85;19;false
+3464;85;20;false
+3465;85;21;false
+3466;85;22;false
+3467;85;23;false
+3468;85;24;false
+3469;85;25;false
+3470;85;26;false
+3471;85;27;false
+3472;85;28;false
+3473;85;29;false
+3474;85;30;false
+3475;85;31;false
+3476;85;32;true
+3477;85;33;false
+3478;85;34;false
+3479;85;35;false
+3480;85;36;false
+3481;85;37;false
+3482;85;38;false
+3483;85;39;false
+3484;85;40;7.5
+3485;85;41;146
+3486;86;1;9000000
+3487;86;2;summer
+3488;86;3;2000
+3489;86;4;Memento
+3490;86;5;40.63636363636363
+3491;86;6;Guy Pearce,Carrie-Anne Moss,Joe Pantoliano
+3492;86;7;Christopher Nolan
+3493;86;8;Jennifer Todd
+3494;86;9;Christopher Nolan
+3495;86;10;false
+3496;86;11;false
+3497;86;12;false
+3498;86;13;false
+3499;86;14;false
+3500;86;15;true
+3501;86;16;false
+3502;86;17;false
+3503;86;18;false
+3504;86;19;false
+3505;86;20;false
+3506;86;21;true
+3507;86;22;false
+3508;86;23;false
+3509;86;24;false
+3510;86;25;true
+3511;86;26;false
+3512;86;27;false
+3513;86;28;false
+3514;86;29;false
+3515;86;30;false
+3516;86;31;true
+3517;86;32;true
+3518;86;33;false
+3519;86;34;false
+3520;86;35;false
+3521;86;36;false
+3522;86;37;false
+3523;86;38;false
+3524;86;39;false
+3525;86;40;7.3
+3526;86;41;714
+3527;87;1;92620000
+3528;87;2;winter
+3529;87;3;1927
+3530;87;4;Metropolis
+3531;87;5;37.0
+3532;87;6;Brigitte Helm,Alfred Abel,Gustav Fröhlich
+3533;87;7;Fritz Lang
+3534;87;8;Erich Pommer
+3535;87;9;NULL
+3536;87;10;false
+3537;87;11;false
+3538;87;12;false
+3539;87;13;false
+3540;87;14;false
+3541;87;15;true
+3542;87;16;false
+3543;87;17;false
+3544;87;18;false
+3545;87;19;false
+3546;87;20;false
+3547;87;21;false
+3548;87;22;false
+3549;87;23;true
+3550;87;24;false
+3551;87;25;false
+3552;87;26;false
+3553;87;27;false
+3554;87;28;false
+3555;87;29;true
+3556;87;30;false
+3557;87;31;false
+3558;87;32;false
+3559;87;33;false
+3560;87;34;true
+3561;87;35;false
+3562;87;36;false
+3563;87;37;false
+3564;87;38;false
+3565;87;39;false
+3566;87;40;7.7
+3567;87;41;125
+3568;88;1;30000000
+3569;88;2;autumn
+3570;88;3;2004
+3571;88;4;Million Dollar Baby
+3572;88;5;38.72727272727273
+3573;88;6;Clint Eastwood,Hilary Swank,Morgan Freeman
+3574;88;7;Clint Eastwood
+3575;88;8;Clint Eastwood
+3576;88;9;Paul Haggis
+3577;88;10;false
+3578;88;11;false
+3579;88;12;false
+3580;88;13;false
+3581;88;14;false
+3582;88;15;true
+3583;88;16;false
+3584;88;17;false
+3585;88;18;false
+3586;88;19;false
+3587;88;20;false
+3588;88;21;false
+3589;88;22;false
+3590;88;23;false
+3591;88;24;false
+3592;88;25;false
+3593;88;26;false
+3594;88;27;false
+3595;88;28;false
+3596;88;29;false
+3597;88;30;false
+3598;88;31;true
+3599;88;32;true
+3600;88;33;false
+3601;88;34;false
+3602;88;35;false
+3603;88;36;false
+3604;88;37;false
+3605;88;38;false
+3606;88;39;false
+3607;88;40;6.9
+3608;88;41;341
+3609;89;1;1500000
+3610;89;2;winter
+3611;89;3;1936
+3612;89;4;Modern Times
+3613;89;5;48.11764705882353
+3614;89;6;Charles Chaplin,Paulette Goddard,Henry Bergman
+3615;89;7;Charles Chaplin
+3616;89;8;Charles Chaplin
+3617;89;9;Charles Chaplin
+3618;89;10;false
+3619;89;11;false
+3620;89;12;false
+3621;89;13;true
+3622;89;14;false
+3623;89;15;true
+3624;89;16;false
+3625;89;17;false
+3626;89;18;false
+3627;89;19;false
+3628;89;20;false
+3629;89;21;false
+3630;89;22;false
+3631;89;23;false
+3632;89;24;false
+3633;89;25;false
+3634;89;26;false
+3635;89;27;false
+3636;89;28;false
+3637;89;29;false
+3638;89;30;false
+3639;89;31;true
+3640;89;32;true
+3641;89;33;false
+3642;89;34;false
+3643;89;35;false
+3644;89;36;false
+3645;89;37;false
+3646;89;38;false
+3647;89;39;false
+3648;89;40;7.9
+3649;89;41;187
+3650;90;1;26500000
+3651;90;2;summer
+3652;90;3;1997
+3653;90;4;Princess Mononoke
+3654;90;5;32.714285714285715
+3655;90;6;Yōji Matsuda,Yuriko Ishida,Yūko Tanaka
+3656;90;7;Hayao Miyazaki
+3657;90;8;Toshio Suzuki
+3658;90;9;Hayao Miyazaki
+3659;90;10;false
+3660;90;11;true
+3661;90;12;true
+3662;90;13;false
+3663;90;14;false
+3664;90;15;false
+3665;90;16;false
+3666;90;17;true
+3667;90;18;false
+3668;90;19;false
+3669;90;20;false
+3670;90;21;false
+3671;90;22;false
+3672;90;23;false
+3673;90;24;false
+3674;90;25;false
+3675;90;26;false
+3676;90;27;false
+3677;90;28;false
+3678;90;29;false
+3679;90;30;false
+3680;90;31;false
+3681;90;32;false
+3682;90;33;false
+3683;90;34;false
+3684;90;35;false
+3685;90;36;true
+3686;90;37;false
+3687;90;38;false
+3688;90;39;false
+3689;90;40;7.8
+3690;90;41;440
+3691;91;1;115000000
+3692;91;2;autumn
+3693;91;3;2001
+3694;91;4;Monsters, Inc.
+3695;91;5;44.55882352941177
+3696;91;6;John Goodman,Billy Crystal,Mary Gibbs
+3697;91;7;Lee Unkrich
+3698;91;8;Darla K. Anderson
+3699;91;9;Andrew Stanton
+3700;91;10;false
+3701;91;11;false
+3702;91;12;true
+3703;91;13;false
+3704;91;14;false
+3705;91;15;false
+3706;91;16;true
+3707;91;17;false
+3708;91;18;false
+3709;91;19;false
+3710;91;20;false
+3711;91;21;false
+3712;91;22;false
+3713;91;23;false
+3714;91;24;false
+3715;91;25;false
+3716;91;26;false
+3717;91;27;false
+3718;91;28;false
+3719;91;29;false
+3720;91;30;false
+3721;91;31;true
+3722;91;32;true
+3723;91;33;false
+3724;91;34;false
+3725;91;35;false
+3726;91;36;false
+3727;91;37;false
+3728;91;38;false
+3729;91;39;false
+3730;91;40;7.0
+3731;91;41;2306
+3732;92;1;400000
+3733;92;2;winter
+3734;92;3;1975
+3735;92;4;Monty Python and the Holy Grail
+3736;92;5;35.8
+3737;92;6;Graham Chapman,John Cleese,Eric Idle
+3738;92;7;Terry Gilliam
+3739;92;8;Mark Forstater
+3740;92;9;NULL
+3741;92;10;false
+3742;92;11;true
+3743;92;12;false
+3744;92;13;true
+3745;92;14;false
+3746;92;15;false
+3747;92;16;false
+3748;92;17;true
+3749;92;18;false
+3750;92;19;false
+3751;92;20;false
+3752;92;21;false
+3753;92;22;false
+3754;92;23;false
+3755;92;24;false
+3756;92;25;false
+3757;92;26;false
+3758;92;27;false
+3759;92;28;false
+3760;92;29;false
+3761;92;30;true
+3762;92;31;false
+3763;92;32;true
+3764;92;33;true
+3765;92;34;false
+3766;92;35;false
+3767;92;36;false
+3768;92;37;true
+3769;92;38;false
+3770;92;39;false
+3771;92;40;7.4
+3772;92;41;446
+3773;93;1;4000000
+3774;93;2;summer
+3775;93;3;1979
+3776;93;4;Life of Brian
+3777;93;5;38.125
+3778;93;6;Graham Chapman,John Cleese,Terry Gilliam
+3779;93;7;Terry Jones
+3780;93;8;John Goldstone
+3781;93;9;Graham Chapman
+3782;93;10;false
+3783;93;11;false
+3784;93;12;false
+3785;93;13;true
+3786;93;14;false
+3787;93;15;false
+3788;93;16;false
+3789;93;17;false
+3790;93;18;false
+3791;93;19;false
+3792;93;20;false
+3793;93;21;false
+3794;93;22;false
+3795;93;23;false
+3796;93;24;false
+3797;93;25;false
+3798;93;26;false
+3799;93;27;false
+3800;93;28;false
+3801;93;29;false
+3802;93;30;true
+3803;93;31;false
+3804;93;32;true
+3805;93;33;false
+3806;93;34;false
+3807;93;35;false
+3808;93;36;false
+3809;93;37;false
+3810;93;38;false
+3811;93;39;false
+3812;93;40;7.3
+3813;93;41;325
+3814;94;1;1500000
+3815;94;2;autumn
+3816;94;3;1939
+3817;94;4;Mr. Smith Goes to Washington
+3818;94;5;41.75
+3819;94;6;Jean Arthur,James Stewart,Claude Rains
+3820;94;7;Frank Capra
+3821;94;8;Frank Capra
+3822;94;9;Sidney Buchman
+3823;94;10;false
+3824;94;11;false
+3825;94;12;false
+3826;94;13;false
+3827;94;14;false
+3828;94;15;true
+3829;94;16;false
+3830;94;17;false
+3831;94;18;false
+3832;94;19;false
+3833;94;20;false
+3834;94;21;false
+3835;94;22;false
+3836;94;23;false
+3837;94;24;false
+3838;94;25;false
+3839;94;26;false
+3840;94;27;false
+3841;94;28;false
+3842;94;29;false
+3843;94;30;false
+3844;94;31;true
+3845;94;32;true
+3846;94;33;false
+3847;94;34;false
+3848;94;35;false
+3849;94;36;false
+3850;94;37;false
+3851;94;38;false
+3852;94;39;false
+3853;94;40;8.1
+3854;94;41;14
+3855;95;1;30000000
+3856;95;2;autumn
+3857;95;3;2003
+3858;95;4;Mystic River
+3859;95;5;36.4375
+3860;95;6;Sean Penn,Tim Robbins,Kevin Bacon
+3861;95;7;Clint Eastwood
+3862;95;8;Clint Eastwood
+3863;95;9;NULL
+3864;95;10;false
+3865;95;11;false
+3866;95;12;false
+3867;95;13;false
+3868;95;14;true
+3869;95;15;true
+3870;95;16;false
+3871;95;17;false
+3872;95;18;false
+3873;95;19;false
+3874;95;20;false
+3875;95;21;true
+3876;95;22;false
+3877;95;23;false
+3878;95;24;false
+3879;95;25;true
+3880;95;26;false
+3881;95;27;false
+3882;95;28;false
+3883;95;29;false
+3884;95;30;false
+3885;95;31;true
+3886;95;32;true
+3887;95;33;false
+3888;95;34;false
+3889;95;35;false
+3890;95;36;false
+3891;95;37;false
+3892;95;38;false
+3893;95;39;false
+3894;95;40;6.8
+3895;95;41;164
+3896;96;1;3800000
+3897;96;2;autumn
+3898;96;3;1976
+3899;96;4;Network
+3900;96;5;47.142857142857146
+3901;96;6;Faye Dunaway,William Holden,Peter Finch
+3902;96;7;Sidney Lumet
+3903;96;8;Fred C. Caruso
+3904;96;9;Paddy Chayefsky
+3905;96;10;false
+3906;96;11;false
+3907;96;12;false
+3908;96;13;true
+3909;96;14;false
+3910;96;15;true
+3911;96;16;false
+3912;96;17;false
+3913;96;18;false
+3914;96;19;false
+3915;96;20;false
+3916;96;21;false
+3917;96;22;true
+3918;96;23;false
+3919;96;24;false
+3920;96;25;false
+3921;96;26;false
+3922;96;27;false
+3923;96;28;false
+3924;96;29;false
+3925;96;30;false
+3926;96;31;true
+3927;96;32;true
+3928;96;33;false
+3929;96;34;false
+3930;96;35;false
+3931;96;36;false
+3932;96;37;false
+3933;96;38;false
+3934;96;39;false
+3935;96;40;7.6
+3936;96;41;26
+3937;97;1;25000000
+3938;97;2;autumn
+3939;97;3;2007
+3940;97;4;No Country for Old Men
+3941;97;5;49.6
+3942;97;6;Tommy Lee Jones,Javier Bardem,Josh Brolin
+3943;97;7;Joel Coen
+3944;97;8;Scott Rudin
+3945;97;9;Joel Coen
+3946;97;10;false
+3947;97;11;false
+3948;97;12;false
+3949;97;13;false
+3950;97;14;true
+3951;97;15;true
+3952;97;16;false
+3953;97;17;false
+3954;97;18;false
+3955;97;19;false
+3956;97;20;false
+3957;97;21;false
+3958;97;22;false
+3959;97;23;false
+3960;97;24;true
+3961;97;25;true
+3962;97;26;false
+3963;97;27;false
+3964;97;28;false
+3965;97;29;false
+3966;97;30;false
+3967;97;31;true
+3968;97;32;true
+3969;97;33;false
+3970;97;34;false
+3971;97;35;false
+3972;97;36;false
+3973;97;37;false
+3974;97;38;false
+3975;97;39;true
+3976;97;40;7.1
+3977;97;41;450
+3978;98;1;4000000
+3979;98;2;summer
+3980;98;3;1959
+3981;98;4;North by Northwest
+3982;98;5;48.40909090909091
+3983;98;6;Cary Grant,Eva Marie Saint,James Mason
+3984;98;7;Alfred Hitchcock
+3985;98;8;Alfred Hitchcock
+3986;98;9;Ernest Lehman
+3987;98;10;true
+3988;98;11;true
+3989;98;12;false
+3990;98;13;false
+3991;98;14;false
+3992;98;15;true
+3993;98;16;false
+3994;98;17;false
+3995;98;18;false
+3996;98;19;false
+3997;98;20;false
+3998;98;21;true
+3999;98;22;false
+4000;98;23;false
+4001;98;24;true
+4002;98;25;true
+4003;98;26;false
+4004;98;27;false
+4005;98;28;false
+4006;98;29;false
+4007;98;30;false
+4008;98;31;true
+4009;98;32;true
+4010;98;33;false
+4011;98;34;false
+4012;98;35;false
+4013;98;36;false
+4014;98;37;false
+4015;98;38;false
+4016;98;39;false
+4017;98;40;7.2
+4018;98;41;251
+4019;99;1;2000000
+4020;99;2;summer
+4021;99;3;1946
+4022;99;4;Notorious
+4023;99;5;49.6
+4024;99;6;Cary Grant,Ingrid Bergman,Claude Rains
+4025;99;7;Alfred Hitchcock
+4026;99;8;Alfred Hitchcock
+4027;99;9;Ben Hecht
+4028;99;10;true
+4029;99;11;false
+4030;99;12;false
+4031;99;13;false
+4032;99;14;false
+4033;99;15;false
+4034;99;16;false
+4035;99;17;false
+4036;99;18;false
+4037;99;19;false
+4038;99;20;false
+4039;99;21;false
+4040;99;22;true
+4041;99;23;false
+4042;99;24;false
+4043;99;25;true
+4044;99;26;false
+4045;99;27;false
+4046;99;28;false
+4047;99;29;false
+4048;99;30;false
+4049;99;31;true
+4050;99;32;true
+4051;99;33;false
+4052;99;34;false
+4053;99;35;false
+4054;99;36;false
+4055;99;37;false
+4056;99;38;false
+4057;99;39;false
+4058;99;40;7.8
+4059;99;41;32
+4060;100;1;0
+4061;100;2;autumn
+4062;100;3;1988
+4063;100;4;Cinema Paradiso
+4064;100;5;45.22222222222222
+4065;100;6;Philippe Noiret,Jacques Perrin,Marco Leonardi
+4066;100;7;Giuseppe Tornatore
+4067;100;8;Franco Cristaldi
+4068;100;9;Giuseppe Tornatore
+4069;100;10;false
+4070;100;11;false
+4071;100;12;false
+4072;100;13;false
+4073;100;14;false
+4074;100;15;true
+4075;100;16;false
+4076;100;17;false
+4077;100;18;false
+4078;100;19;false
+4079;100;20;false
+4080;100;21;false
+4081;100;22;true
+4082;100;23;false
+4083;100;24;false
+4084;100;25;false
+4085;100;26;false
+4086;100;27;false
+4087;100;28;true
+4088;100;29;false
+4089;100;30;false
+4090;100;31;false
+4091;100;32;true
+4092;100;33;false
+4093;100;34;false
+4094;100;35;true
+4095;100;36;false
+4096;100;37;false
+4097;100;38;false
+4098;100;39;false
+4099;100;40;7.5
+4100;100;41;185
+4101;101;1;910000
+4102;101;2;summer
+4103;101;3;1954
+4104;101;4;On the Waterfront
+4105;101;5;35.588235294117645
+4106;101;6;Marlon Brando,Karl Malden,Lee J. Cobb
+4107;101;7;Elia Kazan
+4108;101;8;Sam Spiegel
+4109;101;9;Budd Schulberg
+4110;101;10;false
+4111;101;11;false
+4112;101;12;false
+4113;101;13;false
+4114;101;14;true
+4115;101;15;true
+4116;101;16;false
+4117;101;17;false
+4118;101;18;false
+4119;101;19;false
+4120;101;20;false
+4121;101;21;false
+4122;101;22;false
+4123;101;23;false
+4124;101;24;false
+4125;101;25;false
+4126;101;26;false
+4127;101;27;false
+4128;101;28;false
+4129;101;29;false
+4130;101;30;false
+4131;101;31;true
+4132;101;32;true
+4133;101;33;false
+4134;101;34;false
+4135;101;35;false
+4136;101;36;false
+4137;101;37;false
+4138;101;38;false
+4139;101;39;false
+4140;101;40;8.4
+4141;101;41;24
+4142;102;1;30000000
+4143;102;2;winter
+4144;102;3;1984
+4145;102;4;Once Upon a Time in America
+4146;102;5;32.833333333333336
+4147;102;6;Robert De Niro,James Woods,Elizabeth McGovern
+4148;102;7;Sergio Leone
+4149;102;8;Arnon Milchan
+4150;102;9;Harry Grey
+4151;102;10;false
+4152;102;11;false
+4153;102;12;false
+4154;102;13;false
+4155;102;14;true
+4156;102;15;true
+4157;102;16;false
+4158;102;17;false
+4159;102;18;false
+4160;102;19;false
+4161;102;20;false
+4162;102;21;false
+4163;102;22;false
+4164;102;23;false
+4165;102;24;false
+4166;102;25;false
+4167;102;26;false
+4168;102;27;false
+4169;102;28;false
+4170;102;29;false
+4171;102;30;false
+4172;102;31;true
+4173;102;32;true
+4174;102;33;true
+4175;102;34;false
+4176;102;35;true
+4177;102;36;false
+4178;102;37;false
+4179;102;38;false
+4180;102;39;false
+4181;102;40;7.2
+4182;102;41;199
+4183;103;1;3000000
+4184;103;2;autumn
+4185;103;3;1975
+4186;103;4;One Flew Over the Cuckoo's Nest
+4187;103;5;40.5
+4188;103;6;Jack Nicholson,Louise Fletcher,Danny DeVito
+4189;103;7;Miloš Forman
+4190;103;8;Michael Douglas
+4191;103;9;Bo Goldman
+4192;103;10;false
+4193;103;11;false
+4194;103;12;false
+4195;103;13;false
+4196;103;14;false
+4197;103;15;true
+4198;103;16;false
+4199;103;17;false
+4200;103;18;false
+4201;103;19;false
+4202;103;20;false
+4203;103;21;false
+4204;103;22;false
+4205;103;23;false
+4206;103;24;false
+4207;103;25;false
+4208;103;26;false
+4209;103;27;false
+4210;103;28;false
+4211;103;29;false
+4212;103;30;false
+4213;103;31;true
+4214;103;32;true
+4215;103;33;false
+4216;103;34;false
+4217;103;35;false
+4218;103;36;false
+4219;103;37;false
+4220;103;38;false
+4221;103;39;false
+4222;103;40;7.5
+4223;103;41;594
+4224;104;1;12000000
+4225;104;2;autumn
+4226;104;3;1973
+4227;104;4;Papillon
+4228;104;5;42.57142857142857
+4229;104;6;Steve McQueen,Dustin Hoffman,Woodrow Parfrey
+4230;104;7;Franklin J. Schaffner
+4231;104;8;Robert Dorfmann
+4232;104;9;Dalton Trumbo
+4233;104;10;false
+4234;104;11;false
+4235;104;12;false
+4236;104;13;false
+4237;104;14;true
+4238;104;15;true
+4239;104;16;false
+4240;104;17;false
+4241;104;18;false
+4242;104;19;false
+4243;104;20;false
+4244;104;21;false
+4245;104;22;false
+4246;104;23;false
+4247;104;24;false
+4248;104;25;false
+4249;104;26;false
+4250;104;27;false
+4251;104;28;false
+4252;104;29;false
+4253;104;30;false
+4254;104;31;true
+4255;104;32;true
+4256;104;33;false
+4257;104;34;false
+4258;104;35;false
+4259;104;36;false
+4260;104;37;false
+4261;104;38;false
+4262;104;39;true
+4263;104;40;8.0
+4264;104;41;39
+4265;105;1;0
+4266;105;2;summer
+4267;105;3;1957
+4268;105;4;Paths of Glory
+4269;105;5;41.285714285714285
+4270;105;6;Kirk Douglas,Ralph Meeker,Adolphe Menjou
+4271;105;7;Stanley Kubrick
+4272;105;8;Stanley Kubrick
+4273;105;9;Stanley Kubrick
+4274;105;10;false
+4275;105;11;false
+4276;105;12;false
+4277;105;13;false
+4278;105;14;false
+4279;105;15;true
+4280;105;16;false
+4281;105;17;false
+4282;105;18;false
+4283;105;19;false
+4284;105;20;false
+4285;105;21;false
+4286;105;22;false
+4287;105;23;false
+4288;105;24;false
+4289;105;25;false
+4290;105;26;true
+4291;105;27;false
+4292;105;28;false
+4293;105;29;false
+4294;105;30;false
+4295;105;31;true
+4296;105;32;true
+4297;105;33;false
+4298;105;34;true
+4299;105;35;false
+4300;105;36;false
+4301;105;37;true
+4302;105;38;false
+4303;105;39;false
+4304;105;40;7.9
+4305;105;41;61
+4306;106;1;200000
+4307;106;2;summer
+4308;106;3;1964
+4309;106;4;A Fistful of Dollars
+4310;106;5;41.27272727272727
+4311;106;6;Clint Eastwood,Marianne Koch,Wolfgang Lukschy
+4312;106;7;Sergio Leone
+4313;106;8;Arrigo Colombo
+4314;106;9;Víctor Andrés Catena
+4315;106;10;false
+4316;106;11;false
+4317;106;12;false
+4318;106;13;false
+4319;106;14;false
+4320;106;15;false
+4321;106;16;false
+4322;106;17;false
+4323;106;18;false
+4324;106;19;false
+4325;106;20;false
+4326;106;21;false
+4327;106;22;false
+4328;106;23;false
+4329;106;24;false
+4330;106;25;false
+4331;106;26;false
+4332;106;27;true
+4333;106;28;false
+4334;106;29;true
+4335;106;30;false
+4336;106;31;false
+4337;106;32;false
+4338;106;33;false
+4339;106;34;false
+4340;106;35;true
+4341;106;36;false
+4342;106;37;false
+4343;106;38;false
+4344;106;39;true
+4345;106;40;7.1
+4346;106;41;147
+4347;107;1;0
+4348;107;2;autumn
+4349;107;3;1966
+4350;107;4;Persona
+4351;107;5;34.4
+4352;107;6;Bibi Andersson,Liv Ullmann,Margaretha Krook
+4353;107;7;Ingmar Bergman
+4354;107;8;Ingmar Bergman
+4355;107;9;Ingmar Bergman
+4356;107;10;false
+4357;107;11;false
+4358;107;12;false
+4359;107;13;false
+4360;107;14;false
+4361;107;15;true
+4362;107;16;false
+4363;107;17;false
+4364;107;18;false
+4365;107;19;false
+4366;107;20;false
+4367;107;21;false
+4368;107;22;false
+4369;107;23;false
+4370;107;24;false
+4371;107;25;false
+4372;107;26;false
+4373;107;27;false
+4374;107;28;false
+4375;107;29;false
+4376;107;30;false
+4377;107;31;false
+4378;107;32;false
+4379;107;33;false
+4380;107;34;false
+4381;107;35;false
+4382;107;36;false
+4383;107;37;false
+4384;107;38;false
+4385;107;39;false
+4386;107;40;7.9
+4387;107;41;22
+4388;108;1;140000000
+4389;108;2;summer
+4390;108;3;2003
+4391;108;4;Pirates of the Caribbean: The Curse of the Black Pearl
+4392;108;5;34.45
+4393;108;6;Johnny Depp,Geoffrey Rush,Orlando Bloom
+4394;108;7;Gore Verbinski
+4395;108;8;Jerry Bruckheimer
+4396;108;9;Ted Elliott
+4397;108;10;true
+4398;108;11;true
+4399;108;12;false
+4400;108;13;false
+4401;108;14;false
+4402;108;15;false
+4403;108;16;false
+4404;108;17;true
+4405;108;18;false
+4406;108;19;false
+4407;108;20;false
+4408;108;21;false
+4409;108;22;false
+4410;108;23;false
+4411;108;24;false
+4412;108;25;false
+4413;108;26;false
+4414;108;27;false
+4415;108;28;false
+4416;108;29;false
+4417;108;30;false
+4418;108;31;true
+4419;108;32;true
+4420;108;33;false
+4421;108;34;false
+4422;108;35;false
+4423;108;36;false
+4424;108;37;false
+4425;108;38;false
+4426;108;39;false
+4427;108;40;6.9
+4428;108;41;2036
+4429;109;1;6000000
+4430;109;2;autumn
+4431;109;3;1986
+4432;109;4;Platoon
+4433;109;5;28.166666666666668
+4434;109;6;Tom Berenger,Charlie Sheen,Willem Dafoe
+4435;109;7;Oliver Stone
+4436;109;8;Arnold Kopelson
+4437;109;9;Oliver Stone
+4438;109;10;true
+4439;109;11;false
+4440;109;12;false
+4441;109;13;false
+4442;109;14;false
+4443;109;15;true
+4444;109;16;false
+4445;109;17;false
+4446;109;18;false
+4447;109;19;false
+4448;109;20;false
+4449;109;21;false
+4450;109;22;false
+4451;109;23;false
+4452;109;24;false
+4453;109;25;false
+4454;109;26;true
+4455;109;27;false
+4456;109;28;false
+4457;109;29;false
+4458;109;30;true
+4459;109;31;true
+4460;109;32;true
+4461;109;33;false
+4462;109;34;false
+4463;109;35;false
+4464;109;36;false
+4465;109;37;false
+4466;109;38;false
+4467;109;39;false
+4468;109;40;6.9
+4469;109;41;235
+4470;110;1;806948
+4471;110;2;spring
+4472;110;3;1960
+4473;110;4;Psycho
+4474;110;5;41.785714285714285
+4475;110;6;Anthony Perkins,Vera Miles,John Gavin
+4476;110;7;Alfred Hitchcock
+4477;110;8;Alfred Hitchcock
+4478;110;9;Joseph Stefano
+4479;110;10;false
+4480;110;11;false
+4481;110;12;false
+4482;110;13;false
+4483;110;14;false
+4484;110;15;true
+4485;110;16;false
+4486;110;17;false
+4487;110;18;false
+4488;110;19;false
+4489;110;20;true
+4490;110;21;false
+4491;110;22;false
+4492;110;23;false
+4493;110;24;false
+4494;110;25;true
+4495;110;26;false
+4496;110;27;false
+4497;110;28;false
+4498;110;29;false
+4499;110;30;false
+4500;110;31;true
+4501;110;32;true
+4502;110;33;false
+4503;110;34;false
+4504;110;35;false
+4505;110;36;false
+4506;110;37;false
+4507;110;38;false
+4508;110;39;false
+4509;110;40;7.1
+4510;110;41;288
+4511;111;1;8000000
+4512;111;2;autumn
+4513;111;3;1994
+4514;111;4;Pulp Fiction
+4515;111;5;35.0
+4516;111;6;Tim Roth,Amanda Plummer,Laura Lovelace
+4517;111;7;Quentin Tarantino
+4518;111;8;Lawrence Bender
+4519;111;9;Quentin Tarantino
+4520;111;10;false
+4521;111;11;false
+4522;111;12;false
+4523;111;13;false
+4524;111;14;true
+4525;111;15;false
+4526;111;16;false
+4527;111;17;false
+4528;111;18;false
+4529;111;19;false
+4530;111;20;false
+4531;111;21;false
+4532;111;22;false
+4533;111;23;false
+4534;111;24;false
+4535;111;25;true
+4536;111;26;false
+4537;111;27;false
+4538;111;28;false
+4539;111;29;false
+4540;111;30;false
+4541;111;31;true
+4542;111;32;true
+4543;111;33;true
+4544;111;34;false
+4545;111;35;false
+4546;111;36;false
+4547;111;37;false
+4548;111;38;false
+4549;111;39;true
+4550;111;40;7.5
+4551;111;41;2584
+4552;112;1;18000000
+4553;112;2;autumn
+4554;112;3;1980
+4555;112;4;Raging Bull
+4556;112;5;39.142857142857146
+4557;112;6;Robert De Niro,Joe Pesci,Cathy Moriarty
+4558;112;7;Martin Scorsese
+4559;112;8;Robert Chartoff
+4560;112;9;Paul Schrader
+4561;112;10;false
+4562;112;11;false
+4563;112;12;false
+4564;112;13;false
+4565;112;14;false
+4566;112;15;true
+4567;112;16;false
+4568;112;17;false
+4569;112;18;false
+4570;112;19;false
+4571;112;20;false
+4572;112;21;false
+4573;112;22;false
+4574;112;23;false
+4575;112;24;false
+4576;112;25;false
+4577;112;26;false
+4578;112;27;false
+4579;112;28;false
+4580;112;29;false
+4581;112;30;false
+4582;112;31;true
+4583;112;32;true
+4584;112;33;false
+4585;112;34;false
+4586;112;35;false
+4587;112;36;false
+4588;112;37;false
+4589;112;38;false
+4590;112;39;false
+4591;112;40;7.4
+4592;112;41;126
+4593;113;1;20000000
+4594;113;2;spring
+4595;113;3;1981
+4596;113;4;Raiders of the Lost Ark
+4597;113;5;37.90909090909091
+4598;113;6;Harrison Ford,Karen Allen,Paul Freeman
+4599;113;7;Steven Spielberg
+4600;113;8;Frank Marshall
+4601;113;9;NULL
+4602;113;10;true
+4603;113;11;true
+4604;113;12;false
+4605;113;13;false
+4606;113;14;false
+4607;113;15;false
+4608;113;16;false
+4609;113;17;false
+4610;113;18;false
+4611;113;19;false
+4612;113;20;false
+4613;113;21;false
+4614;113;22;false
+4615;113;23;false
+4616;113;24;false
+4617;113;25;false
+4618;113;26;false
+4619;113;27;false
+4620;113;28;false
+4621;113;29;false
+4622;113;30;false
+4623;113;31;true
+4624;113;32;true
+4625;113;33;false
+4626;113;34;true
+4627;113;35;false
+4628;113;36;false
+4629;113;37;false
+4630;113;38;false
+4631;113;39;true
+4632;113;40;7.1
+4633;113;41;1401
+4634;114;1;25000000
+4635;114;2;autumn
+4636;114;3;1988
+4637;114;4;Rain Man
+4638;114;5;36.625
+4639;114;6;Dustin Hoffman,Tom Cruise,Valeria Golino
+4640;114;7;Barry Levinson
+4641;114;8;Mark Johnson
+4642;114;9;Ronald Bass
+4643;114;10;false
+4644;114;11;false
+4645;114;12;false
+4646;114;13;false
+4647;114;14;false
+4648;114;15;true
+4649;114;16;false
+4650;114;17;false
+4651;114;18;false
+4652;114;19;false
+4653;114;20;false
+4654;114;21;false
+4655;114;22;false
+4656;114;23;false
+4657;114;24;false
+4658;114;25;false
+4659;114;26;false
+4660;114;27;false
+4661;114;28;false
+4662;114;29;false
+4663;114;30;false
+4664;114;31;true
+4665;114;32;true
+4666;114;33;false
+4667;114;34;false
+4668;114;35;false
+4669;114;36;false
+4670;114;37;false
+4671;114;38;false
+4672;114;39;false
+4673;114;40;6.9
+4674;114;41;286
+4675;115;1;0
+4676;115;2;spring
+4677;115;3;1985
+4678;115;4;Ran
+4679;115;5;39.25
+4680;115;6;Akira Terao,Jinpachi Nezu,Daisuke Ryû
+4681;115;7;Akira Kurosawa
+4682;115;8;Masato Hara
+4683;115;9;Akira Kurosawa
+4684;115;10;true
+4685;115;11;false
+4686;115;12;false
+4687;115;13;false
+4688;115;14;false
+4689;115;15;true
+4690;115;16;false
+4691;115;17;false
+4692;115;18;false
+4693;115;19;true
+4694;115;20;false
+4695;115;21;false
+4696;115;22;false
+4697;115;23;false
+4698;115;24;false
+4699;115;25;false
+4700;115;26;false
+4701;115;27;false
+4702;115;28;false
+4703;115;29;false
+4704;115;30;false
+4705;115;31;false
+4706;115;32;false
+4707;115;33;false
+4708;115;34;false
+4709;115;35;false
+4710;115;36;true
+4711;115;37;false
+4712;115;38;false
+4713;115;39;false
+4714;115;40;7.7
+4715;115;41;72
+4716;116;1;150000000
+4717;116;2;summer
+4718;116;3;2007
+4719;116;4;Ratatouille
+4720;116;5;51.25
+4721;116;6;Patton Oswalt,Lou Romano,Janeane Garofalo
+4722;116;7;Brad Bird
+4723;116;8;Brad Lewis
+4724;116;9;Brad Bird
+4725;116;10;false
+4726;116;11;false
+4727;116;12;true
+4728;116;13;true
+4729;116;14;false
+4730;116;15;false
+4731;116;16;true
+4732;116;17;false
+4733;116;18;false
+4734;116;19;false
+4735;116;20;false
+4736;116;21;false
+4737;116;22;false
+4738;116;23;false
+4739;116;24;false
+4740;116;25;false
+4741;116;26;false
+4742;116;27;false
+4743;116;28;false
+4744;116;29;false
+4745;116;30;false
+4746;116;31;true
+4747;116;32;true
+4748;116;33;false
+4749;116;34;false
+4750;116;35;false
+4751;116;36;false
+4752;116;37;false
+4753;116;38;false
+4754;116;39;false
+4755;116;40;6.7
+4756;116;41;1059
+4757;117;1;1000000
+4758;117;2;summer
+4759;117;3;1954
+4760;117;4;Rear Window
+4761;117;5;42.285714285714285
+4762;117;6;James Stewart,Grace Kelly,Wendell Corey
+4763;117;7;Alfred Hitchcock
+4764;117;8;Alfred Hitchcock
+4765;117;9;John Michael Hayes
+4766;117;10;false
+4767;117;11;false
+4768;117;12;false
+4769;117;13;false
+4770;117;14;false
+4771;117;15;false
+4772;117;16;false
+4773;117;17;false
+4774;117;18;false
+4775;117;19;false
+4776;117;20;false
+4777;117;21;true
+4778;117;22;false
+4779;117;23;false
+4780;117;24;false
+4781;117;25;true
+4782;117;26;false
+4783;117;27;false
+4784;117;28;false
+4785;117;29;false
+4786;117;30;false
+4787;117;31;true
+4788;117;32;true
+4789;117;33;false
+4790;117;34;false
+4791;117;35;false
+4792;117;36;false
+4793;117;37;false
+4794;117;38;false
+4795;117;39;false
+4796;117;40;7.3
+4797;117;41;284
+4798;118;1;1288000
+4799;118;2;spring
+4800;118;3;1940
+4801;118;4;Rebecca
+4802;118;5;49.529411764705884
+4803;118;6;Laurence Olivier,Joan Fontaine,George Sanders
+4804;118;7;Alfred Hitchcock
+4805;118;8;David O. Selznick
+4806;118;9;Robert E. Sherwood
+4807;118;10;false
+4808;118;11;false
+4809;118;12;false
+4810;118;13;false
+4811;118;14;false
+4812;118;15;true
+4813;118;16;false
+4814;118;17;false
+4815;118;18;false
+4816;118;19;false
+4817;118;20;false
+4818;118;21;true
+4819;118;22;true
+4820;118;23;false
+4821;118;24;true
+4822;118;25;true
+4823;118;26;false
+4824;118;27;false
+4825;118;28;false
+4826;118;29;false
+4827;118;30;false
+4828;118;31;true
+4829;118;32;true
+4830;118;33;true
+4831;118;34;false
+4832;118;35;false
+4833;118;36;false
+4834;118;37;false
+4835;118;38;false
+4836;118;39;false
+4837;118;40;6.8
+4838;118;41;33
+4839;119;1;4500000
+4840;119;2;autumn
+4841;119;3;2000
+4842;119;4;Requiem for a Dream
+4843;119;5;46.0
+4844;119;6;Ellen Burstyn,Jared Leto,Jennifer Connelly
+4845;119;7;Darren Aronofsky
+4846;119;8;Palmer West
+4847;119;9;Hubert Selby Jr.
+4848;119;10;false
+4849;119;11;false
+4850;119;12;false
+4851;119;13;false
+4852;119;14;false
+4853;119;15;true
+4854;119;16;false
+4855;119;17;false
+4856;119;18;false
+4857;119;19;false
+4858;119;20;false
+4859;119;21;false
+4860;119;22;false
+4861;119;23;false
+4862;119;24;false
+4863;119;25;false
+4864;119;26;false
+4865;119;27;false
+4866;119;28;false
+4867;119;29;false
+4868;119;30;false
+4869;119;31;true
+4870;119;32;true
+4871;119;33;false
+4872;119;34;false
+4873;119;35;false
+4874;119;36;false
+4875;119;37;false
+4876;119;38;false
+4877;119;39;false
+4878;119;40;7.3
+4879;119;41;400
+4880;120;1;1200000
+4881;120;2;summer
+4882;120;3;1992
+4883;120;4;Reservoir Dogs
+4884;120;5;41.27272727272727
+4885;120;6;Harvey Keitel,Tim Roth,Michael Madsen
+4886;120;7;Quentin Tarantino
+4887;120;8;Lawrence Bender
+4888;120;9;NULL
+4889;120;10;false
+4890;120;11;false
+4891;120;12;false
+4892;120;13;false
+4893;120;14;true
+4894;120;15;false
+4895;120;16;false
+4896;120;17;false
+4897;120;18;false
+4898;120;19;false
+4899;120;20;false
+4900;120;21;false
+4901;120;22;false
+4902;120;23;false
+4903;120;24;false
+4904;120;25;true
+4905;120;26;false
+4906;120;27;false
+4907;120;28;false
+4908;120;29;false
+4909;120;30;false
+4910;120;31;true
+4911;120;32;true
+4912;120;33;false
+4913;120;34;false
+4914;120;35;false
+4915;120;36;false
+4916;120;37;false
+4917;120;38;false
+4918;120;39;false
+4919;120;40;7.3
+4920;120;41;524
+4921;121;1;1100000
+4922;121;2;autumn
+4923;121;3;1976
+4924;121;4;Rocky
+4925;121;5;44.84615384615385
+4926;121;6;Sylvester Stallone,Talia Shire,Burt Young
+4927;121;7;John G. Avildsen
+4928;121;8;Robert Chartoff
+4929;121;9;Sylvester Stallone
+4930;121;10;false
+4931;121;11;false
+4932;121;12;false
+4933;121;13;false
+4934;121;14;false
+4935;121;15;true
+4936;121;16;false
+4937;121;17;false
+4938;121;18;false
+4939;121;19;false
+4940;121;20;false
+4941;121;21;false
+4942;121;22;false
+4943;121;23;false
+4944;121;24;false
+4945;121;25;false
+4946;121;26;false
+4947;121;27;false
+4948;121;28;false
+4949;121;29;false
+4950;121;30;false
+4951;121;31;true
+4952;121;32;true
+4953;121;33;false
+4954;121;34;false
+4955;121;35;false
+4956;121;36;false
+4957;121;37;false
+4958;121;38;false
+4959;121;39;false
+4960;121;40;6.7
+4961;121;41;325
+4962;122;1;1500000
+4963;122;2;summer
+4964;122;3;1953
+4965;122;4;Roman Holiday
+4966;122;5;47.125
+4967;122;6;Gregory Peck,Audrey Hepburn,Eddie Albert
+4968;122;7;William Wyler
+4969;122;8;William Wyler
+4970;122;9;Ian McLellan Hunter
+4971;122;10;false
+4972;122;11;false
+4973;122;12;false
+4974;122;13;true
+4975;122;14;false
+4976;122;15;true
+4977;122;16;false
+4978;122;17;false
+4979;122;18;false
+4980;122;19;false
+4981;122;20;false
+4982;122;21;false
+4983;122;22;true
+4984;122;23;false
+4985;122;24;false
+4986;122;25;false
+4987;122;26;false
+4988;122;27;false
+4989;122;28;false
+4990;122;29;false
+4991;122;30;false
+4992;122;31;true
+4993;122;32;true
+4994;122;33;false
+4995;122;34;false
+4996;122;35;true
+4997;122;36;false
+4998;122;37;false
+4999;122;38;false
+5000;122;39;false
+5001;122;40;7.6
+5002;122;41;50
+5003;123;1;1500000
+5004;123;2;summer
+5005;123;3;1948
+5006;123;4;Rope
+5007;123;5;41.125
+5008;123;6;James Stewart,John Dall,Farley Granger
+5009;123;7;Alfred Hitchcock
+5010;123;8;Sidney Bernstein
+5011;123;9;Arthur Laurents
+5012;123;10;false
+5013;123;11;false
+5014;123;12;false
+5015;123;13;false
+5016;123;14;true
+5017;123;15;true
+5018;123;16;false
+5019;123;17;false
+5020;123;18;false
+5021;123;19;false
+5022;123;20;false
+5023;123;21;true
+5024;123;22;false
+5025;123;23;false
+5026;123;24;true
+5027;123;25;true
+5028;123;26;false
+5029;123;27;false
+5030;123;28;false
+5031;123;29;false
+5032;123;30;false
+5033;123;31;true
+5034;123;32;true
+5035;123;33;false
+5036;123;34;false
+5037;123;35;false
+5038;123;36;false
+5039;123;37;false
+5040;123;38;false
+5041;123;39;false
+5042;123;40;7.2
+5043;123;41;25
+5044;124;1;3200000
+5045;124;2;spring
+5046;124;3;1968
+5047;124;4;Rosemary's Baby
+5048;124;5;50.266666666666666
+5049;124;6;Mia Farrow,John Cassavetes,Ruth Gordon
+5050;124;7;Roman Polanski
+5051;124;8;William Castle
+5052;124;9;Roman Polanski
+5053;124;10;false
+5054;124;11;false
+5055;124;12;false
+5056;124;13;false
+5057;124;14;false
+5058;124;15;true
+5059;124;16;false
+5060;124;17;false
+5061;124;18;false
+5062;124;19;false
+5063;124;20;true
+5064;124;21;true
+5065;124;22;false
+5066;124;23;false
+5067;124;24;false
+5068;124;25;false
+5069;124;26;false
+5070;124;27;false
+5071;124;28;false
+5072;124;29;false
+5073;124;30;false
+5074;124;31;true
+5075;124;32;true
+5076;124;33;false
+5077;124;34;false
+5078;124;35;false
+5079;124;36;false
+5080;124;37;false
+5081;124;38;false
+5082;124;39;false
+5083;124;40;6.6
+5084;124;41;109
+5085;125;1;70000000
+5086;125;2;summer
+5087;125;3;1998
+5088;125;4;Saving Private Ryan
+5089;125;5;37.470588235294116
+5090;125;6;Tom Hanks,Tom Sizemore,Dennis Farina
+5091;125;7;Steven Spielberg
+5092;125;8;Steven Spielberg
+5093;125;9;Robert Rodat
+5094;125;10;false
+5095;125;11;false
+5096;125;12;false
+5097;125;13;false
+5098;125;14;false
+5099;125;15;true
+5100;125;16;false
+5101;125;17;false
+5102;125;18;false
+5103;125;19;true
+5104;125;20;false
+5105;125;21;false
+5106;125;22;false
+5107;125;23;false
+5108;125;24;false
+5109;125;25;false
+5110;125;26;true
+5111;125;27;false
+5112;125;28;false
+5113;125;29;false
+5114;125;30;false
+5115;125;31;true
+5116;125;32;true
+5117;125;33;true
+5118;125;34;true
+5119;125;35;false
+5120;125;36;false
+5121;125;37;false
+5122;125;38;false
+5123;125;39;false
+5124;125;40;7.2
+5125;125;41;1674
+5126;126;1;25000000
+5127;126;2;autumn
+5128;126;3;1983
+5129;126;4;Scarface
+5130;126;5;40.142857142857146
+5131;126;6;Al Pacino,Steven Bauer,Michelle Pfeiffer
+5132;126;7;Brian De Palma
+5133;126;8;Martin Bregman
+5134;126;9;Oliver Stone
+5135;126;10;true
+5136;126;11;true
+5137;126;12;false
+5138;126;13;false
+5139;126;14;true
+5140;126;15;true
+5141;126;16;false
+5142;126;17;false
+5143;126;18;false
+5144;126;19;false
+5145;126;20;false
+5146;126;21;false
+5147;126;22;false
+5148;126;23;false
+5149;126;24;false
+5150;126;25;true
+5151;126;26;false
+5152;126;27;false
+5153;126;28;false
+5154;126;29;false
+5155;126;30;false
+5156;126;31;true
+5157;126;32;true
+5158;126;33;false
+5159;126;34;false
+5160;126;35;false
+5161;126;36;false
+5162;126;37;false
+5163;126;38;false
+5164;126;39;true
+5165;126;40;7.3
+5166;126;41;601
+5167;127;1;22000000
+5168;127;2;autumn
+5169;127;3;1993
+5170;127;4;Schindler's List
+5171;127;5;40.857142857142854
+5172;127;6;Liam Neeson,Ben Kingsley,Ralph Fiennes
+5173;127;7;Steven Spielberg
+5174;127;8;Steven Spielberg
+5175;127;9;Steven Zaillian
+5176;127;10;false
+5177;127;11;false
+5178;127;12;false
+5179;127;13;false
+5180;127;14;false
+5181;127;15;true
+5182;127;16;false
+5183;127;17;false
+5184;127;18;false
+5185;127;19;true
+5186;127;20;false
+5187;127;21;false
+5188;127;22;false
+5189;127;23;false
+5190;127;24;false
+5191;127;25;false
+5192;127;26;true
+5193;127;27;false
+5194;127;28;false
+5195;127;29;false
+5196;127;30;false
+5197;127;31;true
+5198;127;32;true
+5199;127;33;false
+5200;127;34;true
+5201;127;35;false
+5202;127;36;false
+5203;127;37;false
+5204;127;38;true
+5205;127;39;false
+5206;127;40;7.6
+5207;127;41;1082
+5208;128;1;33000000
+5209;128;2;summer
+5210;128;3;1995
+5211;128;4;Se7en
+5212;128;5;42.125
+5213;128;6;Brad Pitt,Morgan Freeman,Gwyneth Paltrow
+5214;128;7;David Fincher
+5215;128;8;Phyllis Carlyle
+5216;128;9;Andrew Kevin Walker
+5217;128;10;false
+5218;128;11;false
+5219;128;12;false
+5220;128;13;false
+5221;128;14;true
+5222;128;15;false
+5223;128;16;false
+5224;128;17;false
+5225;128;18;false
+5226;128;19;false
+5227;128;20;false
+5228;128;21;true
+5229;128;22;false
+5230;128;23;false
+5231;128;24;false
+5232;128;25;true
+5233;128;26;false
+5234;128;27;false
+5235;128;28;false
+5236;128;29;false
+5237;128;30;false
+5238;128;31;true
+5239;128;32;true
+5240;128;33;false
+5241;128;34;false
+5242;128;35;false
+5243;128;36;false
+5244;128;37;false
+5245;128;38;false
+5246;128;39;false
+5247;128;40;7.5
+5248;128;41;1474
+5249;129;1;80000000
+5250;129;2;winter
+5251;129;3;2010
+5252;129;4;Shutter Island
+5253;129;5;48.23076923076923
+5254;129;6;Leonardo DiCaprio,Mark Ruffalo,Ben Kingsley
+5255;129;7;Martin Scorsese
+5256;129;8;Mike Medavoy
+5257;129;9;Laeta Kalogridis
+5258;129;10;false
+5259;129;11;false
+5260;129;12;false
+5261;129;13;false
+5262;129;14;false
+5263;129;15;true
+5264;129;16;false
+5265;129;17;false
+5266;129;18;false
+5267;129;19;false
+5268;129;20;false
+5269;129;21;true
+5270;129;22;false
+5271;129;23;false
+5272;129;24;false
+5273;129;25;true
+5274;129;26;false
+5275;129;27;false
+5276;129;28;false
+5277;129;29;false
+5278;129;30;false
+5279;129;31;true
+5280;129;32;true
+5281;129;33;false
+5282;129;34;true
+5283;129;35;false
+5284;129;36;false
+5285;129;37;false
+5286;129;38;false
+5287;129;39;false
+5288;129;40;6.9
+5289;129;41;1394
+5290;130;1;40000000
+5291;130;2;spring
+5292;130;3;2005
+5293;130;4;Sin City
+5294;130;5;35.61904761904762
+5295;130;6;Bruce Willis,Mickey Rourke,Clive Owen
+5296;130;7;Frank Miller
+5297;130;8;Elizabeth Avellan
+5298;130;9;NULL
+5299;130;10;true
+5300;130;11;false
+5301;130;12;false
+5302;130;13;false
+5303;130;14;true
+5304;130;15;false
+5305;130;16;false
+5306;130;17;false
+5307;130;18;false
+5308;130;19;false
+5309;130;20;false
+5310;130;21;false
+5311;130;22;false
+5312;130;23;false
+5313;130;24;false
+5314;130;25;true
+5315;130;26;false
+5316;130;27;false
+5317;130;28;false
+5318;130;29;false
+5319;130;30;false
+5320;130;31;true
+5321;130;32;true
+5322;130;33;false
+5323;130;34;false
+5324;130;35;false
+5325;130;36;false
+5326;130;37;false
+5327;130;38;false
+5328;130;39;false
+5329;130;40;6.7
+5330;130;41;595
+5331;131;1;2540800
+5332;131;2;spring
+5333;131;3;1952
+5334;131;4;Singin' in the Rain
+5335;131;5;35.72222222222222
+5336;131;6;Gene Kelly,Donald O'Connor,Debbie Reynolds
+5337;131;7;Stanley Donen
+5338;131;8;Arthur Freed
+5339;131;9;Adolph Green
+5340;131;10;false
+5341;131;11;false
+5342;131;12;false
+5343;131;13;true
+5344;131;14;false
+5345;131;15;false
+5346;131;16;false
+5347;131;17;false
+5348;131;18;false
+5349;131;19;false
+5350;131;20;false
+5351;131;21;false
+5352;131;22;true
+5353;131;23;false
+5354;131;24;false
+5355;131;25;false
+5356;131;26;false
+5357;131;27;false
+5358;131;28;false
+5359;131;29;false
+5360;131;30;false
+5361;131;31;true
+5362;131;32;true
+5363;131;33;false
+5364;131;34;false
+5365;131;35;false
+5366;131;36;false
+5367;131;37;false
+5368;131;38;false
+5369;131;39;false
+5370;131;40;6.9
+5371;131;41;166
+5372;132;1;0
+5373;132;2;autumn
+5374;132;3;1972
+5375;132;4;Sleuth
+5376;132;5;52.0
+5377;132;6;Laurence Olivier,Michael Caine,Alec Cawthorne
+5378;132;7;Joseph L. Mankiewicz
+5379;132;8;Morton Gottlieb
+5380;132;9;Anthony Shaffer
+5381;132;10;false
+5382;132;11;false
+5383;132;12;false
+5384;132;13;false
+5385;132;14;false
+5386;132;15;false
+5387;132;16;false
+5388;132;17;false
+5389;132;18;false
+5390;132;19;false
+5391;132;20;false
+5392;132;21;true
+5393;132;22;false
+5394;132;23;false
+5395;132;24;false
+5396;132;25;true
+5397;132;26;false
+5398;132;27;false
+5399;132;28;false
+5400;132;29;false
+5401;132;30;true
+5402;132;31;false
+5403;132;32;true
+5404;132;33;false
+5405;132;34;false
+5406;132;35;false
+5407;132;36;false
+5408;132;37;false
+5409;132;38;false
+5410;132;39;false
+5411;132;40;7.9
+5412;132;41;10
+5413;133;1;15000000
+5414;133;2;autumn
+5415;133;3;2008
+5416;133;4;Slumdog Millionaire
+5417;133;5;38.4
+5418;133;6;Anil Kapoor,Mia Drake Inderbitzin,Dev Patel
+5419;133;7;Danny Boyle
+5420;133;8;Christian Colson
+5421;133;9;Simon Beaufoy
+5422;133;10;false
+5423;133;11;false
+5424;133;12;false
+5425;133;13;false
+5426;133;14;false
+5427;133;15;true
+5428;133;16;false
+5429;133;17;false
+5430;133;18;false
+5431;133;19;false
+5432;133;20;false
+5433;133;21;false
+5434;133;22;true
+5435;133;23;false
+5436;133;24;false
+5437;133;25;false
+5438;133;26;false
+5439;133;27;false
+5440;133;28;false
+5441;133;29;false
+5442;133;30;true
+5443;133;31;false
+5444;133;32;true
+5445;133;33;true
+5446;133;34;false
+5447;133;35;false
+5448;133;36;false
+5449;133;37;false
+5450;133;38;false
+5451;133;39;false
+5452;133;40;7.0
+5453;133;41;485
+5454;134;1;10000000
+5455;134;2;autumn
+5456;134;3;2000
+5457;134;4;Snatch
+5458;134;5;37.857142857142854
+5459;134;6;Jason Statham,Brad Pitt,Stephen Graham
+5460;134;7;Guy Ritchie
+5461;134;8;Matthew Vaughn
+5462;134;9;NULL
+5463;134;10;false
+5464;134;11;false
+5465;134;12;false
+5466;134;13;false
+5467;134;14;true
+5468;134;15;false
+5469;134;16;false
+5470;134;17;false
+5471;134;18;false
+5472;134;19;false
+5473;134;20;false
+5474;134;21;false
+5475;134;22;false
+5476;134;23;false
+5477;134;24;false
+5478;134;25;true
+5479;134;26;false
+5480;134;27;false
+5481;134;28;false
+5482;134;29;false
+5483;134;30;true
+5484;134;31;true
+5485;134;32;true
+5486;134;33;false
+5487;134;34;false
+5488;134;35;false
+5489;134;36;false
+5490;134;37;false
+5491;134;38;true
+5492;134;39;false
+5493;134;40;7.3
+5494;134;41;1052
+5495;135;1;3500000
+5496;135;2;spring
+5497;135;3;1959
+5498;135;4;Some Like It Hot
+5499;135;5;45.36363636363637
+5500;135;6;Marilyn Monroe,Tony Curtis,Jack Lemmon
+5501;135;7;Billy Wilder
+5502;135;8;Billy Wilder
+5503;135;9;NULL
+5504;135;10;false
+5505;135;11;false
+5506;135;12;false
+5507;135;13;true
+5508;135;14;false
+5509;135;15;false
+5510;135;16;false
+5511;135;17;false
+5512;135;18;false
+5513;135;19;false
+5514;135;20;false
+5515;135;21;false
+5516;135;22;false
+5517;135;23;false
+5518;135;24;false
+5519;135;25;false
+5520;135;26;false
+5521;135;27;false
+5522;135;28;false
+5523;135;29;false
+5524;135;30;false
+5525;135;31;true
+5526;135;32;true
+5527;135;33;false
+5528;135;34;false
+5529;135;35;false
+5530;135;36;false
+5531;135;37;false
+5532;135;38;false
+5533;135;39;false
+5534;135;40;7.3
+5535;135;41;113
+5536;136;1;8000000
+5537;136;2;summer
+5538;136;3;1986
+5539;136;4;Stand by Me
+5540;136;5;26.833333333333332
+5541;136;6;Wil Wheaton,River Phoenix,Corey Feldman
+5542;136;7;Rob Reiner
+5543;136;8;Bruce A. Evans
+5544;136;9;Raynold Gideon
+5545;136;10;false
+5546;136;11;false
+5547;136;12;false
+5548;136;13;false
+5549;136;14;true
+5550;136;15;true
+5551;136;16;false
+5552;136;17;false
+5553;136;18;false
+5554;136;19;false
+5555;136;20;false
+5556;136;21;false
+5557;136;22;false
+5558;136;23;false
+5559;136;24;false
+5560;136;25;false
+5561;136;26;false
+5562;136;27;false
+5563;136;28;false
+5564;136;29;false
+5565;136;30;false
+5566;136;31;true
+5567;136;32;true
+5568;136;33;false
+5569;136;34;false
+5570;136;35;false
+5571;136;36;false
+5572;136;37;false
+5573;136;38;false
+5574;136;39;false
+5575;136;40;6.8
+5576;136;41;200
+5577;137;1;150000000
+5578;137;2;spring
+5579;137;3;2009
+5580;137;4;Star Trek
+5581;137;5;39.48888888888889
+5582;137;6;Chris Pine,Zachary Quinto,Leonard Nimoy
+5583;137;7;J.J. Abrams
+5584;137;8;J.J. Abrams
+5585;137;9;NULL
+5586;137;10;true
+5587;137;11;true
+5588;137;12;false
+5589;137;13;false
+5590;137;14;false
+5591;137;15;false
+5592;137;16;false
+5593;137;17;false
+5594;137;18;false
+5595;137;19;false
+5596;137;20;false
+5597;137;21;false
+5598;137;22;false
+5599;137;23;true
+5600;137;24;false
+5601;137;25;false
+5602;137;26;false
+5603;137;27;false
+5604;137;28;false
+5605;137;29;true
+5606;137;30;false
+5607;137;31;true
+5608;137;32;true
+5609;137;33;false
+5610;137;34;false
+5611;137;35;false
+5612;137;36;false
+5613;137;37;false
+5614;137;38;false
+5615;137;39;false
+5616;137;40;7.2
+5617;137;41;2050
+5618;138;1;32350000
+5619;138;2;spring
+5620;138;3;1983
+5621;138;4;Star Wars: Episode VI - Return of the Jedi
+5622;138;5;41.5
+5623;138;6;Mark Hamill,Harrison Ford,Carrie Fisher
+5624;138;7;Richard Marquand
+5625;138;8;Howard G. Kazanjian
+5626;138;9;Lawrence Kasdan
+5627;138;10;true
+5628;138;11;true
+5629;138;12;false
+5630;138;13;false
+5631;138;14;false
+5632;138;15;false
+5633;138;16;false
+5634;138;17;false
+5635;138;18;false
+5636;138;19;false
+5637;138;20;false
+5638;138;21;false
+5639;138;22;false
+5640;138;23;true
+5641;138;24;false
+5642;138;25;false
+5643;138;26;false
+5644;138;27;false
+5645;138;28;false
+5646;138;29;false
+5647;138;30;false
+5648;138;31;true
+5649;138;32;true
+5650;138;33;false
+5651;138;34;false
+5652;138;35;false
+5653;138;36;false
+5654;138;37;false
+5655;138;38;false
+5656;138;39;false
+5657;138;40;7.4
+5658;138;41;1466
+5659;139;1;1200000
+5660;139;2;summer
+5661;139;3;1951
+5662;139;4;Strangers on a Train
+5663;139;5;42.5
+5664;139;6;Farley Granger,Ruth Roman,Robert Walker
+5665;139;7;Alfred Hitchcock
+5666;139;8;Alfred Hitchcock
+5667;139;9;Raymond Chandler
+5668;139;10;false
+5669;139;11;false
+5670;139;12;false
+5671;139;13;false
+5672;139;14;true
+5673;139;15;false
+5674;139;16;false
+5675;139;17;false
+5676;139;18;true
+5677;139;19;false
+5678;139;20;false
+5679;139;21;false
+5680;139;22;false
+5681;139;23;false
+5682;139;24;false
+5683;139;25;true
+5684;139;26;false
+5685;139;27;false
+5686;139;28;false
+5687;139;29;false
+5688;139;30;false
+5689;139;31;true
+5690;139;32;true
+5691;139;33;true
+5692;139;34;false
+5693;139;35;false
+5694;139;36;false
+5695;139;37;false
+5696;139;38;false
+5697;139;39;false
+5698;139;40;7.9
+5699;139;41;24
+5700;140;1;1752000
+5701;140;2;summer
+5702;140;3;1950
+5703;140;4;Sunset Boulevard
+5704;140;5;49.36363636363637
+5705;140;6;William Holden,Gloria Swanson,Erich von Stroheim
+5706;140;7;Billy Wilder
+5707;140;8;Charles Brackett
+5708;140;9;Charles Brackett
+5709;140;10;false
+5710;140;11;false
+5711;140;12;false
+5712;140;13;false
+5713;140;14;false
+5714;140;15;true
+5715;140;16;false
+5716;140;17;false
+5717;140;18;true
+5718;140;19;false
+5719;140;20;false
+5720;140;21;false
+5721;140;22;true
+5722;140;23;false
+5723;140;24;false
+5724;140;25;false
+5725;140;26;false
+5726;140;27;false
+5727;140;28;false
+5728;140;29;false
+5729;140;30;false
+5730;140;31;true
+5731;140;32;true
+5732;140;33;false
+5733;140;34;false
+5734;140;35;false
+5735;140;36;false
+5736;140;37;false
+5737;140;38;false
+5738;140;39;false
+5739;140;40;8.0
+5740;140;41;36
+5741;141;1;2600000
+5742;141;2;autumn
+5743;141;3;2007
+5744;141;4;Like Stars On Earth
+5745;141;5;42.0
+5746;141;6;Darsheel Safary,Aamir Khan,Tisca Chopra
+5747;141;7;Aamir Khan
+5748;141;8;NULL
+5749;141;9;Amole Gupte
+5750;141;10;false
+5751;141;11;false
+5752;141;12;false
+5753;141;13;false
+5754;141;14;false
+5755;141;15;true
+5756;141;16;false
+5757;141;17;false
+5758;141;18;false
+5759;141;19;false
+5760;141;20;false
+5761;141;21;false
+5762;141;22;false
+5763;141;23;false
+5764;141;24;false
+5765;141;25;false
+5766;141;26;false
+5767;141;27;false
+5768;141;28;false
+5769;141;29;false
+5770;141;30;false
+5771;141;31;false
+5772;141;32;false
+5773;141;33;false
+5774;141;34;false
+5775;141;35;false
+5776;141;36;false
+5777;141;37;false
+5778;141;38;false
+5779;141;39;false
+5780;141;40;8.2
+5781;141;41;28
+5782;142;1;1300000
+5783;142;2;winter
+5784;142;3;1976
+5785;142;4;Taxi Driver
+5786;142;5;33.4
+5787;142;6;Robert De Niro,Cybill Shepherd,Harvey Keitel
+5788;142;7;Martin Scorsese
+5789;142;8;Julia Phillips
+5790;142;9;NULL
+5791;142;10;false
+5792;142;11;false
+5793;142;12;false
+5794;142;13;false
+5795;142;14;true
+5796;142;15;true
+5797;142;16;false
+5798;142;17;false
+5799;142;18;false
+5800;142;19;false
+5801;142;20;false
+5802;142;21;false
+5803;142;22;false
+5804;142;23;false
+5805;142;24;false
+5806;142;25;false
+5807;142;26;false
+5808;142;27;false
+5809;142;28;false
+5810;142;29;false
+5811;142;30;false
+5812;142;31;true
+5813;142;32;true
+5814;142;33;false
+5815;142;34;false
+5816;142;35;false
+5817;142;36;false
+5818;142;37;false
+5819;142;38;false
+5820;142;39;true
+5821;142;40;7.0
+5822;142;41;281
+5823;143;1;100000000
+5824;143;2;summer
+5825;143;3;1991
+5826;143;4;Terminator 2: Judgment Day
+5827;143;5;34.90909090909091
+5828;143;6;Arnold Schwarzenegger,Linda Hamilton,Edward Furlong
+5829;143;7;James Cameron
+5830;143;8;James Cameron
+5831;143;9;NULL
+5832;143;10;true
+5833;143;11;false
+5834;143;12;false
+5835;143;13;false
+5836;143;14;false
+5837;143;15;false
+5838;143;16;false
+5839;143;17;false
+5840;143;18;false
+5841;143;19;false
+5842;143;20;false
+5843;143;21;false
+5844;143;22;false
+5845;143;23;true
+5846;143;24;false
+5847;143;25;true
+5848;143;26;false
+5849;143;27;false
+5850;143;28;true
+5851;143;29;false
+5852;143;30;false
+5853;143;31;true
+5854;143;32;true
+5855;143;33;false
+5856;143;34;false
+5857;143;35;false
+5858;143;36;false
+5859;143;37;false
+5860;143;38;false
+5861;143;39;true
+5862;143;40;7.0
+5863;143;41;1498
+5864;144;1;3000000
+5865;144;2;spring
+5866;144;3;1960
+5867;144;4;The Apartment
+5868;144;5;35.4
+5869;144;6;Jack Lemmon,Shirley MacLaine,Fred MacMurray
+5870;144;7;Billy Wilder
+5871;144;8;Billy Wilder
+5872;144;9;Billy Wilder
+5873;144;10;false
+5874;144;11;false
+5875;144;12;false
+5876;144;13;true
+5877;144;14;false
+5878;144;15;true
+5879;144;16;false
+5880;144;17;false
+5881;144;18;false
+5882;144;19;false
+5883;144;20;false
+5884;144;21;false
+5885;144;22;true
+5886;144;23;false
+5887;144;24;false
+5888;144;25;false
+5889;144;26;false
+5890;144;27;false
+5891;144;28;false
+5892;144;29;false
+5893;144;30;false
+5894;144;31;true
+5895;144;32;true
+5896;144;33;false
+5897;144;34;false
+5898;144;35;false
+5899;144;36;false
+5900;144;37;false
+5901;144;38;false
+5902;144;39;false
+5903;144;40;7.9
+5904;144;41;43
+5905;145;1;12000000
+5906;145;2;autumn
+5907;145;3;2011
+5908;145;4;The Artist
+5909;145;5;54.94117647058823
+5910;145;6;Jean Dujardin,Bérénice Bejo,John Goodman
+5911;145;7;Michel Hazanavicius
+5912;145;8;Thomas Langmann
+5913;145;9;NULL
+5914;145;10;false
+5915;145;11;false
+5916;145;12;false
+5917;145;13;true
+5918;145;14;false
+5919;145;15;true
+5920;145;16;false
+5921;145;17;false
+5922;145;18;false
+5923;145;19;false
+5924;145;20;false
+5925;145;21;false
+5926;145;22;true
+5927;145;23;false
+5928;145;24;false
+5929;145;25;false
+5930;145;26;false
+5931;145;27;false
+5932;145;28;true
+5933;145;29;false
+5934;145;30;false
+5935;145;31;false
+5936;145;32;true
+5937;145;33;false
+5938;145;34;false
+5939;145;35;false
+5940;145;36;false
+5941;145;37;false
+5942;145;38;false
+5943;145;39;false
+5944;145;40;7.0
+5945;145;41;207
+5946;146;1;220000000
+5947;146;2;spring
+5948;146;3;2012
+5949;146;4;The Avengers
+5950;146;5;47.78260869565217
+5951;146;6;Robert Downey Jr.,Chris Evans,Mark Ruffalo
+5952;146;7;Joss Whedon
+5953;146;8;Kevin Feige
+5954;146;9;Joss Whedon
+5955;146;10;true
+5956;146;11;false
+5957;146;12;false
+5958;146;13;false
+5959;146;14;false
+5960;146;15;false
+5961;146;16;false
+5962;146;17;false
+5963;146;18;false
+5964;146;19;false
+5965;146;20;false
+5966;146;21;false
+5967;146;22;false
+5968;146;23;false
+5969;146;24;false
+5970;146;25;false
+5971;146;26;false
+5972;146;27;false
+5973;146;28;false
+5974;146;29;false
+5975;146;30;false
+5976;146;31;true
+5977;146;32;true
+5978;146;33;false
+5979;146;34;false
+5980;146;35;false
+5981;146;36;false
+5982;146;37;false
+5983;146;38;false
+5984;146;39;false
+5985;146;40;7.0
+5986;146;41;5798
+5987;147;1;2100000
+5988;147;2;autumn
+5989;147;3;1946
+5990;147;4;The Best Years of Our Lives
+5991;147;5;42.285714285714285
+5992;147;6;Fredric March,Myrna Loy,Dana Andrews
+5993;147;7;William Wyler
+5994;147;8;Samuel Goldwyn
+5995;147;9;Robert E. Sherwood
+5996;147;10;false
+5997;147;11;false
+5998;147;12;false
+5999;147;13;false
+6000;147;14;false
+6001;147;15;true
+6002;147;16;false
+6003;147;17;false
+6004;147;18;false
+6005;147;19;true
+6006;147;20;false
+6007;147;21;false
+6008;147;22;true
+6009;147;23;false
+6010;147;24;false
+6011;147;25;false
+6012;147;26;false
+6013;147;27;false
+6014;147;28;false
+6015;147;29;false
+6016;147;30;false
+6017;147;31;true
+6018;147;32;true
+6019;147;33;false
+6020;147;34;false
+6021;147;35;false
+6022;147;36;false
+6023;147;37;false
+6024;147;38;false
+6025;147;39;false
+6026;147;40;7.1
+6027;147;41;7
+6028;148;1;15000000
+6029;148;2;winter
+6030;148;3;1998
+6031;148;4;The Big Lebowski
+6032;148;5;44.07692307692308
+6033;148;6;Jeff Bridges,John Goodman,Steve Buscemi
+6034;148;7;Joel Coen
+6035;148;8;Ethan Coen
+6036;148;9;NULL
+6037;148;10;false
+6038;148;11;false
+6039;148;12;false
+6040;148;13;true
+6041;148;14;true
+6042;148;15;false
+6043;148;16;false
+6044;148;17;false
+6045;148;18;false
+6046;148;19;false
+6047;148;20;false
+6048;148;21;false
+6049;148;22;false
+6050;148;23;false
+6051;148;24;false
+6052;148;25;false
+6053;148;26;false
+6054;148;27;false
+6055;148;28;false
+6056;148;29;false
+6057;148;30;true
+6058;148;31;true
+6059;148;32;true
+6060;148;33;false
+6061;148;34;true
+6062;148;35;false
+6063;148;36;false
+6064;148;37;false
+6065;148;38;false
+6066;148;39;true
+6067;148;40;7.3
+6068;148;41;643
+6069;149;1;0
+6070;149;2;summer
+6071;149;3;1946
+6072;149;4;The Big Sleep
+6073;149;5;39.416666666666664
+6074;149;6;Humphrey Bogart,Lauren Bacall,John Ridgely
+6075;149;7;Howard Hawks
+6076;149;8;Howard Hawks
+6077;149;9;William Faulkner
+6078;149;10;false
+6079;149;11;false
+6080;149;12;false
+6081;149;13;false
+6082;149;14;true
+6083;149;15;true
+6084;149;16;false
+6085;149;17;false
+6086;149;18;true
+6087;149;19;false
+6088;149;20;false
+6089;149;21;true
+6090;149;22;false
+6091;149;23;false
+6092;149;24;true
+6093;149;25;true
+6094;149;26;false
+6095;149;27;false
+6096;149;28;false
+6097;149;29;false
+6098;149;30;false
+6099;149;31;true
+6100;149;32;true
+6101;149;33;false
+6102;149;34;false
+6103;149;35;false
+6104;149;36;false
+6105;149;37;false
+6106;149;38;false
+6107;149;39;false
+6108;149;40;7.4
+6109;149;41;19
+6110;150;1;70000000
+6111;150;2;summer
+6112;150;3;2007
+6113;150;4;The Bourne Ultimatum
+6114;150;5;42.785714285714285
+6115;150;6;Matt Damon,Julia Stiles,David Strathairn
+6116;150;7;Paul Greengrass
+6117;150;8;Frank Marshall
+6118;150;9;Tony Gilroy
+6119;150;10;true
+6120;150;11;false
+6121;150;12;false
+6122;150;13;false
+6123;150;14;false
+6124;150;15;true
+6125;150;16;false
+6126;150;17;false
+6127;150;18;false
+6128;150;19;false
+6129;150;20;false
+6130;150;21;true
+6131;150;22;false
+6132;150;23;false
+6133;150;24;false
+6134;150;25;true
+6135;150;26;false
+6136;150;27;false
+6137;150;28;false
+6138;150;29;true
+6139;150;30;false
+6140;150;31;true
+6141;150;32;true
+6142;150;33;true
+6143;150;34;false
+6144;150;35;false
+6145;150;36;false
+6146;150;37;false
+6147;150;38;true
+6148;150;39;true
+6149;150;40;7.0
+6150;150;41;1077
+6151;151;1;3000000
+6152;151;2;autumn
+6153;151;3;1957
+6154;151;4;The Bridge on the River Kwai
+6155;151;5;37.27272727272727
+6156;151;6;William Holden,Alec Guinness,Jack Hawkins
+6157;151;7;David Lean
+6158;151;8;Sam Spiegel
+6159;151;9;Carl Foreman
+6160;151;10;false
+6161;151;11;false
+6162;151;12;false
+6163;151;13;false
+6164;151;14;false
+6165;151;15;true
+6166;151;16;false
+6167;151;17;false
+6168;151;18;false
+6169;151;19;true
+6170;151;20;false
+6171;151;21;false
+6172;151;22;false
+6173;151;23;false
+6174;151;24;false
+6175;151;25;false
+6176;151;26;true
+6177;151;27;false
+6178;151;28;false
+6179;151;29;false
+6180;151;30;true
+6181;151;31;true
+6182;151;32;true
+6183;151;33;false
+6184;151;34;false
+6185;151;35;false
+6186;151;36;true
+6187;151;37;false
+6188;151;38;false
+6189;151;39;false
+6190;151;40;6.9
+6191;151;41;84
+6192;152;1;185000000
+6193;152;2;summer
+6194;152;3;2008
+6195;152;4;The Dark Knight
+6196;152;5;45.588235294117645
+6197;152;6;Christian Bale,Heath Ledger,Aaron Eckhart
+6198;152;7;Christopher Nolan
+6199;152;8;Christopher Nolan
+6200;152;9;Jonathan Nolan
+6201;152;10;true
+6202;152;11;false
+6203;152;12;false
+6204;152;13;false
+6205;152;14;true
+6206;152;15;true
+6207;152;16;false
+6208;152;17;false
+6209;152;18;false
+6210;152;19;false
+6211;152;20;false
+6212;152;21;false
+6213;152;22;false
+6214;152;23;false
+6215;152;24;false
+6216;152;25;true
+6217;152;26;false
+6218;152;27;false
+6219;152;28;false
+6220;152;29;false
+6221;152;30;true
+6222;152;31;true
+6223;152;32;true
+6224;152;33;false
+6225;152;34;false
+6226;152;35;false
+6227;152;36;false
+6228;152;37;false
+6229;152;38;false
+6230;152;39;false
+6231;152;40;7.7
+6232;152;41;4698
+6233;153;1;15000000
+6234;153;2;autumn
+6235;153;3;1978
+6236;153;4;The Deer Hunter
+6237;153;5;35.1
+6238;153;6;Robert De Niro,John Cazale,John Savage
+6239;153;7;Michael Cimino
+6240;153;8;Michael Cimino
+6241;153;9;Michael Cimino
+6242;153;10;false
+6243;153;11;false
+6244;153;12;false
+6245;153;13;false
+6246;153;14;false
+6247;153;15;true
+6248;153;16;false
+6249;153;17;false
+6250;153;18;false
+6251;153;19;false
+6252;153;20;false
+6253;153;21;false
+6254;153;22;false
+6255;153;23;false
+6256;153;24;false
+6257;153;25;false
+6258;153;26;true
+6259;153;27;false
+6260;153;28;false
+6261;153;29;false
+6262;153;30;true
+6263;153;31;true
+6264;153;32;true
+6265;153;33;true
+6266;153;34;false
+6267;153;35;false
+6268;153;36;false
+6269;153;37;false
+6270;153;38;true
+6271;153;39;false
+6272;153;40;7.2
+6273;153;41;174
+6274;154;1;90000000
+6275;154;2;autumn
+6276;154;3;2006
+6277;154;4;The Departed
+6278;154;5;42.30769230769231
+6279;154;6;Leonardo DiCaprio,Matt Damon,Jack Nicholson
+6280;154;7;Martin Scorsese
+6281;154;8;Brad Grey
+6282;154;9;William Monahan
+6283;154;10;false
+6284;154;11;false
+6285;154;12;false
+6286;154;13;false
+6287;154;14;true
+6288;154;15;true
+6289;154;16;false
+6290;154;17;false
+6291;154;18;false
+6292;154;19;false
+6293;154;20;false
+6294;154;21;false
+6295;154;22;false
+6296;154;23;false
+6297;154;24;false
+6298;154;25;true
+6299;154;26;false
+6300;154;27;false
+6301;154;28;false
+6302;154;29;false
+6303;154;30;false
+6304;154;31;true
+6305;154;32;true
+6306;154;33;false
+6307;154;34;false
+6308;154;35;false
+6309;154;36;false
+6310;154;37;false
+6311;154;38;false
+6312;154;39;false
+6313;154;40;7.2
+6314;154;41;1046
+6315;155;1;5000000
+6316;155;2;autumn
+6317;155;3;1980
+6318;155;4;The Elephant Man
+6319;155;5;47.2
+6320;155;6;John Hurt,Anthony Hopkins,Anne Bancroft
+6321;155;7;David Lynch
+6322;155;8;Jonathan Sanger
+6323;155;9;David Lynch
+6324;155;10;false
+6325;155;11;false
+6326;155;12;false
+6327;155;13;false
+6328;155;14;false
+6329;155;15;true
+6330;155;16;false
+6331;155;17;false
+6332;155;18;false
+6333;155;19;true
+6334;155;20;false
+6335;155;21;false
+6336;155;22;false
+6337;155;23;false
+6338;155;24;false
+6339;155;25;false
+6340;155;26;false
+6341;155;27;false
+6342;155;28;false
+6343;155;29;false
+6344;155;30;true
+6345;155;31;true
+6346;155;32;true
+6347;155;33;false
+6348;155;34;false
+6349;155;35;false
+6350;155;36;false
+6351;155;37;false
+6352;155;38;false
+6353;155;39;false
+6354;155;40;8.0
+6355;155;41;79
+6356;156;1;10497444
+6357;156;2;spring
+6358;156;3;1973
+6359;156;4;The Exorcist
+6360;156;5;44.666666666666664
+6361;156;6;Ellen Burstyn,Jason Miller,Max von Sydow
+6362;156;7;William Friedkin
+6363;156;8;William Peter Blatty
+6364;156;9;William Peter Blatty
+6365;156;10;false
+6366;156;11;false
+6367;156;12;false
+6368;156;13;false
+6369;156;14;false
+6370;156;15;false
+6371;156;16;false
+6372;156;17;false
+6373;156;18;false
+6374;156;19;false
+6375;156;20;true
+6376;156;21;false
+6377;156;22;false
+6378;156;23;false
+6379;156;24;false
+6380;156;25;false
+6381;156;26;false
+6382;156;27;false
+6383;156;28;false
+6384;156;29;false
+6385;156;30;false
+6386;156;31;true
+6387;156;32;true
+6388;156;33;true
+6389;156;34;true
+6390;156;35;false
+6391;156;36;false
+6392;156;37;true
+6393;156;38;false
+6394;156;39;false
+6395;156;40;6.7
+6396;156;41;387
+6397;157;1;0
+6398;157;2;winter
+6399;157;3;1927
+6400;157;4;The General
+6401;157;5;50.0
+6402;157;6;Buster Keaton,Marion Mack,Glen Cavender
+6403;157;7;Clyde Bruckman
+6404;157;8;Buster Keaton
+6405;157;9;Clyde Bruckman
+6406;157;10;true
+6407;157;11;true
+6408;157;12;false
+6409;157;13;true
+6410;157;14;false
+6411;157;15;true
+6412;157;16;false
+6413;157;17;false
+6414;157;18;false
+6415;157;19;false
+6416;157;20;false
+6417;157;21;false
+6418;157;22;true
+6419;157;23;false
+6420;157;24;false
+6421;157;25;false
+6422;157;26;true
+6423;157;27;false
+6424;157;28;false
+6425;157;29;false
+6426;157;30;false
+6427;157;31;true
+6428;157;32;true
+6429;157;33;false
+6430;157;34;false
+6431;157;35;false
+6432;157;36;false
+6433;157;37;false
+6434;157;38;false
+6435;157;39;false
+6436;157;40;7.3
+6437;157;41;27
+6438;158;1;6000000
+6439;158;2;winter
+6440;158;3;1972
+6441;158;4;The Godfather
+6442;158;5;40.13636363636363
+6443;158;6;Marlon Brando,Al Pacino,James Caan
+6444;158;7;Francis Ford Coppola
+6445;158;8;Albert S. Ruddy
+6446;158;9;Mario Puzo
+6447;158;10;false
+6448;158;11;false
+6449;158;12;false
+6450;158;13;false
+6451;158;14;true
+6452;158;15;true
+6453;158;16;false
+6454;158;17;false
+6455;158;18;false
+6456;158;19;false
+6457;158;20;false
+6458;158;21;false
+6459;158;22;false
+6460;158;23;false
+6461;158;24;false
+6462;158;25;false
+6463;158;26;false
+6464;158;27;false
+6465;158;28;false
+6466;158;29;false
+6467;158;30;false
+6468;158;31;true
+6469;158;32;true
+6470;158;33;false
+6471;158;34;false
+6472;158;35;true
+6473;158;36;false
+6474;158;37;true
+6475;158;38;false
+6476;158;39;false
+6477;158;40;8.0
+6478;158;41;1999
+6479;159;1;0
+6480;159;2;summer
+6481;159;3;1925
+6482;159;4;The Gold Rush
+6483;159;5;41.0
+6484;159;6;Charles Chaplin,Georgia Hale,Mack Swain
+6485;159;7;Charles Chaplin
+6486;159;8;Charles Chaplin
+6487;159;9;Charles Chaplin
+6488;159;10;false
+6489;159;11;false
+6490;159;12;false
+6491;159;13;true
+6492;159;14;false
+6493;159;15;true
+6494;159;16;true
+6495;159;17;false
+6496;159;18;false
+6497;159;19;false
+6498;159;20;false
+6499;159;21;false
+6500;159;22;false
+6501;159;23;false
+6502;159;24;false
+6503;159;25;false
+6504;159;26;false
+6505;159;27;false
+6506;159;28;false
+6507;159;29;false
+6508;159;30;false
+6509;159;31;true
+6510;159;32;true
+6511;159;33;false
+6512;159;34;false
+6513;159;35;false
+6514;159;36;false
+6515;159;37;false
+6516;159;38;false
+6517;159;39;false
+6518;159;40;7.5
+6519;159;41;20
+6520;160;1;3000000
+6521;160;2;autumn
+6522;160;3;1967
+6523;160;4;The Graduate
+6524;160;5;42.5
+6525;160;6;Anne Bancroft,Dustin Hoffman,Katharine Ross
+6526;160;7;Mike Nichols
+6527;160;8;NULL
+6528;160;9;Calder Willingham
+6529;160;10;false
+6530;160;11;false
+6531;160;12;false
+6532;160;13;true
+6533;160;14;false
+6534;160;15;true
+6535;160;16;false
+6536;160;17;false
+6537;160;18;false
+6538;160;19;false
+6539;160;20;false
+6540;160;21;false
+6541;160;22;true
+6542;160;23;false
+6543;160;24;false
+6544;160;25;false
+6545;160;26;false
+6546;160;27;false
+6547;160;28;false
+6548;160;29;false
+6549;160;30;false
+6550;160;31;true
+6551;160;32;true
+6552;160;33;false
+6553;160;34;false
+6554;160;35;false
+6555;160;36;false
+6556;160;37;false
+6557;160;38;false
+6558;160;39;false
+6559;160;40;6.6
+6560;160;41;99
+6561;161;1;750000
+6562;161;2;winter
+6563;161;3;1940
+6564;161;4;The Grapes of Wrath
+6565;161;5;43.6
+6566;161;6;Henry Fonda,Jane Darwell,John Carradine
+6567;161;7;John Ford
+6568;161;8;Darryl F. Zanuck
+6569;161;9;Nunnally Johnson
+6570;161;10;false
+6571;161;11;false
+6572;161;12;false
+6573;161;13;false
+6574;161;14;false
+6575;161;15;true
+6576;161;16;false
+6577;161;17;false
+6578;161;18;false
+6579;161;19;false
+6580;161;20;false
+6581;161;21;false
+6582;161;22;false
+6583;161;23;false
+6584;161;24;false
+6585;161;25;false
+6586;161;26;false
+6587;161;27;false
+6588;161;28;false
+6589;161;29;false
+6590;161;30;false
+6591;161;31;true
+6592;161;32;true
+6593;161;33;false
+6594;161;34;false
+6595;161;35;false
+6596;161;36;false
+6597;161;37;false
+6598;161;38;false
+6599;161;39;false
+6600;161;40;7.4
+6601;161;41;9
+6602;162;1;2000000
+6603;162;2;autumn
+6604;162;3;1940
+6605;162;4;The Great Dictator
+6606;162;5;48.1875
+6607;162;6;Charles Chaplin,Jack Oakie,Reginald Gardiner
+6608;162;7;Charles Chaplin
+6609;162;8;Charles Chaplin
+6610;162;9;Charles Chaplin
+6611;162;10;false
+6612;162;11;false
+6613;162;12;false
+6614;162;13;true
+6615;162;14;false
+6616;162;15;false
+6617;162;16;false
+6618;162;17;false
+6619;162;18;false
+6620;162;19;false
+6621;162;20;false
+6622;162;21;false
+6623;162;22;false
+6624;162;23;false
+6625;162;24;false
+6626;162;25;false
+6627;162;26;false
+6628;162;27;false
+6629;162;28;false
+6630;162;29;false
+6631;162;30;false
+6632;162;31;true
+6633;162;32;true
+6634;162;33;false
+6635;162;34;false
+6636;162;35;false
+6637;162;36;false
+6638;162;37;false
+6639;162;38;false
+6640;162;39;false
+6641;162;40;7.6
+6642;162;41;142
+6643;163;1;4000000
+6644;163;2;summer
+6645;163;3;1963
+6646;163;4;The Great Escape
+6647;163;5;37.68181818181818
+6648;163;6;Steve McQueen,James Garner,Richard Attenborough
+6649;163;7;John Sturges
+6650;163;8;John Sturges
+6651;163;9;James Clavell
+6652;163;10;false
+6653;163;11;true
+6654;163;12;false
+6655;163;13;false
+6656;163;14;false
+6657;163;15;true
+6658;163;16;false
+6659;163;17;false
+6660;163;18;false
+6661;163;19;true
+6662;163;20;false
+6663;163;21;false
+6664;163;22;false
+6665;163;23;false
+6666;163;24;false
+6667;163;25;true
+6668;163;26;true
+6669;163;27;false
+6670;163;28;false
+6671;163;29;false
+6672;163;30;false
+6673;163;31;true
+6674;163;32;true
+6675;163;33;true
+6676;163;34;true
+6677;163;35;false
+6678;163;36;false
+6679;163;37;false
+6680;163;38;true
+6681;163;39;false
+6682;163;40;7.1
+6683;163;41;142
+6684;164;1;60000000
+6685;164;2;autumn
+6686;164;3;1999
+6687;164;4;The Green Mile
+6688;164;5;48.875
+6689;164;6;Tom Hanks,Michael Clarke Duncan,Bonnie Hunt
+6690;164;7;Frank Darabont
+6691;164;8;David Valdes
+6692;164;9;Frank Darabont
+6693;164;10;false
+6694;164;11;false
+6695;164;12;false
+6696;164;13;false
+6697;164;14;true
+6698;164;15;true
+6699;164;16;false
+6700;164;17;true
+6701;164;18;false
+6702;164;19;false
+6703;164;20;false
+6704;164;21;false
+6705;164;22;false
+6706;164;23;false
+6707;164;24;false
+6708;164;25;false
+6709;164;26;false
+6710;164;27;false
+6711;164;28;false
+6712;164;29;false
+6713;164;30;false
+6714;164;31;true
+6715;164;32;true
+6716;164;33;false
+6717;164;34;true
+6718;164;35;false
+6719;164;36;false
+6720;164;37;false
+6721;164;38;false
+6722;164;39;false
+6723;164;40;7.5
+6724;164;41;865
+6725;165;1;250000000
+6726;165;2;autumn
+6727;165;3;2012
+6728;165;4;The Hobbit: An Unexpected Journey
+6729;165;5;50.63157894736842
+6730;165;6;Ian McKellen,Martin Freeman,Richard Armitage
+6731;165;7;Peter Jackson
+6732;165;8;Carolynne Cunningham
+6733;165;9;Fran Walsh
+6734;165;10;true
+6735;165;11;true
+6736;165;12;false
+6737;165;13;false
+6738;165;14;false
+6739;165;15;false
+6740;165;16;false
+6741;165;17;true
+6742;165;18;false
+6743;165;19;false
+6744;165;20;false
+6745;165;21;false
+6746;165;22;false
+6747;165;23;false
+6748;165;24;false
+6749;165;25;false
+6750;165;26;false
+6751;165;27;false
+6752;165;28;false
+6753;165;29;false
+6754;165;30;false
+6755;165;31;true
+6756;165;32;true
+6757;165;33;false
+6758;165;34;false
+6759;165;35;false
+6760;165;36;false
+6761;165;37;false
+6762;165;38;false
+6763;165;39;false
+6764;165;40;6.5
+6765;165;41;4070
+6766;166;1;2000000
+6767;166;2;autumn
+6768;166;3;1961
+6769;166;4;The Hustler
+6770;166;5;38.42857142857143
+6771;166;6;Paul Newman,Jackie Gleason,Piper Laurie
+6772;166;7;Robert Rossen
+6773;166;8;Robert Rossen
+6774;166;9;Sidney Carroll
+6775;166;10;false
+6776;166;11;false
+6777;166;12;false
+6778;166;13;false
+6779;166;14;false
+6780;166;15;true
+6781;166;16;false
+6782;166;17;false
+6783;166;18;false
+6784;166;19;false
+6785;166;20;false
+6786;166;21;false
+6787;166;22;false
+6788;166;23;false
+6789;166;24;false
+6790;166;25;false
+6791;166;26;false
+6792;166;27;false
+6793;166;28;false
+6794;166;29;false
+6795;166;30;false
+6796;166;31;true
+6797;166;32;true
+6798;166;33;false
+6799;166;34;false
+6800;166;35;false
+6801;166;36;false
+6802;166;37;false
+6803;166;38;false
+6804;166;39;false
+6805;166;40;7.6
+6806;166;41;23
+6807;167;1;0
+6808;167;2;winter
+6809;167;3;1921
+6810;167;4;The Kid
+6811;167;5;37.42857142857143
+6812;167;6;Charles Chaplin,Jackie Coogan,Edna Purviance
+6813;167;7;Charles Chaplin
+6814;167;8;Charles Chaplin
+6815;167;9;NULL
+6816;167;10;false
+6817;167;11;false
+6818;167;12;false
+6819;167;13;true
+6820;167;14;false
+6821;167;15;true
+6822;167;16;false
+6823;167;17;false
+6824;167;18;false
+6825;167;19;false
+6826;167;20;false
+6827;167;21;false
+6828;167;22;false
+6829;167;23;false
+6830;167;24;false
+6831;167;25;false
+6832;167;26;false
+6833;167;27;false
+6834;167;28;false
+6835;167;29;false
+6836;167;30;false
+6837;167;31;true
+6838;167;32;true
+6839;167;33;false
+6840;167;34;false
+6841;167;35;false
+6842;167;36;false
+6843;167;37;false
+6844;167;38;false
+6845;167;39;false
+6846;167;40;8.3
+6847;167;41;28
+6848;168;1;320000
+6849;168;2;spring
+6850;168;3;1956
+6851;168;4;The Killing
+6852;168;5;44.2
+6853;168;6;Sterling Hayden,Coleen Gray,Vince Edwards
+6854;168;7;Stanley Kubrick
+6855;168;8;James B. Harris
+6856;168;9;Stanley Kubrick
+6857;168;10;true
+6858;168;11;false
+6859;168;12;false
+6860;168;13;false
+6861;168;14;true
+6862;168;15;true
+6863;168;16;false
+6864;168;17;false
+6865;168;18;false
+6866;168;19;false
+6867;168;20;false
+6868;168;21;false
+6869;168;22;false
+6870;168;23;false
+6871;168;24;false
+6872;168;25;true
+6873;168;26;false
+6874;168;27;false
+6875;168;28;false
+6876;168;29;false
+6877;168;30;false
+6878;168;31;true
+6879;168;32;true
+6880;168;33;false
+6881;168;34;false
+6882;168;35;false
+6883;168;36;false
+6884;168;37;false
+6885;168;38;false
+6886;168;39;false
+6887;168;40;7.9
+6888;168;41;18
+6889;169;1;15000000
+6890;169;2;summer
+6891;169;3;2010
+6892;169;4;The King's Speech
+6893;169;5;44.90909090909091
+6894;169;6;Colin Firth,Geoffrey Rush,Helena Bonham Carter
+6895;169;7;Tom Hooper
+6896;169;8;Iain Canning
+6897;169;9;David Seidler
+6898;169;10;false
+6899;169;11;false
+6900;169;12;false
+6901;169;13;false
+6902;169;14;false
+6903;169;15;false
+6904;169;16;false
+6905;169;17;false
+6906;169;18;false
+6907;169;19;true
+6908;169;20;false
+6909;169;21;false
+6910;169;22;false
+6911;169;23;false
+6912;169;24;false
+6913;169;25;false
+6914;169;26;false
+6915;169;27;false
+6916;169;28;false
+6917;169;29;false
+6918;169;30;true
+6919;169;31;false
+6920;169;32;true
+6921;169;33;false
+6922;169;34;false
+6923;169;35;false
+6924;169;36;false
+6925;169;37;false
+6926;169;38;false
+6927;169;39;false
+6928;169;40;6.9
+6929;169;41;648
+6930;170;1;45000000
+6931;170;2;summer
+6932;170;3;1994
+6933;170;4;The Lion King
+6934;170;5;40.1578947368421
+6935;170;6;Jonathan Taylor Thomas,Matthew Broderick,James Earl Jones
+6936;170;7;Roger Allers
+6937;170;8;NULL
+6938;170;9;Linda Woolverton
+6939;170;10;false
+6940;170;11;false
+6941;170;12;true
+6942;170;13;false
+6943;170;14;false
+6944;170;15;false
+6945;170;16;true
+6946;170;17;false
+6947;170;18;false
+6948;170;19;false
+6949;170;20;false
+6950;170;21;false
+6951;170;22;false
+6952;170;23;false
+6953;170;24;false
+6954;170;25;false
+6955;170;26;false
+6956;170;27;false
+6957;170;28;false
+6958;170;29;false
+6959;170;30;false
+6960;170;31;true
+6961;170;32;true
+6962;170;33;false
+6963;170;34;false
+6964;170;35;false
+6965;170;36;false
+6966;170;37;false
+6967;170;38;false
+6968;170;39;false
+6969;170;40;7.2
+6970;170;41;2020
+6971;171;1;79000000
+6972;171;2;autumn
+6973;171;3;2002
+6974;171;4;The Lord of the Rings: The Two Towers
+6975;171;5;38.95238095238095
+6976;171;6;Elijah Wood,Ian McKellen,Viggo Mortensen
+6977;171;7;Peter Jackson
+6978;171;8;Peter Jackson
+6979;171;9;Peter Jackson
+6980;171;10;true
+6981;171;11;true
+6982;171;12;false
+6983;171;13;false
+6984;171;14;false
+6985;171;15;false
+6986;171;16;false
+6987;171;17;true
+6988;171;18;false
+6989;171;19;false
+6990;171;20;false
+6991;171;21;false
+6992;171;22;false
+6993;171;23;false
+6994;171;24;false
+6995;171;25;false
+6996;171;26;false
+6997;171;27;false
+6998;171;28;false
+6999;171;29;false
+7000;171;30;false
+7001;171;31;true
+7002;171;32;true
+7003;171;33;false
+7004;171;34;false
+7005;171;35;false
+7006;171;36;false
+7007;171;37;false
+7008;171;38;false
+7009;171;39;false
+7010;171;40;7.4
+7011;171;41;2779
+7012;172;1;300000
+7013;172;2;autumn
+7014;172;3;1941
+7015;172;4;The Maltese Falcon
+7016;172;5;43.375
+7017;172;6;Humphrey Bogart,Mary Astor,Gladys George
+7018;172;7;John Huston
+7019;172;8;Henry Blanke
+7020;172;9;John Huston
+7021;172;10;false
+7022;172;11;false
+7023;172;12;false
+7024;172;13;false
+7025;172;14;true
+7026;172;15;true
+7027;172;16;false
+7028;172;17;false
+7029;172;18;false
+7030;172;19;false
+7031;172;20;false
+7032;172;21;false
+7033;172;22;false
+7034;172;23;false
+7035;172;24;false
+7036;172;25;true
+7037;172;26;false
+7038;172;27;false
+7039;172;28;false
+7040;172;29;false
+7041;172;30;false
+7042;172;31;true
+7043;172;32;true
+7044;172;33;false
+7045;172;34;false
+7046;172;35;false
+7047;172;36;false
+7048;172;37;false
+7049;172;38;false
+7050;172;39;false
+7051;172;40;7.7
+7052;172;41;50
+7053;173;1;3200000
+7054;173;2;spring
+7055;173;3;1962
+7056;173;4;The Man Who Shot Liberty Valance
+7057;173;5;49.6875
+7058;173;6;John Wayne,James Stewart,Vera Miles
+7059;173;7;John Ford
+7060;173;8;Willis Goldbeck
+7061;173;9;James Warner Bellah
+7062;173;10;false
+7063;173;11;false
+7064;173;12;false
+7065;173;13;false
+7066;173;14;false
+7067;173;15;false
+7068;173;16;false
+7069;173;17;false
+7070;173;18;false
+7071;173;19;false
+7072;173;20;false
+7073;173;21;false
+7074;173;22;false
+7075;173;23;false
+7076;173;24;false
+7077;173;25;false
+7078;173;26;false
+7079;173;27;true
+7080;173;28;false
+7081;173;29;false
+7082;173;30;false
+7083;173;31;true
+7084;173;32;true
+7085;173;33;false
+7086;173;34;false
+7087;173;35;false
+7088;173;36;false
+7089;173;37;false
+7090;173;38;false
+7091;173;39;false
+7092;173;40;6.6
+7093;173;41;45
+7094;174;1;80000000
+7095;174;2;autumn
+7096;174;3;1962
+7097;174;4;The Manchurian Candidate
+7098;174;5;43.57142857142857
+7099;174;6;Frank Sinatra,Janet Leigh,Laurence Harvey
+7100;174;7;John Frankenheimer
+7101;174;8;George Axelrod
+7102;174;9;George Axelrod
+7103;174;10;false
+7104;174;11;false
+7105;174;12;false
+7106;174;13;false
+7107;174;14;false
+7108;174;15;true
+7109;174;16;false
+7110;174;17;false
+7111;174;18;false
+7112;174;19;false
+7113;174;20;false
+7114;174;21;false
+7115;174;22;false
+7116;174;23;false
+7117;174;24;false
+7118;174;25;true
+7119;174;26;false
+7120;174;27;false
+7121;174;28;false
+7122;174;29;false
+7123;174;30;false
+7124;174;31;true
+7125;174;32;true
+7126;174;33;false
+7127;174;34;false
+7128;174;35;false
+7129;174;36;false
+7130;174;37;false
+7131;174;38;false
+7132;174;39;true
+7133;174;40;7.4
+7134;174;41;9
+7135;175;1;63000000
+7136;175;2;spring
+7137;175;3;1999
+7138;175;4;The Matrix
+7139;175;5;35.92857142857143
+7140;175;6;Keanu Reeves,Laurence Fishburne,Carrie-Anne Moss
+7141;175;7;Andy Wachowski
+7142;175;8;Joel Silver
+7143;175;9;Andy Wachowski
+7144;175;10;true
+7145;175;11;true
+7146;175;12;false
+7147;175;13;false
+7148;175;14;false
+7149;175;15;false
+7150;175;16;false
+7151;175;17;false
+7152;175;18;false
+7153;175;19;false
+7154;175;20;false
+7155;175;21;false
+7156;175;22;false
+7157;175;23;true
+7158;175;24;false
+7159;175;25;true
+7160;175;26;false
+7161;175;27;false
+7162;175;28;false
+7163;175;29;false
+7164;175;30;false
+7165;175;31;true
+7166;175;32;true
+7167;175;33;false
+7168;175;34;false
+7169;175;35;false
+7170;175;36;false
+7171;175;37;false
+7172;175;38;false
+7173;175;39;false
+7174;175;40;7.4
+7175;175;41;3687
+7176;176;1;795000
+7177;176;2;summer
+7178;176;3;1955
+7179;176;4;The Night of the Hunter
+7180;176;5;42.55555555555556
+7181;176;6;Robert Mitchum,Shelley Winters,Lillian Gish
+7182;176;7;Charles Laughton
+7183;176;8;Paul Gregory
+7184;176;9;James Agee
+7185;176;10;false
+7186;176;11;false
+7187;176;12;false
+7188;176;13;false
+7189;176;14;true
+7190;176;15;false
+7191;176;16;false
+7192;176;17;false
+7193;176;18;true
+7194;176;19;false
+7195;176;20;false
+7196;176;21;false
+7197;176;22;false
+7198;176;23;false
+7199;176;24;false
+7200;176;25;true
+7201;176;26;false
+7202;176;27;false
+7203;176;28;false
+7204;176;29;false
+7205;176;30;false
+7206;176;31;true
+7207;176;32;true
+7208;176;33;false
+7209;176;34;false
+7210;176;35;false
+7211;176;36;false
+7212;176;37;false
+7213;176;38;false
+7214;176;39;false
+7215;176;40;8.2
+7216;176;41;23
+7217;177;1;35000000
+7218;177;2;autumn
+7219;177;3;2002
+7220;177;4;The Pianist
+7221;177;5;41.5
+7222;177;6;Adrien Brody,Thomas Kretschmann,Frank Finlay
+7223;177;7;Roman Polanski
+7224;177;8;Roman Polanski
+7225;177;9;Ronald Harwood
+7226;177;10;false
+7227;177;11;false
+7228;177;12;false
+7229;177;13;false
+7230;177;14;false
+7231;177;15;true
+7232;177;16;false
+7233;177;17;false
+7234;177;18;false
+7235;177;19;true
+7236;177;20;false
+7237;177;21;false
+7238;177;22;false
+7239;177;23;false
+7240;177;24;false
+7241;177;25;false
+7242;177;26;true
+7243;177;27;false
+7244;177;28;true
+7245;177;29;true
+7246;177;30;true
+7247;177;31;false
+7248;177;32;true
+7249;177;33;false
+7250;177;34;true
+7251;177;35;false
+7252;177;36;false
+7253;177;37;false
+7254;177;38;false
+7255;177;39;false
+7256;177;40;7.1
+7257;177;41;210
+7258;178;1;40000000
+7259;178;2;autumn
+7260;178;3;2006
+7261;178;4;The Prestige
+7262;178;5;44.3
+7263;178;6;Hugh Jackman,Christian Bale,Michael Caine
+7264;178;7;Christopher Nolan
+7265;178;8;Aaron Ryder
+7266;178;9;Jonathan Nolan
+7267;178;10;false
+7268;178;11;false
+7269;178;12;false
+7270;178;13;false
+7271;178;14;false
+7272;178;15;true
+7273;178;16;false
+7274;178;17;false
+7275;178;18;false
+7276;178;19;false
+7277;178;20;false
+7278;178;21;true
+7279;178;22;false
+7280;178;23;false
+7281;178;24;false
+7282;178;25;true
+7283;178;26;false
+7284;178;27;false
+7285;178;28;false
+7286;178;29;false
+7287;178;30;false
+7288;178;31;true
+7289;178;32;true
+7290;178;33;false
+7291;178;34;false
+7292;178;35;false
+7293;178;36;false
+7294;178;37;false
+7295;178;38;false
+7296;178;39;false
+7297;178;40;7.2
+7298;178;41;955
+7299;179;1;16000000
+7300;179;2;autumn
+7301;179;3;1987
+7302;179;4;The Princess Bride
+7303;179;5;35.36363636363637
+7304;179;6;Cary Elwes,Robin Wright,Mandy Patinkin
+7305;179;7;Rob Reiner
+7306;179;8;NULL
+7307;179;9;William Goldman
+7308;179;10;false
+7309;179;11;false
+7310;179;12;false
+7311;179;13;true
+7312;179;14;false
+7313;179;15;false
+7314;179;16;true
+7315;179;17;true
+7316;179;18;false
+7317;179;19;false
+7318;179;20;false
+7319;179;21;false
+7320;179;22;true
+7321;179;23;false
+7322;179;24;false
+7323;179;25;false
+7324;179;26;false
+7325;179;27;false
+7326;179;28;false
+7327;179;29;false
+7328;179;30;false
+7329;179;31;true
+7330;179;32;true
+7331;179;33;false
+7332;179;34;false
+7333;179;35;false
+7334;179;36;false
+7335;179;37;false
+7336;179;38;false
+7337;179;39;false
+7338;179;40;7.4
+7339;179;41;593
+7340;180;1;25000000
+7341;180;2;summer
+7342;180;3;1994
+7343;180;4;The Shawshank Redemption
+7344;180;5;44.875
+7345;180;6;Tim Robbins,Morgan Freeman,Bob Gunton
+7346;180;7;Frank Darabont
+7347;180;8;Niki Marvin
+7348;180;9;NULL
+7349;180;10;false
+7350;180;11;false
+7351;180;12;false
+7352;180;13;false
+7353;180;14;true
+7354;180;15;true
+7355;180;16;false
+7356;180;17;false
+7357;180;18;false
+7358;180;19;false
+7359;180;20;false
+7360;180;21;false
+7361;180;22;false
+7362;180;23;false
+7363;180;24;false
+7364;180;25;false
+7365;180;26;false
+7366;180;27;false
+7367;180;28;false
+7368;180;29;false
+7369;180;30;false
+7370;180;31;true
+7371;180;32;true
+7372;180;33;false
+7373;180;34;false
+7374;180;35;false
+7375;180;36;false
+7376;180;37;false
+7377;180;38;false
+7378;180;39;false
+7379;180;40;8.0
+7380;180;41;3202
+7381;181;1;19000000
+7382;181;2;spring
+7383;181;3;1980
+7384;181;4;The Shining
+7385;181;5;46.2
+7386;181;6;Jack Nicholson,Shelley Duvall,Danny Lloyd
+7387;181;7;Stanley Kubrick
+7388;181;8;Stanley Kubrick
+7389;181;9;Stanley Kubrick
+7390;181;10;false
+7391;181;11;false
+7392;181;12;false
+7393;181;13;false
+7394;181;14;false
+7395;181;15;false
+7396;181;16;false
+7397;181;17;false
+7398;181;18;false
+7399;181;19;false
+7400;181;20;true
+7401;181;21;false
+7402;181;22;false
+7403;181;23;false
+7404;181;24;false
+7405;181;25;true
+7406;181;26;false
+7407;181;27;false
+7408;181;28;false
+7409;181;29;false
+7410;181;30;true
+7411;181;31;false
+7412;181;32;true
+7413;181;33;false
+7414;181;34;false
+7415;181;35;false
+7416;181;36;false
+7417;181;37;false
+7418;181;38;false
+7419;181;39;false
+7420;181;40;7.3
+7421;181;41;532
+7422;182;1;19000000
+7423;182;2;winter
+7424;182;3;1991
+7425;182;4;The Silence of the Lambs
+7426;182;5;40.81818181818182
+7427;182;6;Anthony Hopkins,Jodie Foster,Lawrence A. Bonney
+7428;182;7;Jonathan Demme
+7429;182;8;NULL
+7430;182;9;Ted Tally
+7431;182;10;false
+7432;182;11;false
+7433;182;12;false
+7434;182;13;false
+7435;182;14;true
+7436;182;15;true
+7437;182;16;false
+7438;182;17;false
+7439;182;18;false
+7440;182;19;false
+7441;182;20;false
+7442;182;21;false
+7443;182;22;false
+7444;182;23;false
+7445;182;24;true
+7446;182;25;true
+7447;182;26;false
+7448;182;27;false
+7449;182;28;false
+7450;182;29;false
+7451;182;30;false
+7452;182;31;true
+7453;182;32;true
+7454;182;33;false
+7455;182;34;false
+7456;182;35;false
+7457;182;36;false
+7458;182;37;false
+7459;182;38;false
+7460;182;39;false
+7461;182;40;7.3
+7462;182;41;962
+7463;183;1;55000000
+7464;183;2;summer
+7465;183;3;1999
+7466;183;4;The Sixth Sense
+7467;183;5;24.8
+7468;183;6;Bruce Willis,Haley Joel Osment,Toni Collette
+7469;183;7;M. Night Shyamalan
+7470;183;8;Kathleen Kennedy
+7471;183;9;NULL
+7472;183;10;false
+7473;183;11;false
+7474;183;12;false
+7475;183;13;false
+7476;183;14;false
+7477;183;15;false
+7478;183;16;false
+7479;183;17;false
+7480;183;18;false
+7481;183;19;false
+7482;183;20;false
+7483;183;21;false
+7484;183;22;false
+7485;183;23;false
+7486;183;24;false
+7487;183;25;true
+7488;183;26;false
+7489;183;27;false
+7490;183;28;false
+7491;183;29;false
+7492;183;30;false
+7493;183;31;true
+7494;183;32;true
+7495;183;33;false
+7496;183;34;false
+7497;183;35;false
+7498;183;36;false
+7499;183;37;true
+7500;183;38;false
+7501;183;39;true
+7502;183;40;7.0
+7503;183;41;720
+7504;184;1;5500000
+7505;184;2;winter
+7506;184;3;1973
+7507;184;4;The Sting
+7508;184;5;44.1764705882353
+7509;184;6;Paul Newman,Robert Redford,Robert Shaw
+7510;184;7;George Roy Hill
+7511;184;8;Tony Bill
+7512;184;9;David S. Ward
+7513;184;10;false
+7514;184;11;false
+7515;184;12;false
+7516;184;13;true
+7517;184;14;true
+7518;184;15;true
+7519;184;16;false
+7520;184;17;false
+7521;184;18;false
+7522;184;19;false
+7523;184;20;false
+7524;184;21;false
+7525;184;22;false
+7526;184;23;false
+7527;184;24;false
+7528;184;25;false
+7529;184;26;false
+7530;184;27;false
+7531;184;28;false
+7532;184;29;false
+7533;184;30;false
+7534;184;31;true
+7535;184;32;true
+7536;184;33;false
+7537;184;34;false
+7538;184;35;false
+7539;184;36;false
+7540;184;37;false
+7541;184;38;false
+7542;184;39;false
+7543;184;40;7.5
+7544;184;41;74
+7545;185;1;6400000
+7546;185;2;autumn
+7547;185;3;1984
+7548;185;4;The Terminator
+7549;185;5;35.583333333333336
+7550;185;6;Arnold Schwarzenegger,Michael Biehn,Linda Hamilton
+7551;185;7;James Cameron
+7552;185;8;Gale Anne Hurd
+7553;185;9;NULL
+7554;185;10;true
+7555;185;11;false
+7556;185;12;false
+7557;185;13;false
+7558;185;14;false
+7559;185;15;false
+7560;185;16;false
+7561;185;17;false
+7562;185;18;false
+7563;185;19;false
+7564;185;20;false
+7565;185;21;false
+7566;185;22;false
+7567;185;23;true
+7568;185;24;false
+7569;185;25;true
+7570;185;26;false
+7571;185;27;false
+7572;185;28;false
+7573;185;29;false
+7574;185;30;true
+7575;185;31;true
+7576;185;32;true
+7577;185;33;false
+7578;185;34;false
+7579;185;35;false
+7580;185;36;false
+7581;185;37;false
+7582;185;38;false
+7583;185;39;true
+7584;185;40;6.7
+7585;185;41;1244
+7586;186;1;10000000
+7587;186;2;summer
+7588;186;3;1982
+7589;186;4;The Thing
+7590;186;5;36.90909090909091
+7591;186;6;Kurt Russell,Wilford Brimley,T. K. Carter
+7592;186;7;John Carpenter
+7593;186;8;Stuart Cohen
+7594;186;9;Bill Lancaster
+7595;186;10;false
+7596;186;11;false
+7597;186;12;false
+7598;186;13;false
+7599;186;14;false
+7600;186;15;false
+7601;186;16;false
+7602;186;17;false
+7603;186;18;false
+7604;186;19;false
+7605;186;20;true
+7606;186;21;true
+7607;186;22;false
+7608;186;23;true
+7609;186;24;false
+7610;186;25;true
+7611;186;26;false
+7612;186;27;false
+7613;186;28;false
+7614;186;29;false
+7615;186;30;false
+7616;186;31;true
+7617;186;32;true
+7618;186;33;false
+7619;186;34;false
+7620;186;35;false
+7621;186;36;false
+7622;186;37;false
+7623;186;38;false
+7624;186;39;false
+7625;186;40;7.3
+7626;186;41;266
+7627;187;1;0
+7628;187;2;winter
+7629;187;3;1949
+7630;187;4;The Third Man
+7631;187;5;49.416666666666664
+7632;187;6;Joseph Cotten,Alida Valli,Orson Welles
+7633;187;7;Carol Reed
+7634;187;8;Hugh Perceval
+7635;187;9;Graham Greene
+7636;187;10;false
+7637;187;11;false
+7638;187;12;false
+7639;187;13;false
+7640;187;14;false
+7641;187;15;false
+7642;187;16;false
+7643;187;17;false
+7644;187;18;true
+7645;187;19;false
+7646;187;20;false
+7647;187;21;true
+7648;187;22;false
+7649;187;23;false
+7650;187;24;false
+7651;187;25;true
+7652;187;26;false
+7653;187;27;false
+7654;187;28;false
+7655;187;29;false
+7656;187;30;true
+7657;187;31;false
+7658;187;32;true
+7659;187;33;false
+7660;187;34;true
+7661;187;35;false
+7662;187;36;false
+7663;187;37;false
+7664;187;38;true
+7665;187;39;false
+7666;187;40;7.7
+7667;187;41;27
+7668;188;1;3800000
+7669;188;2;winter
+7670;188;3;1948
+7671;188;4;The Treasure of the Sierra Madre
+7672;188;5;41.375
+7673;188;6;Humphrey Bogart,Walter Huston,Tim Holt
+7674;188;7;John Huston
+7675;188;8;Henry Blanke
+7676;188;9;John Huston
+7677;188;10;true
+7678;188;11;true
+7679;188;12;false
+7680;188;13;false
+7681;188;14;false
+7682;188;15;true
+7683;188;16;false
+7684;188;17;false
+7685;188;18;false
+7686;188;19;false
+7687;188;20;false
+7688;188;21;false
+7689;188;22;false
+7690;188;23;false
+7691;188;24;false
+7692;188;25;false
+7693;188;26;false
+7694;188;27;true
+7695;188;28;false
+7696;188;29;false
+7697;188;30;false
+7698;188;31;true
+7699;188;32;true
+7700;188;33;false
+7701;188;34;false
+7702;188;35;false
+7703;188;36;false
+7704;188;37;false
+7705;188;38;false
+7706;188;39;false
+7707;188;40;7.6
+7708;188;41;27
+7709;189;1;60000000
+7710;189;2;spring
+7711;189;3;1998
+7712;189;4;The Truman Show
+7713;189;5;40.55555555555556
+7714;189;6;Jim Carrey,Laura Linney,Noah Emmerich
+7715;189;7;Peter Weir
+7716;189;8;Edward S. Feldman
+7717;189;9;NULL
+7718;189;10;false
+7719;189;11;false
+7720;189;12;false
+7721;189;13;true
+7722;189;14;false
+7723;189;15;true
+7724;189;16;false
+7725;189;17;false
+7726;189;18;false
+7727;189;19;false
+7728;189;20;false
+7729;189;21;false
+7730;189;22;false
+7731;189;23;false
+7732;189;24;false
+7733;189;25;false
+7734;189;26;false
+7735;189;27;false
+7736;189;28;false
+7737;189;29;false
+7738;189;30;false
+7739;189;31;true
+7740;189;32;true
+7741;189;33;false
+7742;189;34;false
+7743;189;35;false
+7744;189;36;false
+7745;189;37;false
+7746;189;38;false
+7747;189;39;false
+7748;189;40;6.9
+7749;189;41;617
+7750;190;1;25000000
+7751;190;2;spring
+7752;190;3;1987
+7753;190;4;The Untouchables
+7754;190;5;39.666666666666664
+7755;190;6;Kevin Costner,Sean Connery,Robert De Niro
+7756;190;7;Brian De Palma
+7757;190;8;Art Linson
+7758;190;9;NULL
+7759;190;10;false
+7760;190;11;false
+7761;190;12;false
+7762;190;13;false
+7763;190;14;true
+7764;190;15;true
+7765;190;16;false
+7766;190;17;false
+7767;190;18;false
+7768;190;19;true
+7769;190;20;false
+7770;190;21;false
+7771;190;22;false
+7772;190;23;false
+7773;190;24;false
+7774;190;25;true
+7775;190;26;false
+7776;190;27;false
+7777;190;28;false
+7778;190;29;false
+7779;190;30;false
+7780;190;31;true
+7781;190;32;true
+7782;190;33;false
+7783;190;34;false
+7784;190;35;false
+7785;190;36;false
+7786;190;37;false
+7787;190;38;false
+7788;190;39;false
+7789;190;40;6.9
+7790;190;41;180
+7791;191;1;6000000
+7792;191;2;summer
+7793;191;3;1995
+7794;191;4;The Usual Suspects
+7795;191;5;39.785714285714285
+7796;191;6;Kevin Spacey,Stephen Baldwin,Gabriel Byrne
+7797;191;7;Bryan Singer
+7798;191;8;Bryan Singer
+7799;191;9;Christopher McQuarrie
+7800;191;10;false
+7801;191;11;false
+7802;191;12;false
+7803;191;13;false
+7804;191;14;true
+7805;191;15;false
+7806;191;16;false
+7807;191;17;false
+7808;191;18;false
+7809;191;19;false
+7810;191;20;false
+7811;191;21;true
+7812;191;22;false
+7813;191;23;false
+7814;191;24;false
+7815;191;25;true
+7816;191;26;false
+7817;191;27;false
+7818;191;28;false
+7819;191;29;false
+7820;191;30;false
+7821;191;31;true
+7822;191;32;true
+7823;191;33;true
+7824;191;34;false
+7825;191;35;false
+7826;191;36;false
+7827;191;37;false
+7828;191;38;false
+7829;191;39;false
+7830;191;40;7.6
+7831;191;41;694
+7832;192;1;6000000
+7833;192;2;summer
+7834;192;3;1969
+7835;192;4;The Wild Bunch
+7836;192;5;50.53846153846154
+7837;192;6;Ernest Borgnine,William Holden,Robert Ryan
+7838;192;7;Sam Peckinpah
+7839;192;8;Phil Feldman
+7840;192;9;Sam Peckinpah
+7841;192;10;false
+7842;192;11;false
+7843;192;12;false
+7844;192;13;false
+7845;192;14;false
+7846;192;15;false
+7847;192;16;false
+7848;192;17;false
+7849;192;18;false
+7850;192;19;false
+7851;192;20;false
+7852;192;21;false
+7853;192;22;false
+7854;192;23;false
+7855;192;24;false
+7856;192;25;false
+7857;192;26;false
+7858;192;27;true
+7859;192;28;false
+7860;192;29;false
+7861;192;30;false
+7862;192;31;true
+7863;192;32;true
+7864;192;33;false
+7865;192;34;false
+7866;192;35;false
+7867;192;36;false
+7868;192;37;false
+7869;192;38;false
+7870;192;39;true
+7871;192;40;7.5
+7872;192;41;33
+7873;193;1;2777000
+7874;193;2;summer
+7875;193;3;1939
+7876;193;4;The Wizard of Oz
+7877;193;5;44.27777777777778
+7878;193;6;Judy Garland,Frank Morgan,Ray Bolger
+7879;193;7;Victor Fleming
+7880;193;8;Mervyn LeRoy
+7881;193;9;Noel Langley
+7882;193;10;false
+7883;193;11;true
+7884;193;12;false
+7885;193;13;false
+7886;193;14;false
+7887;193;15;false
+7888;193;16;true
+7889;193;17;true
+7890;193;18;false
+7891;193;19;false
+7892;193;20;false
+7893;193;21;false
+7894;193;22;false
+7895;193;23;false
+7896;193;24;false
+7897;193;25;false
+7898;193;26;false
+7899;193;27;false
+7900;193;28;false
+7901;193;29;false
+7902;193;30;false
+7903;193;31;true
+7904;193;32;true
+7905;193;33;false
+7906;193;34;false
+7907;193;35;false
+7908;193;36;false
+7909;193;37;false
+7910;193;38;false
+7911;193;39;false
+7912;193;40;6.6
+7913;193;41;369
+7914;194;1;25000000
+7915;194;2;winter
+7916;194;3;2007
+7917;194;4;There Will Be Blood
+7918;194;5;45.57142857142857
+7919;194;6;Daniel Day-Lewis,Paul Dano,Dillon Freasier
+7920;194;7;Paul Thomas Anderson
+7921;194;8;JoAnne Sellar
+7922;194;9;Paul Thomas Anderson
+7923;194;10;false
+7924;194;11;false
+7925;194;12;false
+7926;194;13;false
+7927;194;14;false
+7928;194;15;true
+7929;194;16;false
+7930;194;17;false
+7931;194;18;false
+7932;194;19;false
+7933;194;20;false
+7934;194;21;false
+7935;194;22;false
+7936;194;23;false
+7937;194;24;false
+7938;194;25;false
+7939;194;26;false
+7940;194;27;false
+7941;194;28;false
+7942;194;29;false
+7943;194;30;false
+7944;194;31;true
+7945;194;32;true
+7946;194;33;false
+7947;194;34;false
+7948;194;35;false
+7949;194;36;false
+7950;194;37;false
+7951;194;38;false
+7952;194;39;false
+7953;194;40;7.5
+7954;194;41;182
+7955;195;1;2000000
+7956;195;2;winter
+7957;195;3;1962
+7958;195;4;To Kill a Mockingbird
+7959;195;5;35.666666666666664
+7960;195;6;Gregory Peck,Mary Badham,Phillip Alford
+7961;195;7;Robert Mulligan
+7962;195;8;Alan J. Pakula
+7963;195;9;Horton Foote
+7964;195;10;false
+7965;195;11;false
+7966;195;12;false
+7967;195;13;false
+7968;195;14;true
+7969;195;15;true
+7970;195;16;false
+7971;195;17;false
+7972;195;18;false
+7973;195;19;false
+7974;195;20;false
+7975;195;21;true
+7976;195;22;false
+7977;195;23;false
+7978;195;24;false
+7979;195;25;false
+7980;195;26;false
+7981;195;27;false
+7982;195;28;false
+7983;195;29;false
+7984;195;30;false
+7985;195;31;true
+7986;195;32;true
+7987;195;33;false
+7988;195;34;false
+7989;195;35;false
+7990;195;36;false
+7991;195;37;false
+7992;195;38;false
+7993;195;39;false
+7994;195;40;7.6
+7995;195;41;46
+7996;196;1;0
+7997;196;2;spring
+7998;196;3;1988
+7999;196;4;My Neighbor Totoro
+8000;196;5;34.0
+8001;196;6;Noriko Hidaka,Hitoshi Takagi,Chika Sakamoto
+8002;196;7;Hayao Miyazaki
+8003;196;8;Tohru Hara
+8004;196;9;NULL
+8005;196;10;false
+8006;196;11;false
+8007;196;12;true
+8008;196;13;false
+8009;196;14;false
+8010;196;15;false
+8011;196;16;true
+8012;196;17;true
+8013;196;18;false
+8014;196;19;false
+8015;196;20;false
+8016;196;21;false
+8017;196;22;false
+8018;196;23;false
+8019;196;24;false
+8020;196;25;false
+8021;196;26;false
+8022;196;27;false
+8023;196;28;false
+8024;196;29;false
+8025;196;30;false
+8026;196;31;false
+8027;196;32;false
+8028;196;33;false
+8029;196;34;false
+8030;196;35;false
+8031;196;36;true
+8032;196;37;false
+8033;196;38;false
+8034;196;39;false
+8035;196;40;7.7
+8036;196;41;395
+8037;197;1;829000
+8038;197;2;spring
+8039;197;3;1958
+8040;197;4;Touch of Evil
+8041;197;5;45.75
+8042;197;6;Charlton Heston,Janet Leigh,Orson Welles
+8043;197;7;Orson Welles
+8044;197;8;Albert Zugsmith
+8045;197;9;Orson Welles
+8046;197;10;false
+8047;197;11;false
+8048;197;12;false
+8049;197;13;false
+8050;197;14;true
+8051;197;15;true
+8052;197;16;false
+8053;197;17;false
+8054;197;18;true
+8055;197;19;false
+8056;197;20;false
+8057;197;21;false
+8058;197;22;false
+8059;197;23;false
+8060;197;24;false
+8061;197;25;true
+8062;197;26;false
+8063;197;27;false
+8064;197;28;false
+8065;197;29;false
+8066;197;30;false
+8067;197;31;true
+8068;197;32;true
+8069;197;33;false
+8070;197;34;false
+8071;197;35;false
+8072;197;36;false
+8073;197;37;false
+8074;197;38;false
+8075;197;39;true
+8076;197;40;8.0
+8077;197;41;12
+8078;198;1;30000000
+8079;198;2;autumn
+8080;198;3;1995
+8081;198;4;Toy Story
+8082;198;5;37.31818181818182
+8083;198;6;Tom Hanks,Tim Allen,Don Rickles
+8084;198;7;John Lasseter
+8085;198;8;Bonnie Arnold
+8086;198;9;Joss Whedon
+8087;198;10;false
+8088;198;11;false
+8089;198;12;true
+8090;198;13;true
+8091;198;14;false
+8092;198;15;false
+8093;198;16;true
+8094;198;17;false
+8095;198;18;false
+8096;198;19;false
+8097;198;20;false
+8098;198;21;false
+8099;198;22;false
+8100;198;23;false
+8101;198;24;false
+8102;198;25;false
+8103;198;26;false
+8104;198;27;false
+8105;198;28;false
+8106;198;29;false
+8107;198;30;false
+8108;198;31;true
+8109;198;32;true
+8110;198;33;true
+8111;198;34;false
+8112;198;35;false
+8113;198;36;false
+8114;198;37;false
+8115;198;38;false
+8116;198;39;false
+8117;198;40;7.1
+8118;198;41;1631
+8119;199;1;4000000
+8120;199;2;summer
+8121;199;3;1996
+8122;199;4;Trainspotting
+8123;199;5;30.0
+8124;199;6;Ewan McGregor,Ewen Bremner,Jonny Lee Miller
+8125;199;7;Danny Boyle
+8126;199;8;Andrew Macdonald
+8127;199;9;John Hodge
+8128;199;10;false
+8129;199;11;false
+8130;199;12;false
+8131;199;13;false
+8132;199;14;true
+8133;199;15;true
+8134;199;16;false
+8135;199;17;false
+8136;199;18;false
+8137;199;19;false
+8138;199;20;false
+8139;199;21;false
+8140;199;22;false
+8141;199;23;false
+8142;199;24;false
+8143;199;25;false
+8144;199;26;false
+8145;199;27;false
+8146;199;28;false
+8147;199;29;false
+8148;199;30;true
+8149;199;31;false
+8150;199;32;true
+8151;199;33;false
+8152;199;34;false
+8153;199;35;false
+8154;199;36;false
+8155;199;37;false
+8156;199;38;false
+8157;199;39;false
+8158;199;40;7.0
+8159;199;41;227
+8160;200;1;0
+8161;200;2;spring
+8162;200;3;1994
+8163;200;4;Three Colors: Red
+8164;200;5;34.833333333333336
+8165;200;6;Irène Jacob,Jean-Louis Trintignant,Jean-Pierre Lorit
+8166;200;7;Krzysztof Kieślowski
+8167;200;8;Marin Karmitz
+8168;200;9;Krzysztof Kieślowski
+8169;200;10;false
+8170;200;11;false
+8171;200;12;false
+8172;200;13;false
+8173;200;14;false
+8174;200;15;true
+8175;200;16;false
+8176;200;17;false
+8177;200;18;false
+8178;200;19;false
+8179;200;20;false
+8180;200;21;true
+8181;200;22;true
+8182;200;23;false
+8183;200;24;false
+8184;200;25;false
+8185;200;26;false
+8186;200;27;false
+8187;200;28;true
+8188;200;29;false
+8189;200;30;false
+8190;200;31;false
+8191;200;32;false
+8192;200;33;true
+8193;200;34;false
+8194;200;35;false
+8195;200;36;false
+8196;200;37;false
+8197;200;38;false
+8198;200;39;false
+8199;200;40;8.5
+8200;200;41;24
