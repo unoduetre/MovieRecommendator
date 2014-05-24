@@ -1,32 +1,57 @@
 /3/movie/{id}
-  adult - logiczne
+  adult - logiczne [TODO]
   budget - liczba, przeliczone dolary, mamy
   genres - tekst, porównywanie i jaccard na napisach, wszystkie gatunki, mamy część
+    [TODO: dodać logiczne wszystkie gatunki, których nie ma a do których należy
+    choćby jeden film + cechę która zawiera nazwy gatunków rozdzielone przecinkami]
   overview - tekst, jaccard na tekście
-  popularity - liczba
+    [TODO: dodać cechę tekstową zawierającą overview, zadbać o brak średników w treści
+    (można wywalić interpunkcję w ogóle i zostawić same słowa zapisane małymi literami i liczby)]
+  popularity - liczba [TODO]
   production_companies - tekst, jaccard na tekście
-  production_countries - tekst, jaccard na napisach, mamy
-  release_date - data
-  revenue - liczba, aktualne dolary
-  runtime - liczba, minuty
+    [TODO: dodać, ma to być string rozdzielony przecinkami;
+    nie trzeba tutaj dawać cech logicznych, bo to nowość i nie musimy dodawać nic dla kompatybilności
+    z wersja pokazaną na ostatnich zajęciach]
+  production_countries - tekst, jaccard na napisach, mamy część
+    [TODO: dodać cechy logiczne dla wszystkich krajów, do których pasuje choćby jeden film
+    + dodać cechę z kodami krajów rozdzielonymi przecinkami]
+  release_date - data [mamy ROK i to chyba wystarczy, czy ktoś uważa że potrzeba dokładniej?]
+  revenue - liczba, aktualne dolary [TODO: liczba i tyle]
+  runtime - liczba, minuty [TODO]
   spoken_languages - tekst, jaccard na napisach, częściowo mamy
+    [TODO: dodać jako boole języki które występją ale rzadko więc ich nie było
+    + zrobić cechę z kodami języków rozdzielonymi przecinkami]
   tagline - tekst, jaccard na tekście
+     [TODO: jaccard dotyczy ekstrakcji, na razie potrzena jest po prostu cecha będąca napisem]
   title - tekst, jaccard na tekście, mamy
   vote_average - liczba, mamy
   vote_count - liczba, mamy
 
 /3/movie/{id}/credits
   cast - ważna kolejność i imię+nazwisko
+    [TODO: pełne wartości name rozdzielone przecinkami
+    + unikanie przecinków i średników wewnątrz nazwisk (mam nadzieję, że nawet nie jest to potrzebne,
+    ale chociaż dać asserta...)]
   crew - indeksujemy po department i osobna cecha indeksujemy po job, a potem imię+nazwisko
+    [TODO: tzn. dla każdego występującego department i dla każdego występującego job
+    ma powstać cecha, konstruowana j.w.]
 
 /3/movie/{id}/keywords
   keywords - tekst, jaccard na napisach
+  [TODO: cecha z listą keywordsów rozdzielanych przecinkami
+  dla łatwości oceniania co się dzieje powinny być to treści keywordsów, a nie np. id]
 
 /3/movie/{id}/similar
   results - jeśli film znajduje się w podobnych to 1, w innym wypadku 0
+  [TODO; powyżej opisany jest sposób ekstrakcji; cechą może być rozdzielona
+  przecinkami lista idków podobnych filmów z tmdb]
 
 /3/movie/{id}/reviews
   results - tekst, multisetowy jaccard na złączonym tekście
+  [TODO: sama cecha powinna zawierać po prostu słowa każdej recenzji,
+  bez interpunkcji, może być od razu małymi literami; przetworzone
+  w ten sposób treści poszczególnych recenzji można rozdzielić
+  przecinkami]
 
 
 
