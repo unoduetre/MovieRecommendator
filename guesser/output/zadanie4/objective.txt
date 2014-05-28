@@ -1,0 +1,8 @@
+Dla każdej konfiguracji klasyfikatora (np. pozbioru wybranych cech) funkcję
+celu wyznaczamy w taki sposób, że dla każdego znanego nam głosu w zbiorze
+treningowym: usuwamy go z bazy, próbujemy odgadnąć go na podstawie
+pozostałych głosów, a następnie go przywracamy. Wartością funkcji
+celu jest wartość oczekiwana modułu różnicy pomiędzy notą odgadniętą
+przez nas (zawsze jest to liczba całkowita od 0 do 5) a oryginalnym
+głosem. Oczywiście dążymy do minimalizacji tak określonej funkcji
+kosztu.

@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*- 
 
+import random
 from FeatureSupport import *
 from Stemmer import Stemmer
 from unidecode import unidecode
@@ -23,7 +24,9 @@ class BagOfWordsFeatureSupport(FeatureSupport):
   
   def extract(self, i):
     bag = frozenset(map(lambda w: self.preprocess(w), filter(None, self[i].split())))
-    return bag - self.stopList
+    ret = bag - self.stopList
+    if len(ret) == 0: ret = frozenset([''.join(random.choice('abcdefghjiklmnopqrstuvwxyz') for _ in range(20))])
+    return ret
   
   def similarity(self, a, b):
     num = len(a & b)

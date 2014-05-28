@@ -7,7 +7,7 @@ class IsCountryGermany(Feature):
   description = """
 Regional: Production country: is it Germany?
 """.strip()
-
+  
   def __init__(self, *args, **kwargs):
     Feature.__init__(self)
  

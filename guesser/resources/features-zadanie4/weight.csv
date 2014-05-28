@@ -1,0 +1,109 @@
+Basic: Adult;0.0017414684915401
+Basic: Budget;0.0037518801297714
+Basic: Keywords;0.0174146849153967
+Basic: Overview;0.0013483558075331
+Basic: Popularity;0.0224919304688259
+Basic: Production companies;0.0017414684915402
+Basic: Production date: season;0.0017414684915401
+Basic: Production date: year;0.0017414684915401
+Basic: Revenue;0.0022491930468826
+Basic: Reviews;0.0000224919304692
+Basic: Runtime;0.0029049445262550
+Basic: Similar movies;0.0029049445262550
+Basic: Tagline;0.0224919304688259
+Basic: Title;0.3751880129771494
+Cast: all;0.1741468491540104
+Cast: average age;0.0001741468491540
+Cast: three most important actors;0.1348355807532989
+Crew: all;0.0000080831807044
+Crew: the first movie director;0.0484573952478238
+Crew: the first movie producer;0.0375188012977149
+Crew: the first screenplay writer;0.0048457395247824
+Genre: is it action?;0.0017414684915401
+Genre: is it adventure?;0.0017414684915401
+Genre: is it animation?;0.0017414684915401
+Genre: is it comedy?;0.0017414684915401
+Genre: is it crime?;0.0017414684915401
+Genre: is it drama?;0.0017414684915401
+Genre: is it family?;0.0017414684915401
+Genre: is it fantasy?;0.0017414684915401
+Genre: is it film noir?;0.0017414684915401
+Genre: is it foreign?;0.0017414684915401
+Genre: is it history?;0.0017414684915401
+Genre: is it horror?;0.0017414684915401
+Genre: is it music?;0.0017414684915401
+Genre: is it musical?;0.0017414684915401
+Genre: is it mystery?;0.0017414684915401
+Genre: is it neo-noir?;0.0017414684915401
+Genre: is it romance?;0.0017414684915401
+Genre: is it science fiction?;0.0017414684915401
+Genre: is it sport?;0.0017414684915401
+Genre: is it sports film?;0.0017414684915401
+Genre: is it suspense?;0.0017414684915401
+Genre: is it thriller?;0.0017414684915401
+Genre: is it war?;0.0017414684915401
+Genre: is it western?;0.0017414684915401
+Genre: set;0.0000375188012976
+Helpers: TMDB Id;0.0017414684915401
+Regional: Production country: is it Australia?;0.0017414684915401
+Regional: Production country: is it Austria?;0.0017414684915401
+Regional: Production country: is it Brasil?;0.0017414684915401
+Regional: Production country: is it Canada?;0.0017414684915401
+Regional: Production country: is it Denmark?;0.0017414684915401
+Regional: Production country: is it France?;0.0017414684915401
+Regional: Production country: is it Germany?;0.0017414684915401
+Regional: Production country: is it Hong Kong?;0.0017414684915401
+Regional: Production country: is it India?;0.0017414684915401
+Regional: Production country: is it Ireland?;0.0017414684915401
+Regional: Production country: is it Italy?;0.0017414684915401
+Regional: Production country: is it Japan?;0.0017414684915401
+Regional: Production country: is it Mexico?;0.0017414684915401
+Regional: Production country: is it New Zealand?;0.0017414684915401
+Regional: Production country: is it Poland?;0.0017414684915401
+Regional: Production country: is it South Africa?;0.0017414684915401
+Regional: Production country: is it Spain?;0.0017414684915401
+Regional: Production country: is it Sweden?;0.0017414684915401
+Regional: Production country: is it Switzerland?;0.0017414684915401
+Regional: Production country: is it Taiwan?;0.0017414684915401
+Regional: Production country: is it United Kingdom?;0.0017414684915401
+Regional: Production country: is it USA?;0.0017414684915401
+Regional: Production country: set;0.0000625851325998
+Regional: Spoken languages: is there Afrikaans?;0.0013483558075330
+Regional: Spoken languages: is there Arabic?;0.0013483558075330
+Regional: Spoken languages: is there Chichewa?;0.0013483558075330
+Regional: Spoken languages: is there Chinese (with incorrect code)?;0.0013483558075330
+Regional: Spoken languages: is there Chinese?;0.0013483558075330
+Regional: Spoken languages: is there Czech?;0.0013483558075330
+Regional: Spoken languages: is there Danish?;0.0013483558075330
+Regional: Spoken languages: is there English?;0.0013483558075330
+Regional: Spoken languages: is there Esperanto?;0.0013483558075330
+Regional: Spoken languages: is there French?;0.0013483558075330
+Regional: Spoken languages: is there German?;0.0013483558075330
+Regional: Spoken languages: is there Greek?;0.0013483558075330
+Regional: Spoken languages: is there Hebrew?;0.0013483558075330
+Regional: Spoken languages: is there Hindi?;0.0013483558075330
+Regional: Spoken languages: is there Hungarian?;0.0013483558075330
+Regional: Spoken languages: is there Irish?;0.0013483558075330
+Regional: Spoken languages: is there Italian?;0.0013483558075330
+Regional: Spoken languages: is there Japanese?;0.0013483558075330
+Regional: Spoken languages: is there Latin?;0.0013483558075330
+Regional: Spoken languages: is there Nepali?;0.0013483558075330
+Regional: Spoken languages: is there Norwegian?;0.0013483558075330
+Regional: Spoken languages: is there Persian?;0.0013483558075330
+Regional: Spoken languages: is there Polish?;0.0013483558075330
+Regional: Spoken languages: is there Portuguese?;0.0013483558075330
+Regional: Spoken languages: is there Russian?;0.0013483558075330
+Regional: Spoken languages: is there Scottish Gaelic?;0.0013483558075330
+Regional: Spoken languages: is there Southern Sotho?;0.0013483558075330
+Regional: Spoken languages: is there Spanish?;0.0013483558075330
+Regional: Spoken languages: is there Swedish?;0.0013483558075330
+Regional: Spoken languages: is there Tamil?;0.0013483558075330
+Regional: Spoken languages: is there Thai?;0.0013483558075330
+Regional: Spoken languages: is there Turkish?;0.0013483558075330
+Regional: Spoken languages: is there Urdu?;0.0013483558075330
+Regional: Spoken languages: is there Vietnamese?;0.0013483558075330
+Regional: Spoken languages: is there Xhosa?;0.0013483558075330
+Regional: Spoken languages: is there Yiddish?;0.0013483558075330
+Regional: Spoken languages: is there Zulu?;0.0013483558075330
+TMDB votes: average;0.0000010439829331
+TMDB votes: count;0.0104398293310498

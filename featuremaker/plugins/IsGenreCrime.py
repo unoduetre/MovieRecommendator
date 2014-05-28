@@ -5,7 +5,7 @@ from Feature import Feature
 
 class IsGenreCrime(Feature):
   description = """
-Genre: is it crime movie?
+Genre: is it crime?
 """.strip()
 
   def __init__(self, *args, **kwargs):

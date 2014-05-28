@@ -26,6 +26,9 @@ featureSupportLoadersByName = {}
 
 featureNames = [
 'Basic: Production date: year',
+'Basic: Popularity',
+'Basic: Revenue',
+'Basic: Runtime',
 'Cast: average age',
 'TMDB votes: average',
 'TMDB votes: count'

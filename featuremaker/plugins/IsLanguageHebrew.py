@@ -3,16 +3,16 @@
 
 from Feature import Feature
 
-class IsCountryUK(Feature):
+class IsLanguageHebrew(Feature):
   description = """
-Regional: Production country: is it UK?
+Regional: Spoken languages: is there Hebrew?
 """.strip()
 
   def __init__(self, *args, **kwargs):
     Feature.__init__(self)
  
   def extract(self, m):
-    for pc in m.production_countries:
-      if pc['iso_3166_1'] == 'GB':
+    for sl in m.spoken_languages:
+      if sl['iso_639_1'] == 'he':
         return True
     return False

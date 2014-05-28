@@ -7,35 +7,30 @@ from VoteGuesser import VoteGuesser
 
 def main():
   os.chdir(os.path.dirname(sys.argv[0]))
-
-  featuresData = FeaturesData()
-  # voteGuesser = VoteGuesser(featuresData, k=3, trainFn='./resources/our-votes/train.csv', taskFn='./resources/our-votes/task.csv')
+  
+  """Zadanie 3."""
+  """
+  featuresData = FeaturesData(featuresFn='./resources/features-zadanie3/feature.csv',
+                              dataFn='./resources/features-zadanie3/data.csv',
+                              weightsFn='./resources/features-zadanie3/weight-manual.csv')
   voteGuesser = VoteGuesser(featuresData, k=3)
-  voteGuesser.solveTask()
-  # voteGuesser.printSimilarityReport()
-  # voteGuesser.printReguessReport()
   
-  """A = []
-  for movieId in range(featuresData.samplesCount):
-    A.append(float(featuresData.data[movieId][-2]))
+  print('Average error:', voteGuesser.calculateReguessExpectedError())
+  voteGuesser.solveTask(outputFn='./output/zadanie3/task.csv')
+  """
   
-  print(min(A), max(A))"""
+  """Zadanie 4."""
+  featuresData = FeaturesData(featuresFn='./resources/features-zadanie4/feature.csv',
+                              dataFn='./resources/features-zadanie4/data.csv',
+                              weightsFn='./resources/features-zadanie4/weight.csv')
+  voteGuesser = VoteGuesser(featuresData, k=3)
   
-  """userId = 3 # 1642
-  refMovieId = 113-1 # 137-1
+  print('Average error for all features:', voteGuesser.calculateReguessExpectedError())
+  voteGuesser.solveTask(outputFn='./output/zadanie4/task1.csv')
   
-  for otherMovieId, vote in sorted(voteGuesser.userData[userId].items(), key=lambda t: t[1]):
-    sss = '\n\t'.join('%.2f %12s %s' % (x, featuresData.data[otherMovieId][i], featuresData.featureNamesById[i]) for i, x in enumerate(featuresData.calculateSubsimilarities(refMovieId, otherMovieId)))
-    print(otherMovieId, vote, featuresData.similarity(refMovieId, otherMovieId), '\n\t'+ sss)"""
-  
-  """arr = []
-  for i in range(featuresData.samplesCount):
-    for j in range(featuresData.samplesCount):
-      if i == j: break
-      arr.append((featuresData.similarity(i, j), i+1, j+1))
-  arr.sort()
-  print(arr[:5])
-  print(arr[-5:])"""
+  voteGuesser.loadMask(maskFn='./output/zadanie4/mask.csv')
+  print('Average error for selected features:', voteGuesser.calculateReguessExpectedError())
+  voteGuesser.solveTask(outputFn='./output/zadanie4/task2.csv')
 
 if __name__ == '__main__':
   main()

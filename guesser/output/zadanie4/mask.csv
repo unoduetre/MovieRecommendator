@@ -1,0 +1,109 @@
+Basic: Adult;false
+Basic: Budget;false
+Basic: Keywords;false
+Basic: Overview;false
+Basic: Popularity;false
+Basic: Production companies;true
+Basic: Production date: season;false
+Basic: Production date: year;false
+Basic: Revenue;false
+Basic: Reviews;false
+Basic: Runtime;false
+Basic: Similar movies;true
+Basic: Tagline;true
+Basic: Title;true
+Cast: all;true
+Cast: average age;false
+Cast: three most important actors;true
+Crew: all;false
+Crew: the first movie director;true
+Crew: the first movie producer;true
+Crew: the first screenplay writer;true
+Genre: is it action?;false
+Genre: is it adventure?;true
+Genre: is it animation?;false
+Genre: is it comedy?;false
+Genre: is it crime?;true
+Genre: is it drama?;true
+Genre: is it family?;false
+Genre: is it fantasy?;true
+Genre: is it film noir?;true
+Genre: is it foreign?;true
+Genre: is it history?;true
+Genre: is it horror?;false
+Genre: is it music?;true
+Genre: is it musical?;true
+Genre: is it mystery?;true
+Genre: is it neo-noir?;true
+Genre: is it romance?;false
+Genre: is it science fiction?;true
+Genre: is it sport?;false
+Genre: is it sports film?;false
+Genre: is it suspense?;false
+Genre: is it thriller?;false
+Genre: is it war?;false
+Genre: is it western?;false
+Genre: set;true
+Helpers: TMDB Id;false
+Regional: Production country: is it Australia?;false
+Regional: Production country: is it Austria?;true
+Regional: Production country: is it Brasil?;true
+Regional: Production country: is it Canada?;true
+Regional: Production country: is it Denmark?;false
+Regional: Production country: is it France?;true
+Regional: Production country: is it Germany?;false
+Regional: Production country: is it Hong Kong?;true
+Regional: Production country: is it India?;false
+Regional: Production country: is it Ireland?;false
+Regional: Production country: is it Italy?;false
+Regional: Production country: is it Japan?;false
+Regional: Production country: is it Mexico?;true
+Regional: Production country: is it New Zealand?;false
+Regional: Production country: is it Poland?;true
+Regional: Production country: is it South Africa?;true
+Regional: Production country: is it Spain?;false
+Regional: Production country: is it Sweden?;false
+Regional: Production country: is it Switzerland?;true
+Regional: Production country: is it Taiwan?;false
+Regional: Production country: is it United Kingdom?;false
+Regional: Production country: is it USA?;false
+Regional: Production country: set;true
+Regional: Spoken languages: is there Afrikaans?;false
+Regional: Spoken languages: is there Arabic?;true
+Regional: Spoken languages: is there Chichewa?;false
+Regional: Spoken languages: is there Chinese (with incorrect code)?;false
+Regional: Spoken languages: is there Chinese?;true
+Regional: Spoken languages: is there Czech?;true
+Regional: Spoken languages: is there Danish?;false
+Regional: Spoken languages: is there English?;false
+Regional: Spoken languages: is there Esperanto?;true
+Regional: Spoken languages: is there French?;false
+Regional: Spoken languages: is there German?;false
+Regional: Spoken languages: is there Greek?;true
+Regional: Spoken languages: is there Hebrew?;false
+Regional: Spoken languages: is there Hindi?;false
+Regional: Spoken languages: is there Hungarian?;false
+Regional: Spoken languages: is there Irish?;true
+Regional: Spoken languages: is there Italian?;false
+Regional: Spoken languages: is there Japanese?;false
+Regional: Spoken languages: is there Latin?;false
+Regional: Spoken languages: is there Nepali?;true
+Regional: Spoken languages: is there Norwegian?;true
+Regional: Spoken languages: is there Persian?;true
+Regional: Spoken languages: is there Polish?;true
+Regional: Spoken languages: is there Portuguese?;false
+Regional: Spoken languages: is there Russian?;true
+Regional: Spoken languages: is there Scottish Gaelic?;false
+Regional: Spoken languages: is there Southern Sotho?;true
+Regional: Spoken languages: is there Spanish?;false
+Regional: Spoken languages: is there Swedish?;true
+Regional: Spoken languages: is there Tamil?;true
+Regional: Spoken languages: is there Thai?;true
+Regional: Spoken languages: is there Turkish?;false
+Regional: Spoken languages: is there Urdu?;true
+Regional: Spoken languages: is there Vietnamese?;true
+Regional: Spoken languages: is there Xhosa?;true
+Regional: Spoken languages: is there Yiddish?;true
+Regional: Spoken languages: is there Zulu?;false
+TMDB votes: average;true
+TMDB votes: count;true

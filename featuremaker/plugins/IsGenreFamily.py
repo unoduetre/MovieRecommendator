@@ -5,7 +5,7 @@ from Feature import Feature
 
 class IsGenreFamily(Feature):
   description = """
-Genre: is it family movie?
+Genre: is it family?
 """.strip()
 
   def __init__(self, *args, **kwargs):

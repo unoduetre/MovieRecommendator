@@ -7,27 +7,27 @@ Cast: three most important actors;300
 Crew: the first movie director;30000
 Crew: the first movie producer;5000
 Crew: the first screenplay writer;400
-Genre: is it action movie?;500
-Genre: is it adventure movie?;500
+Genre: is it action?;500
+Genre: is it adventure?;500
 Genre: is it animation?;500
 Genre: is it comedy?;500
-Genre: is it crime movie?;500
+Genre: is it crime?;500
 Genre: is it drama?;500
-Genre: is it family movie?;500
+Genre: is it family?;500
 Genre: is it fantasy?;500
 Genre: is it film noir?;500
-Genre: is it history movie?;500
+Genre: is it history?;500
 Genre: is it horror?;500
-Genre: is it mystery movie?;500
+Genre: is it mystery?;500
 Genre: is it romance?;500
 Genre: is it science fiction?;500
-Genre: is it suspense movie?;500
+Genre: is it suspense?;500
 Genre: is it thriller?;500
-Genre: is it war movie?;500
+Genre: is it war?;500
 Genre: is it western?;500
 Regional: Production country: is it France?;350
 Regional: Production country: is it Germany?;350
-Regional: Production country: is it UK?;350
+Regional: Production country: is it United Kingdom?;350
 Regional: Production country: is it USA?;350
 Regional: Spoken languages: is there English?;100
 Regional: Spoken languages: is there French?;100
