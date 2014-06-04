@@ -1,0 +1,76 @@
+1;Basic: Production companies
+2;Basic: Similar movies
+3;Basic: Tagline
+4;Basic: Title
+5;Cast: all
+6;Cast: three most important actors
+7;Crew: the first movie director
+8;Crew: the first movie producer
+9;Crew: the first screenplay writer
+10;Genre: is it action?
+11;Genre: is it adventure?
+12;Genre: is it animation?
+13;Genre: is it comedy?
+14;Genre: is it crime?
+15;Genre: is it drama?
+16;Genre: is it family?
+17;Genre: is it fantasy?
+18;Genre: is it film noir?
+19;Genre: is it foreign?
+20;Genre: is it history?
+21;Genre: is it horror?
+22;Genre: is it music?
+23;Genre: is it musical?
+24;Genre: is it mystery?
+25;Genre: is it neo-noir?
+26;Genre: is it romance?
+27;Genre: is it science fiction?
+28;Genre: is it sport?
+29;Genre: is it sports film?
+30;Genre: is it suspense?
+31;Genre: is it thriller?
+32;Genre: is it war?
+33;Genre: is it western?
+34;Regional: Production country: is it Australia?
+35;Regional: Production country: is it Austria?
+36;Regional: Production country: is it Brasil?
+37;Regional: Production country: is it Canada?
+38;Regional: Production country: is it Denmark?
+39;Regional: Production country: is it France?
+40;Regional: Production country: is it Germany?
+41;Regional: Production country: is it Hong Kong?
+42;Regional: Production country: is it India?
+43;Regional: Production country: is it Ireland?
+44;Regional: Production country: is it Italy?
+45;Regional: Production country: is it Japan?
+46;Regional: Production country: is it Mexico?
+47;Regional: Production country: is it New Zealand?
+48;Regional: Production country: is it Poland?
+49;Regional: Production country: is it South Africa?
+50;Regional: Production country: is it Spain?
+51;Regional: Production country: is it Sweden?
+52;Regional: Production country: is it Switzerland?
+53;Regional: Production country: is it Taiwan?
+54;Regional: Production country: is it United Kingdom?
+55;Regional: Production country: is it USA?
+56;Regional: Spoken languages: is there Arabic?
+57;Regional: Spoken languages: is there Chinese?
+58;Regional: Spoken languages: is there Czech?
+59;Regional: Spoken languages: is there Esperanto?
+60;Regional: Spoken languages: is there Greek?
+61;Regional: Spoken languages: is there Irish?
+62;Regional: Spoken languages: is there Nepali?
+63;Regional: Spoken languages: is there Norwegian?
+64;Regional: Spoken languages: is there Persian?
+65;Regional: Spoken languages: is there Polish?
+66;Regional: Spoken languages: is there Russian?
+67;Regional: Spoken languages: is there Southern Sotho?
+68;Regional: Spoken languages: is there Swedish?
+69;Regional: Spoken languages: is there Tamil?
+70;Regional: Spoken languages: is there Thai?
+71;Regional: Spoken languages: is there Urdu?
+72;Regional: Spoken languages: is there Vietnamese?
+73;Regional: Spoken languages: is there Xhosa?
+74;Regional: Spoken languages: is there Yiddish?
+75;TMDB votes: average
+76;TMDB votes: count

@@ -1,0 +1,109 @@
+1;Basic: Adult
+2;Basic: Budget
+3;Basic: Keywords
+4;Basic: Overview
+5;Basic: Popularity
+6;Basic: Production companies
+7;Basic: Production date: season
+8;Basic: Production date: year
+9;Basic: Revenue
+10;Basic: Reviews
+11;Basic: Runtime
+12;Basic: Similar movies
+13;Basic: Tagline
+14;Basic: Title
+15;Cast: all
+16;Cast: average age
+17;Cast: three most important actors
+18;Crew: all
+19;Crew: the first movie director
+20;Crew: the first movie producer
+21;Crew: the first screenplay writer
+22;Genre: is it action?
+23;Genre: is it adventure?
+24;Genre: is it animation?
+25;Genre: is it comedy?
+26;Genre: is it crime?
+27;Genre: is it drama?
+28;Genre: is it family?
+29;Genre: is it fantasy?
+30;Genre: is it film noir?
+31;Genre: is it foreign?
+32;Genre: is it history?
+33;Genre: is it horror?
+34;Genre: is it music?
+35;Genre: is it musical?
+36;Genre: is it mystery?
+37;Genre: is it neo-noir?
+38;Genre: is it romance?
+39;Genre: is it science fiction?
+40;Genre: is it sport?
+41;Genre: is it sports film?
+42;Genre: is it suspense?
+43;Genre: is it thriller?
+44;Genre: is it war?
+45;Genre: is it western?
+46;Genre: set
+47;Helpers: TMDB Id
+48;Regional: Production country: is it Australia?
+49;Regional: Production country: is it Austria?
+50;Regional: Production country: is it Brasil?
+51;Regional: Production country: is it Canada?
+52;Regional: Production country: is it Denmark?
+53;Regional: Production country: is it France?
+54;Regional: Production country: is it Germany?
+55;Regional: Production country: is it Hong Kong?
+56;Regional: Production country: is it India?
+57;Regional: Production country: is it Ireland?
+58;Regional: Production country: is it Italy?
+59;Regional: Production country: is it Japan?
+60;Regional: Production country: is it Mexico?
+61;Regional: Production country: is it New Zealand?
+62;Regional: Production country: is it Poland?
+63;Regional: Production country: is it South Africa?
+64;Regional: Production country: is it Spain?
+65;Regional: Production country: is it Sweden?
+66;Regional: Production country: is it Switzerland?
+67;Regional: Production country: is it Taiwan?
+68;Regional: Production country: is it United Kingdom?
+69;Regional: Production country: is it USA?
+70;Regional: Production country: set
+71;Regional: Spoken languages: is there Afrikaans?
+72;Regional: Spoken languages: is there Arabic?
+73;Regional: Spoken languages: is there Chichewa?
+74;Regional: Spoken languages: is there Chinese (with incorrect code)?
+75;Regional: Spoken languages: is there Chinese?
+76;Regional: Spoken languages: is there Czech?
+77;Regional: Spoken languages: is there Danish?
+78;Regional: Spoken languages: is there English?
+79;Regional: Spoken languages: is there Esperanto?
+80;Regional: Spoken languages: is there French?
+81;Regional: Spoken languages: is there German?
+82;Regional: Spoken languages: is there Greek?
+83;Regional: Spoken languages: is there Hebrew?
+84;Regional: Spoken languages: is there Hindi?
+85;Regional: Spoken languages: is there Hungarian?
+86;Regional: Spoken languages: is there Irish?
+87;Regional: Spoken languages: is there Italian?
+88;Regional: Spoken languages: is there Japanese?
+89;Regional: Spoken languages: is there Latin?
+90;Regional: Spoken languages: is there Nepali?
+91;Regional: Spoken languages: is there Norwegian?
+92;Regional: Spoken languages: is there Persian?
+93;Regional: Spoken languages: is there Polish?
+94;Regional: Spoken languages: is there Portuguese?
+95;Regional: Spoken languages: is there Russian?
+96;Regional: Spoken languages: is there Scottish Gaelic?
+97;Regional: Spoken languages: is there Southern Sotho?
+98;Regional: Spoken languages: is there Spanish?
+99;Regional: Spoken languages: is there Swedish?
+100;Regional: Spoken languages: is there Tamil?
+101;Regional: Spoken languages: is there Thai?
+102;Regional: Spoken languages: is there Turkish?
+103;Regional: Spoken languages: is there Urdu?
+104;Regional: Spoken languages: is there Vietnamese?
+105;Regional: Spoken languages: is there Xhosa?
+106;Regional: Spoken languages: is there Yiddish?
+107;Regional: Spoken languages: is there Zulu?
+108;TMDB votes: average
+109;TMDB votes: count

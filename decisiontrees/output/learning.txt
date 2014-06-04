@@ -1,0 +1,57 @@
+Zastosowane przez nas drzewa decyzyjne mają za zadanie wskazać etykietę
+będącą liczbą naturalną z przedziału [0;5] dla dowolnego wektora cech
+opisującego zadany film. Oczywiście dla każdego filmu zawartego w zbiorze
+treningowym ocena wygenerowana przez drzewo musi się zgadzać z oryginalną
+oceną.
+
+Nasze drzewa decyzyjne działają wyłącznie na cechcach będących
+wartościami logicznymi. Dlatego cechy z poprzednich zadań
+musiały zostać odpowiednio sparsowane i -- w wielu przypadkach --
+rozbite na wiele cech logicznych. W rezultacie z 41 cech
+wybranych przez nas ręcznie powstało w sumie 1292 cech,
+zaś 77 cech wybranych automatycznie z szerokiego zbioru
+powstało 5411 cech logicznych. Rozbijanie na cechy logiczne
+odbywało się w następujący sposób:
+ * Cechy logiczne zostały po prostu skopiowane.
+ * Dla każdej cechy liczbowej obliczony został histogram
+   po wszystkich próbkach, dzięki czemu można było wyekstrachować
+   po 9 cech typu "czy wartość jest mniejsza niż k-ty decyl".
+   Dzięki temu im bliżej siebie są dwie wartości liczbowe,
+   tym więcej powstałych w ten sposób wartości logicznych
+   będzie miało jednakową wartość dla obu z nich.
+ * Dla każdej cechy będącej zbiorem zbadano, jakie elementy
+   występują w różnych zbiorach będących wartościami cech.
+   Dla każdego elementu występującego w przynajmniej jednym
+   zbiorze powstała w ten sposób cecha logiczna typu
+   "czy dana próbka zawiera w odpowiadającym sobie zbiorze
+   ten element".
+ * Cechy tekstowe zostały przetworzone na zbiór słów poddanych
+   stemizacji, z zastosowaniem stoplisty. Dla powstałego
+   w ten sposób zbioru zastosowano metodę opisaną w poprzednim
+   punkcie.
+
+Zastosowany przez nas algorytm polega na tym, że na każdym etapie
+rozważane są dwa podprzedziały etykiet, dobierane w taki sposób
+aby próbki ze zboiru testowego rozważane w danym poddrzewie
+były możliwie równo rozłożone między podprzedziały etykiet.
+Np. najwyższe węzły drzewa z reguły starają się podzielić
+próbki ze zbioru treningowego na przypadki "vote<3" oraz
+"vote>=3". Oczywiście w pewnym momencie rozważane podprzedziały
+stają się jednoelementowe, dzięki czemu zamiast kolejnych
+poddrzew rozważających mniejsze podprzedziały wreszcie osiągane
+są liście.
+
+Sama metoda rozstrzygania, jakie kryterium ma decydować o przypisaniu
+danej próbce etykiety z jednego z dwóch podprzedziałów, to po prostu
+algorytm Iterative Dichotomiser 3 (ID3). Kryterium według którego
+próbki dzielone są na poddrzewa to po prostu prawdziwość
+pewnej cechy, która nie została wybrana przez żadnego przodka
+danego węzła.
+
+
+Dla każdego użytkownika generujemy drzewo decyzyjne w oparciu
+o jego głosy ze zbioru treningowego. Wygenerowane drzewo pozwala
+bardzo szybko wskazać etykiety dla dowolnej próbki. Stosując
+wektory cech filmów wskazanych w zapytaniach ze zbioru testowego,
+wyznaczamy oceny które użytkownik miałby wystawić tym filmom
+w myśl zastosowanego algorytmu.
