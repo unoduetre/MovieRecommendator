@@ -2,9 +2,21 @@
 # -*- coding: utf-8 -*-
 
 import sys, os
+import time
 import numpy as np
 import random
 from ArrayBasedBoundedPriorityQueue import ArrayBasedBoundedPriorityQueue
+
+
+def formatTime(t):
+  c = int(t * 100 + 0.5) % 100
+  s = int(t) % 60
+  m = int(t / 60) % 60
+  h = int(t / 3600)
+  ret = '%d.%.2ds' % (s, c)
+  if m: ret = '%dm %s' % (m, ret)
+  if h: ret = '%dh %s' % (h, ret)
+  return ret
 
 
 class VoteGuesser(object):
@@ -56,15 +68,19 @@ class VoteGuesser(object):
   """Calculate some self-validation statistics"""
   def calculateReguessHistogram(self):
     errHistogram = [0 for _ in range(6)]
-    for userId in self.userData:
+    t0 = time.time()
+    usersCount = len(self.userData.keys())
+    for usersDone, userId in enumerate(self.userData.keys()):
       for movieId in self.userData[userId]:
         realVote = self.userData[userId][movieId]
         del self.userData[userId][movieId]
         guessedVote = self.makeVote(userId, movieId)
         self.userData[userId][movieId] = realVote
         err = abs(guessedVote - realVote)
-        print(err, userId, movieId)
         errHistogram[err] += 1
+      avgUserTime = (time.time() - t0) / (usersDone + 1)
+      print('%.2f%% done;' % (100.0 * (usersDone + 1) / usersCount), 'ETA:', formatTime(avgUserTime * (usersCount - (usersDone + 1))), end=' \r', file=sys.stderr)
+    print(file=sys.stderr)
     return errHistogram
   
   """This number is a good measure of how good the method is (the lower the better)"""
