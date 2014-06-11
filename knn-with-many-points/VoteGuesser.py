@@ -59,6 +59,7 @@ class VoteGuesser(object):
     for l in filter(None, map(lambda l: l.strip(), open(self.taskFn, 'rt').readlines())):
       w = l.split(';')
       pisiId = int(w[0])
+      print(pisiId)
       userId = int(w[1])
       movieId = int(w[2])-1 # for 0-indexing
       vote = self.makeVote(userId, movieId)

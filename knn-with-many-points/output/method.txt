@@ -1,0 +1,85 @@
+Zastosowana przez nas metoda polega na tym, aby przy decydowaniu o tym, jaką
+ocenę przyporządkować zapytaniu określającym użytkownika i film brać pod
+uwagę wszystkie informacje ze zbioru treningowego, niezależnie od tego jakiego
+użytkownika oraz jakiego filmu one dotyczą, a następnie zastosować klasyfikator
+k-NN do wyznaczania szukanej oceny. Zwracana ocena będzie średnią ze znanych
+ocen dla trzech próbek ze zbioru treningowego, które są najbliższe próbce
+z zapytania. Przez próbkę rozumiemy tutaj parę (użytkownik, film).
+
+Elementem wymagającym naszej własnej interpretacji jest tutaj określenie, co
+rozumiemy przez "najbliższe próbki". Podobieństwo między próbkami definiujemy
+jako średnią ważoną z kilku podobieństw cząstkowych (dotyczących podobieństwa
+między użytkownikami lub podobieństwa między filmami). W szczególności,
+waga cech związanych z filmami dążąca do 1 (przy zachowaniu proporcji między
+cechami dotyczących podobieństwa użytkowników) oznaczałoby wybieranie próbek
+tylko spośród tych, które dotyczą tego samego filmu (i k-NN wskazałby oceny
+najpodobniejszych użytkowników). Z kolei sprowadzenie wag związanych z filmami
+do 0 prowadziłoby do tego, że brane pod uwagę byłyby tylko oceny od tego samego
+użytkownika (jedynie sam użytkownik jest do siebie podobny w stopniu 1)
+-- to z kolei byłoby równoważne poprzednim zadaniom. Przypuszczamy jednak,
+że wagi wskazane przez nas na drodze eksperymentu będą rozwiązaniem pośrednim,
+lepszym od którejkolwiek ze skranych opcji.
+
+Miara podobieństwa między filmami została dobrze opracowana w ramach poprzednich
+zadań, więc teraz po prostu skorzystamy z niej (w kontekście niniejszego zadania
+filmów będzie dotyczyło zatem tylko jedno z podobieństw cząstkowych). Ma to sens,
+gdyż prawidłowość miary dotyczącej filmów mogłabyć oceniana niezależnie od reszty
+zadania. Inaczej jest w przypadku podobieństwa pomiędzy użytkownikami, które naszym
+zdaniem może być ocenione jedynie w zestawieniu z podobieństwem filmów (w innym
+wypadku byłoby to kłopotliwe).
+
+Niech A, B będą użytkownikami. Weźmiemy pod uwagę następujące związane z nimi miary
+podobieństwa:
+
+U1: Niech fMax będzie największą liczbą filmów, jaką widziała pewna para różnych
+    użytkowników.
+    Jeżeli A=B, to wymuszamy U1(A,B)=1.
+    W przeciwnym wypadku U1(A,B) = f(A, B) / (fMax + 1),
+        gdzie f(A, B) to liczba takich filmów, które widzieli obaj użytkownicy.
+
+U2: Niech g(A, B) oznacza liczbę filmów, które widział przynajmniej jeden
+    z użytkowników A, B. Niniejsza miara będzie po prostu miarą podobieństwa
+    Jaccarda na zbiorach filmów widzianych przez obu użytkowników, czyli
+    U(A, B) = f(A, B) / g(A, B) gdy g(A, B) != 0
+                              0 w przeciwnym wypadku.
+
+U3: Jeśli U1=0, to wymuszamy także U3=0.
+    Niech Ed(A, B) oznacza wartość oczekiwaną modułu różnicy między oceną
+    wystawioną przez użytkownika A a oceną wystawioną przez użytkownika B na
+    zbiorze filmów, które widzieli obaj użytkownicy. Wówczas:
+    U3(A, B) = 1 - (Ed(A, B) / 5)
+    (dzięki temu jest to liczba z przedziału [0;1] i U3(A,A)=1)
+
+Można zwrócić uwagę, że miary U1 oraz U2 są do siebie podobne (obie wszakże
+dotyczą tego, jak bardzo podobne są do siebie zbiory filmów widzianych
+przez każdego z użytkowników). Podejście do tego zagadnienia w przypadku
+kazdej z tych miar jest jednak nieco inne, więc dobór odpowiednich wag
+(być może przypisanie którejś z tych miar wagi 0?) powinien rozstrzygnąć,
+jakie podejście do tematu jest najbardziej skuteczne.
+
+Rozważmy próbki (A, mA) oraz (B, mB), gdzie A,B - użtytkownicy, mA,mB - filmy.
+Niech M oznacza miarę podobieństwa między filmami. Miarę podobieństwa
+między próbkami definiujemy jako:
+
+S((A, mA), (B, mB)) = wM * M(mA, mB) + wU1 * U1(A, b) + wU2 * U2(A, b) \
+                      + wU3 * U3(A, b)
+
+Gdzie wM, wU1, wU2 i wU3 to liczby dodatnie sumujące się do 1.
+
+Na drodze eksperymentu wksazaliśmy wartości wag dające najmniejszy
+błąd na zbiorze treningowym (dla każdej próbki ze zbioru treningowego:
+uzuwamy ją, odgagujemy ocenę dla niej na podstawie pozostałych próbek,
+a następnie dodajemy ją ponownie), którego miarą była wartość
+oczekiwana modułu różnicy pomiędzy oceną zawartą w zbiorze treningowym,
+a oceną wskaznaą przez nasz algorytm. Niniejsza wartość oczekiwana
+wyniosła około 0.6570 gwiazdki dla wag:
+
+wM  = 0.65
+wU1 = 0.005
+wU2 = 0.005
+wU3 = 0.34
+
+Przetestowane przez nas wagi o podobnych wartościach (różniących się
+w którąkolwiek ze stron) dawały wyniki gorsze, więc możemy tutaj
+mówić o bliskości ekstremum lokalnego.
+

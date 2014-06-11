@@ -35,8 +35,10 @@ def main():
   combinedData = CombinedData(featuresData, usersData)
   voteGuesser = VoteGuesser(combinedData, k=3)
   
-  print('Average error:', voteGuesser.calculateReguessExpectedError())
-  print('Tested weights', combinedData.weights)
+  voteGuesser.solveTask(outputFn='./output/task1.csv')
+  
+  # print('Average error:', voteGuesser.calculateReguessExpectedError())
+  # print('Tested weights', combinedData.weights)
 
 
 if __name__ == '__main__':

@@ -10,7 +10,7 @@ class CombinedData(object):
   def __init__(self, featuresData, usersData):
     self.featuresData = featuresData
     self.usersData = usersData
-    self.weights = np.array([0.0, 1.0/3.0, 1.0/3.0, 1.0/3.0], dtype=np.float64)
+    self.weights = np.array([0.65,  0.005,  0.005,  0.34], dtype=np.float64)
   
   """"""
   def similarity(self, objA, objB):
