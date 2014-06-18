@@ -20,6 +20,14 @@ def formatTime(t):
 
 
 class VoteGuesser(object):
+  """
+    combinedData -- CombinedData object (contains information about users and movies)
+    k -- k parameter for k-NN
+    trainFn -- filename for training data
+    taskFn -- filename for test data
+    userData -- dictionary: userId -> (dictionary movieId -> vote[0;5])
+    
+  """
   
   """Constructor"""
   def __init__(self, combinedData, k=3, trainFn='./resources/dataset/train.csv', taskFn='./resources/dataset/task.csv'):
@@ -59,11 +67,12 @@ class VoteGuesser(object):
     for l in filter(None, map(lambda l: l.strip(), open(self.taskFn, 'rt').readlines())):
       w = l.split(';')
       pisiId = int(w[0])
-      print(pisiId)
       userId = int(w[1])
       movieId = int(w[2])-1 # for 0-indexing
       vote = self.makeVote(userId, movieId)
       outputFh.write('%d;%d;%d;%d\n' % (pisiId, userId, movieId+1, vote))
+      print('Current pisiId: %d' % pisiId, end='   \r', file=sys.stderr)
+    print(file=sys.stderr)
     outputFh.close()
   
   """Calculate some self-validation statistics"""

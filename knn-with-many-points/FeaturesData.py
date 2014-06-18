@@ -6,6 +6,19 @@ import numpy as np
 import importlib.machinery
 
 class FeaturesData(object):
+  """
+     featureIdsByName -- dict: featureName -> featureId
+     featuresCount -- number of features
+     featureNamesById -- list: featureId -> featureName
+     data -- list of lists: for each movieId, for each featureIf: raw feature
+     featureSupportByName -- dict: feature name -> plugin instance
+     featureSupportById -- dict: feature id -> plugin instance
+     extractedData -- list of lists: for each movieId, for each featureIf: extracted feature
+     weights -- array of doubles: weight of each feature
+     subsimilaritiesMatrix -- 3d array: for each pair of movieIds, for each featureId -> subsimilarity between the movies based of feature #featureId
+     similaritiesMatrix -- 2d array: for each pair of movieIds -> similarity between the movies
+     mask -- array of booleans -- for each feature: is it actually used?
+  """
   
   """Constructor"""
   def __init__(self, featuresFn='./resources/features/feature.csv', dataFn='./resources/features/data.csv', weightsFn='./resources/features/weight.csv'):

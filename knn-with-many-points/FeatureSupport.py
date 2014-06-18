@@ -4,6 +4,12 @@
 from FeaturesData import *
 
 class FeatureSupport(object):
+  """
+     [abstract class; plugins for feature data extraction and similarity calculation inherit from here]
+     featuresData -- FeaturesData object
+     featureId -- which feature does the plugin cover
+  """
+  
   def __init__(self, featuresData, featureId):
     self.featuresData = featuresData
     self.featureId = featureId

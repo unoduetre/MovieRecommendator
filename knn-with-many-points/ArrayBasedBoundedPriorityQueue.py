@@ -4,6 +4,11 @@
 from BoundedPriorityQueue import *
 
 class ArrayBasedBoundedPriorityQueue(BoundedPriorityQueue):
+  """
+     k -- maximum size of the queue (only k best elementes are held)
+     array -- list of elements
+  """
+  
   def __init__(self, k):
     BoundedPriorityQueue.__init__(self, k)
     self.array = []

@@ -5,6 +5,18 @@ import sys, os
 import numpy as np
 
 class UsersData(object):
+  """
+     trainFn -- filename for training data
+     [userPisiId is from provided csv files; userId is 0..usersCount-1]
+     userDataByPisiId -- dict: userPisiId -> userData (where userData -- dict: movieId -> vote)
+     userPisiIds -- list: userId -> userPisiId
+     userIdsByPisiId -- dict: userPisiId -> userId
+     userData -- list: userId -> userData (where userData -- dict: movieId -> vote)
+     usersCount -- number of users
+     sharedCountsMatrix -- 2d array: value of feature based on number of shared movies for each pair of users
+     watchedJaccardMatrix -- 2d array: value of Jaccard-based feature for each pair of users
+     votesSimilarityMatrix -- 2d array: value of feature based on votes similarity for each pair of users
+  """
   
   """Constructor"""
   def __init__(self, trainFn='./resources/dataset/train.csv'):

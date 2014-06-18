@@ -5,6 +5,11 @@ import sys, os
 import numpy as np
 
 class CombinedData(object):
+  """
+     featuresData -- FeaturesData object (everything about movies)
+     usersData -- UsersData object
+     weights -- array of 4 doubles: movies weight, user-shared-count weight, user-jaccard weight, user-votes-similarity weight
+  """
   
   """Constructor"""
   def __init__(self, featuresData, usersData):

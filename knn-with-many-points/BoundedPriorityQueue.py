@@ -2,6 +2,10 @@
 # -*- coding: utf-8 -*-
 
 class BoundedPriorityQueue(object):
+  """
+     k -- maximum size of the queue (only k best elementes are held)
+  """
+  
   def __init__(self, k):
     assert type(k) == int and k > 0
     self.k = k
